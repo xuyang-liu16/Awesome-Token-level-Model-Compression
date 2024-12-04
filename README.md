@@ -1,2 +1,1 @@
-# Awesome-Token-level-Model-Compression
-📚 Collection of token-level model compression resources.
+# Awesome Token-level Model Compression
