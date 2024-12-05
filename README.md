@@ -1,3 +1,3 @@
 <div align=center>
 
-# Awesome Token-level Model Compression 🚀
+# 🔎 Awesome Token-level Model Compression 🚀
