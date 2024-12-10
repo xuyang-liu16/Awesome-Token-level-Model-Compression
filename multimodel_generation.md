@@ -1,91 +1,121 @@
-Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Informatio
-https://arxiv.org/abs/2409.01179
 
-SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference   
-https://arxiv.org/abs/2410.04417
+- **[1] Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2409.01179)] [Code] ![](https://img.shields.io/badge/Recoverable_Compression-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Recovery-orange)
 
-LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models
-https://arxiv.org/abs/2403.15388
+- **[2] SparseVLM: Visual Token Sparsification for Efficient Vision-Language Model Inference**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2410.04417)] [Code] ![](https://img.shields.io/badge/SparseVLM-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Sparsification-orange)
 
-ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression
-https://arxiv.org/abs/2410.08584
+- **[3] LLaVA-PruMerge: Adaptive Token Reduction for Efficient Large Multimodal Models**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2403.15388)] [Code] ![](https://img.shields.io/badge/LLaVA_PruMerge-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Reduction-orange)
 
-PuMer: Pruning and Merging Tokens for Efficient Vision Language Models ACL 2023
-https://arxiv.org/abs/2305.17530 
+- **[4] ZipVL: Efficient Large Vision-Language Models with Dynamic Token Sparsification and KV Cache Compression**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2410.08584)] [Code] ![](https://img.shields.io/badge/ZipVL-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Sparsification-orange)
 
-Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs
-https://arxiv.org/abs/2409.10994
-https://github.com/FreedomIntelligence/TRIM/
+- **[5] PuMer: Pruning and Merging Tokens for Efficient Vision Language Models**, ACL 2023.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2305.17530)] [Code] ![](https://img.shields.io/badge/PuMer-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
+- **[6] Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2409.10994)] [[Code](https://github.com/FreedomIntelligence/TRIM/)] ![](https://img.shields.io/badge/LessIsMore-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Reduction-orange)
 
-Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models
-https://arxiv.org/abs/2409.10197
+- **[7] Fit and Prune: Fast and Training-free Visual Token Pruning for Multi-modal Large Language Models**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2409.10197)] [Code] ![](https://img.shields.io/badge/Fit_and_Prune-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-Accelerating Transformers with Spectrum-Preserving Token Merging NeurIPS 2024
-https://arxiv.org/abs/2405.16148
+- **[8] Accelerating Transformers with Spectrum-Preserving Token Merging**, NeurIPS 2024.  
+  *Hoai-Chau Tran, Duy M. H. Nguyen, Duy M. Nguyen, Trung-Tin Nguyen, Ngan Le, Pengtao Xie, Daniel Sonntag, James Y. Zou, Binh T. Nguyen, Mathias Niepert.*  
+  [[Paper](https://arxiv.org/abs/2405.16148)] [Code] ![](https://img.shields.io/badge/SP_Merging-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-Multimodal Token Fusion for Vision Transformers CVPR2022
-https://arxiv.org/abs/2204.08721
+- **[9] Multimodal Token Fusion for Vision Transformers**, CVPR 2022.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2204.08721)] [Code] ![](https://img.shields.io/badge/TokenFusion-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Fusion-orange)
 
-Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model
-https://arxiv.org/abs/2411.10803
+- **[10] Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2411.10803)] [Code] ![](https://img.shields.io/badge/MultiStage_TokenDrop-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Dropping-orange)
 
-MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer CVPR2024
-https://arxiv.org/abs/2403.02991
+- **[11] MADTP: Multimodal Alignment-Guided Dynamic Token Pruning for Accelerating Vision-Language Transformer**, CVPR 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2403.02991)] [Code] ![](https://img.shields.io/badge/MADTP-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models
-https://arxiv.org/abs/2411.15024
+- **[12] DyCoke: Dynamic Compression of Tokens for Fast Video Large Language Models**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2411.15024)] [Code] ![](https://img.shields.io/badge/DyCoke-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Compression-orange)
 
-ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models
-https://arxiv.org/abs/2412.00447
+- **[13] ATP-LLaVA: Adaptive Token Pruning for Large Vision Language Models**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2412.00447)] [Code] ![](https://img.shields.io/badge/ATP_LLaVA-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning
-https://arxiv.org/abs/2412.03248
+- **[14] AIM: Adaptive Inference of Multi-Modal LLMs via Token Merging and Pruning**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2412.03248)] [Code] ![](https://img.shields.io/badge/AIM-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-[CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster
-https://arxiv.org/abs/2412.01818
+- **[15] [CLS] Attention is All You Need for Training-Free Visual Token Pruning: Make VLM Inference Faster**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2412.01818)] [Code] ![](https://img.shields.io/badge/CLS_Attention-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-vid-TLDR: Training Free Token Merging for Light-weight Video Transformer CVPR2024
-https://openaccess.thecvf.com/content/CVPR2024/html/Choi_vid-TLDR_Training_Free_Token_Merging_for_Light-weight_Video_Transformer_CVPR_2024_paper.html
+- **[16] vid-TLDR: Training Free Token Merging for Light-weight Video Transformer**, CVPR 2024.  
+  *Choi.*  
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Choi_vid-TLDR_Training_Free_Token_Merging_for_Light-weight_Video_Transformer_CVPR_2024_paper.html)] [Code] ![](https://img.shields.io/badge/vid_TLDR-blue) ![](https://img.shields.io/badge/VideoProcessing-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-Video Token Sparsification for Efficient Multimodal LLMs in Autonomous Driving
-https://arxiv.org/abs/2409.11182
+- **[17] Video Token Sparsification for Efficient Multimodal LLMs in Autonomous Driving**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2409.11182)] [Code] ![](https://img.shields.io/badge/Token_Sparsification-blue) ![](https://img.shields.io/badge/AutonomousDriving-green) ![](https://img.shields.io/badge/MultiModal-green)
 
-DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models
-https://arxiv.org/abs/2405.20985
+- **[18] DeCo: Decoupling Token Compression from Semantic Abstraction in Multimodal Large Language Models**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2405.20985)] [Code] ![](https://img.shields.io/badge/DeCo-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Compression-orange)
 
-ELIP: Efficient Language-Image Pre-training with Fewer Vision Tokens
-https://arxiv.org/abs/2309.16738
+- **[19] ELIP: Efficient Language-Image Pre-training with Fewer Vision Tokens**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2309.16738)] [Code] ![](https://img.shields.io/badge/ELIP-blue) ![](https://img.shields.io/badge/LanguageImage-green) ![](https://img.shields.io/badge/Token_Reduction-orange)
 
-FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression
-https://arxiv.org/abs/2411.14228
+- **[20] FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2411.14228)] [Code] ![](https://img.shields.io/badge/FocusLLaVA-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Compression-orange)
 
-TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval
-https://arxiv.org/abs/2409.01156
+- **[21] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2409.01156)] [Code] ![](https://img.shields.io/badge/TempMe-blue) ![](https://img.shields.io/badge/TextVideo-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration
-https://arxiv.org/abs/2411.17686
+- **[22] Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2411.17686)] [Code] ![](https://img.shields.io/badge/Unified_Token_Reduction-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/TrainingFree-orange)
 
-Accelerating Multimodel Large Language Models by Searching Optimal Vision Token Reduction
-https://arxiv.org/abs/2412.00556
+- **[23] Accelerating Multimodal Large Language Models by Searching Optimal Vision Token Reduction**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2412.00556)] [Code] ![](https://img.shields.io/badge/Optimal_Token_Reduction-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Reduction-orange)
 
-Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See
-https://arxiv.org/abs/2410.06169
+- **[24] Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2410.06169)] [Code] ![](https://img.shields.io/badge/Treat_Visual_as_Text-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Token_Reduction-orange)
 
-An image is worth 1/2 tokens after layer 2: Plug-and-play inference acceleration for large vision-language models ECCV2024
-https://link.springer.com/chapter/10.1007/978-3-031-73004-7_2
+- **[25] An Image is Worth 1/2 Tokens After Layer 2: Plug-and-Play Inference Acceleration for Large Vision-Language Models**, ECCV 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73004-7_2)] [Code] ![](https://img.shields.io/badge/1_2_Tokens-blue) ![](https://img.shields.io/badge/Plug_and_Play-green) ![](https://img.shields.io/badge/Token_Reduction-orange)
 
-Is Less More? Exploring Token Condensation as Training-free Adaptation for CLIP
-https://arxiv.org/abs/2410.14729
+- **[26] Is Less More? Exploring Token Condensation as Training-Free Adaptation for CLIP**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2410.14729)] [Code] ![](https://img.shields.io/badge/Token_Condensation-blue) ![](https://img.shields.io/badge/CLIP-green) ![](https://img.shields.io/badge/TrainingFree-orange)
 
-Efficient Video Action Detection with Token Dropout and Context Refinement ICCV2023
-https://arxiv.org/abs/2304.08451
+- **[27] Efficient Video Action Detection with Token Dropout and Context Refinement**, ICCV 2023.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2304.08451)] [Code] ![](https://img.shields.io/badge/Token_Dropout-blue) ![](https://img.shields.io/badge/Video_Action-green) ![](https://img.shields.io/badge/Context_Refinement-orange)
 
-PAR: Prompt-Aware Token Reduction Method for Efficient Large Multimodal Models
-https://arxiv.org/abs/2410.07278
+- **[28] PAR: Prompt-Aware Token Reduction Method for Efficient Large Multimodal Models**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2410.07278)] [Code] ![](https://img.shields.io/badge/PAR-blue) ![](https://img.shields.io/badge/Prompt_Aware-green) ![](https://img.shields.io/badge/Token_Reduction-orange)
 
-Inference Optimal VLMs Need Only One Visual Token but Larger Models
-https://arxiv.org/abs/2411.03312
+- **[29] Inference Optimal VLMs Need Only One Visual Token but Larger Models**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2411.03312)] [Code] ![](https://img.shields.io/badge/One_Visual_Token-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/InferenceOptimal-orange)
 
-HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments
-https://arxiv.org/abs/2408.10945
+- **[30] HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models in Resource-Constrained Environments**, arXiv 2024.  
+  *Authors unavailable.*  
+  [[Paper](https://arxiv.org/abs/2408.10945)] [Code] ![](https://img.shields.io/badge/HiRED-blue) ![](https://img.shields.io/badge/High_Resolution-green) ![](https://img.shields.io/badge/Token_Dropping-orange)
+
