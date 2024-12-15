@@ -119,3 +119,12 @@ Context compression for auto-regressive transformers with sentinel tokens
 Imagefolder: Autoregressive image generation with folded tokens
 An Image is Worth 32 Tokens for Reconstruction and Generation
 Keyformer: Kv cache reduction through key tokens selection for efficient generative inference   
+VidToMe: Video Token Merging for Zero-Shot Video Editing
+Accelerating Transformers with Spectrum-Preserving Token Merging
+An Image is Worth 32 Tokens for Reconstruction and Generation
+Importance-based Token Merging for Diffusion Models
+Individual Content and Motion Dynamics Preserved Pruning for Video Diffusion Models
+Accelerating Diffusion Transformers with Token-wise Feature Caching
+Multistage Compression Optimization Strategies for Accelerating Diffusion Models
+Accelerating auto-regressive text-to-image generation with training-free speculative jacobi decoding
+ZePo: Zero-Shot Portrait Stylization with Faster Sampling
