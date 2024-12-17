@@ -6,36 +6,9 @@
 # 🔎 Awesome Token-level Model Compression 🚀
 
 
-https://arxiv.org/abs/2304.10716
-
-Exploring Token Pruning in Vision State Space Models
-
-Multi-Scale And Token Mergence: Make Your ViT More Efficient
-
-Adaptive Sparse ViT: Towards Learnable Adaptive Token Pruning by Fully Exploiting Self-Attention 
-
-Token Merging with Class Importance Score IEEE2023
-
-Token Merging with Class Importance Score  ICLR
-
-Revisiting Token Pruning for Object Detection and Instance Segmentation IEEE2023workshop
-
-Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition NeurIPS 2021
-
-Bridging The Gaps Between Token Pruning and Full Pre-training via Masked Fine-tuning
 
 Training-Free Visual Token Compression via Delayed Spatial Merging NeurIPS 2024
 https://openreview.net/forum?id=4JXo4wOUfQ
-
-Token Merging: Your ViT But Faster ICLR 2023 Oral
-https://arxiv.org/abs/2210.09461
-
-Token Cropr: Faster ViTs for Quite a Few Tasks
-https://arxiv.org/abs/2412.00965
-
-LookupViT: Compressing Visual Information to a Limited Number of Tokens ECCV2024
-https://link.springer.com/chapter/10.1007/978-3-031-73016-0_19
-
 
 Exploring Token Pruning in Vision State Space Models NeurIPS2021
 https://arxiv.org/abs/2409.18962
@@ -56,9 +29,6 @@ Prune Spatio-temporal Tokens by Semantic-aware Temporal Accumulation ICCV 2023
 https://arxiv.org/abs/2308.04549
 
 Learned Token Pruning for Transformers 
-
-PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference
-https://arxiv.org/abs/2407.05010
 
 Token Sparsification for Faster Medical Image Segmentation
 https://arxiv.org/abs/2303.06522
