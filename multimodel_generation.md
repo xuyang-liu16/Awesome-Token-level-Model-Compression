@@ -119,3 +119,16 @@
   *Authors unavailable.*  
   [[Paper](https://arxiv.org/abs/2408.10945)] [Code] ![](https://img.shields.io/badge/HiRED-blue) ![](https://img.shields.io/badge/High_Resolution-green) ![](https://img.shields.io/badge/Token_Dropping-orange)
 
+Dynamic-VLM: Simple Dynamic Visual Token Compression for VideoLLM
+
+Turbo: Informativity-Driven Acceleration Plug-In for Vision-Language Large Models
+https://link.springer.com/chapter/10.1007/978-3-031-72952-2_25
+
+IVTP: Instruction-Guided Visual Token Pruning for Large Vision-Language Models ECCV2024
+https://link.springer.com/chapter/10.1007/978-3-031-72643-9_13
+
+Accelerating Transformers with Spectrum-Preserving Token Merging NeurIPS 2024
+https://arxiv.org/abs/2405.16148
+
+DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models 
+https://arxiv.org/abs/2412.04446
