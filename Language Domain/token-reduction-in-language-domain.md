@@ -1,0 +1,152 @@
+- Earlier
+	- What is linguistic redundancy
+- 2016
+	- Phased lstm: Accelerating recurrent network training for long or event-based sequences
+	- Hierarchical question answering for long documents
+	- Reasonet: Learning to stop reading in machine comprehension
+- 2017
+	- Learning to skim text
+	- Learning when to skim and when to read
+	- Training a subsampling mechanism in expectation
+	- Variable computation in recurrent neural networks
+- 2018
+	- Neural speed reading via skim-rnn
+	- Skip rnn: Learning to skip state updates in recurrent neural networks
+	- Accelerating neural transformer via an average attention network
+	- Generating wikipedia by summarizing long sequences
+- 2019
+	- Compressive transformers for long-range sequence modelling
+	- Transformer-XL: Attentive language models beyond a fixed-length context
+	- Neural speed reading with structural-jump-lstm
+- 2020
+	- PoWER-BERT: Accelerating BERT Inference via Progressive Word-vector Elimination
+	- Funnel-transformer: Filtering out sequential redundancy for efficient language processing
+	- Multi-scale Transformer Language Models
+	- Reformer: The efficient transformer
+	- Spying on your neighbors: Fine-grained probing of contextual embeddings for information about surrounding words
+	- How contextual are contextualized word representations? Comparing the geometry of BERT, ELMo, and GPT-2 embeddings
+	- DeFormer: Decomposing pre-trained transformers for faster question answering
+	- Attention is not only a weight: Analyzing transformers with vector norms
+- 2021
+	- Learned Token Pruning for Transformers
+	- TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference
+	- Poolingformer: Long document modeling with pooling attention
+	- Length-adaptive transformer: Train once with length drop, use anytime with search
+	- Efficient content-based sparse attention with routing transformers
+	- Block-skim: Efficient question answering for transformer
+	- Not all memories are created equal: Learning to forget by expiring
+	- On the transformer growth for progressive bert training
+	- Memory-efficient Transformers via Top-$ k $ Attention
+	- Magic pyramid: Accelerating inference with early exiting and token pruning
+	- El-attention: Memory efficient lossless attention for generation
+- 2022
+	- Prompt compression and contrastive conditioning for controllability and toxicity reduction in language models
+	- Memorizing transformers
+	- Transkimmer: Transformer learns to layer-wise skim
+	- Adapler: Speeding up inference by adaptive length reduction
+	- Extensible prompts for language models on Zero-shot Language Style Customization
+	- Efficient long-text understanding with short-text models
+	- Fine-and coarse-granularity hybrid self-attention for efficient bert
+- 2023
+	- Focus on the Core: Efficient Attention via Pruned Token Compression for Document Classification
+	- Compressing context to enhance inference efficiency of large language models
+	- Did you read the instructions? rethinking the effectiveness of task definitions in instruction learning
+	- Llmlingua: Compressing prompts for accelerated inference of large language models
+	- Longllmlingua: Accelerating and enhancing llms in long context scenarios via prompt compression
+	- Learning to compress prompts with gist tokens
+	- Adapting language models to compress contexts
+	- Unlocking context constraints of llms: Enhancing context efficiency of llms with self-information-based content filtering
+	- Inference with reference: Lossless acceleration of large language models
+	- In-context autoencoder for context compression in a large language model
+	- Efficient prompting via dynamic in-context learning
+	- Nugget: Neural agglomerative embeddings of text
+	- Unlimiformer: Long-range transformers with unlimited length input
+	- Walking down the memory maze: Beyond context limit through interactive reading
+	- Sparse token transformer with attention back tracking
+	- Efficient streaming language models with attention sinks
+	- Scissorhands: Exploiting the persistence of importance hypothesis for llm kv cache compression at test time
+	- H2o: Heavy-hitter oracle for efficient generative inference of large language models
+	- Model tells you what to discard: Adaptive kv cache compression for llms
+	- Sparq attention: Bandwidth-efficient llm inference
+	- Landmark attention: Random-access infinite context length for transformers
+	- Optimizing retrieval-augmented reader models via token elimination
+	- Efficient transformers with dynamic token pooling
+- 2024
+	- FTP: A Fine-grained Token-wise Pruner for Large Language Models via Token Routing
+	- Discrete prompt compression with reinforcement learning
+	- Hierarchical context merging: Better long context understanding for pre-trained LLMs
+	- LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference
+	- Dynamic context pruning for efficient and interpretable autoregressive transformers
+	- You only cache once: Decoder-decoder architectures for language models
+	- Reducing Transformer Key-Value Cache Size with Cross-Layer Attention
+	- Goldfinch: High performance rwkv/transformer hybrid with linear pre-fill and extreme kv-cache compression
+	- Long-context language modeling with parallel context encoding
+	- LM-Infinite: Zero-Shot Extreme Length Generalization for Large Language Models
+	- Transformers are multi-state rnns
+	- PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference
+	- Pyramidkv: Dynamic kv cache compression based on pyramidal information funneling
+	- Keyformer: Kv cache reduction through key tokens selection for efficient generative inference
+	- Finch: Prompt-guided key-value cache compression
+	- A2sf: Accumulative attention scoring with forgetting factor for token pruning in transformer decoder
+	- Think: Thinner key cache by query-driven pruning
+	- Razorattention: Efficient kv cache compression through retrieval heads
+	- SirLLM: Streaming infinite retentive LLM
+	- A Simple and Effective $ L_2 $ Norm-Based Strategy for KV Cache Compression
+	- Dynamic memory compression: Retrofitting llms for accelerated inference
+	- Model tells you where to merge: Adaptive kv cache merging for llms on long-context tasks
+	- Anchor-based large language models
+	- Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption
+	- SCBench: A KV Cache-Centric Analysis of Long-Context Methods
+	- On the efficacy of eviction policy for key-value constrained generative language model inference
+	- Snapkv: Llm knows what you are looking for before generation
+	- SubGen: Token Generation in Sublinear Time and Memory
+	- Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning
+	- Sequence can Secretly Tell You What to Discard
+	- Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters
+	- MiniCache: KV Cache Compression in Depth Dimension for Large Language Models
+	- Cam: Cache merging for memory-efficient llms inference
+	- D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models
+	- Unveiling and harnessing hidden attention sinks: Enhancing large language models without training through attention calibration
+	- Sglang: Efficient execution of structured language model programs
+	- Prompt cache: Modular attention reuse for low-latency inference
+	- Cascade inference: Memory bandwidth efficient shared prefix batch decoding
+	- Hydragen: High-Throughput LLM Inference with Shared Prefixes
+	- RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation
+	- CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion
+	- Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference
+	- Ada-kv: Optimizing kv cache eviction by adaptive budget allocation for efficient llm inference
+	- Massive activations in large language models
+	- Unifying KV Cache Compression for Large Language Models with LeanKV
+	- More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression
+	- LayerKV: Optimizing Large Language Model Serving with Layer-wise KV Cache Management
+	- KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head
+	- ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty
+	- UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference
+	- KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing
+	- LoCoCo: Dropping In Convolutions for Long Context Compression
+	- SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction
+	- EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance
+	- ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression
+	- Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads
+	- No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization
+	- LSH-E Tells You What To Discard: An Adaptive Locality-Sensitive Strategy for KV Cache Compression
+	- Enhancing and Accelerating Large Language Models via Instruction-Aware Contextual Compression
+	- LoMA: Lossless Compressed Memory Attention
+	- KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches
+	- NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time
+	- TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection
+	- ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction
+	- Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache
+	- InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management
+	- XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference
+	- In-context KV-Cache Eviction for LLMs via Attention-Gate
+	- Recycled Attention: Efficient inference for long-context language models
+	- MagicPIG: LSH Sampling for Efficient LLM Generation
+	- Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache
+	- When Attention Sink Emerges in Language Models: An Empirical View
+	- Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference
+	- SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator
+	- A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference
+	- LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts
+	- Efficient Sparse Attention needs Adaptive Token Release
+	- Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling
