@@ -15,3 +15,15 @@
   *Chang Zou and Xuyang Liu and Ting Liu and Siteng Huang and Linfeng Zhang.*
   
   [[Paper](https://arxiv.org/abs/2410.05317)] [[Code](https://github.com/Shenyi-Z/ToCa)] ![](https://img.shields.io/badge/ToCa-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Caching-orange)
+
+- **[4] DiCoDe: Diffusion-Compressed Deep Tokens**, arXiv 2024.
+  
+  *Li, Yizhuo and Ge, Yuying and Ge, Yixiao and Luo, Ping and Shan, Ying.*
+
+  [[Paper](https://arxiv.org/abs/2412.04446)] [Code] ![](https://img.shields.io/badge/DiCoDe-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Compression-orange)
+
+- **[5] TempMe: Video Temporal Token Merging**, arXiv 2024.
+  
+  *Shen, Leqi and Hao, Tianxiang and Zhao, Sicheng and Zhang, Yifeng and Liu, Pengzhang and Bao, Yongjun and Ding, Guiguang.*
+
+  [[Paper](https://arxiv.org/abs/2409.01156)] [Code] ![](https://img.shields.io/badge/TempMe-blue) ![](https://img.shields.io/badge/TextVideo-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Temporal_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
