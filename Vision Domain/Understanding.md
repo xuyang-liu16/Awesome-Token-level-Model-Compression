@@ -1,10 +1,12 @@
+### Image:
+
 - **[1] Efficient Vision Transformer via Token Merger**, TIP 2023.
   
   *Feng, Zhanzhou and Zhang, Shiliang.*
 
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10183862)] [Code] ![](https://img.shields.io/badge/TokenMerger-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[2] Token Merging: Your ViT But Faster**, arXiv 2022.
+- **[2] Token Merging: Your ViT But Faster**, ICLR 2023.
   
   *Bolya, Daniel and Fu, Cheng-Yang and Dai, Xiaoliang and Zhang, Peizhao and Feichtenhofer, Christoph and Hoffman, Judy.*
 
@@ -16,9 +18,7 @@
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/ELVM/papers/Yuan_Efficient_Transformer_Adaptation_with_Soft_Token_Merging_CVPRW_2024_paper.pdf)] [Code] ![](https://img.shields.io/badge/SoftToMe-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-
-
-- **[4] Agglomerative Token Clustering**, ECCV 2025.
+- **[4] Agglomerative Token Clustering**, ECCV 2024.
   
   *Haurum, Joakim Bruslund and Escalera, Sergio and Taylor, Graham W and Moeslund, Thomas B.*
 
@@ -60,7 +60,6 @@
 
   [[Paper](https://arxiv.org/abs/2407.15219)] [Code] ![](https://img.shields.io/badge/LToMe-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-
 - **[11] Unified Visual Transformer Compression**, arXiv 2022.
   
   *Yu, Shixing and Chen, Tianlong and Shen, Jiayi and Yuan, Huan and Tan, Jianchao and Yang, Sen and Liu, Ji and Wang, Zhangyang.*
@@ -71,7 +70,7 @@
   
   *Shen, Leqi and Hao, Tianxiang and Zhao, Sicheng and Zhang, Yifeng and Liu, Pengzhang and Bao, Yongjun and Ding, Guiguang.*
 
-  [[Paper](https://arxiv.org/abs/2409.01156)] [Code] ![](https://img.shields.io/badge/TempMe-blue) ![](https://img.shields.io/badge/Video_Retrieval-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Temporal_Similarity-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2409.01156)] [Code] ![](https://img.shields.io/badge/TempMe-blue) ![](https://img.shields.io/badge/Video_Retrieval-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[13] HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers**, HPCA 2023.
   
