@@ -12,12 +12,11 @@
 
   [[Paper](https://arxiv.org/abs/2405.05252)] [Code] ![](https://img.shields.io/badge/AT_EDM-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-
 - **[3] Token Fusion: Bridging the Gap between Token Pruning and Token Merging**, WACV 2024.
   
   *Kim, Minchul and Gao, Shangqian and Hsu, Yen-Chang and Shen, Yilin and Jin, Hongxia.*
 
-  [[Paper](https://arxiv.org/abs/2312.01026)] [Code] ![](https://img.shields.io/badge/ToFu-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Compression-orange)
+  [[Paper](https://arxiv.org/abs/2312.01026)] [Code] ![](https://img.shields.io/badge/ToFu-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[4] F<sup>3</sup>-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis**, AAAI 2024.
   
@@ -35,31 +34,31 @@
   
   *Ju, Chen and Wang, Haicheng and Li, Zeqian and Chen, Xu and Zhai, Zhonghua and Huang, Weilin and Xiao, Shuai.*
 
-  [[Paper](https://arxiv.org/abs/2407.11717)] [Code] ![](https://img.shields.io/badge/Turbo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Information_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2407.11717)] [Code] ![](https://img.shields.io/badge/Turbo-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[7] Agent Attention: On the Integration of Softmax and Linear Attention**, ECCV 2024.
   
   *Han, Dongchen and Ye, Tianzhu and Han, Yizeng and Xia, Zhuofan and Song, Shiji and Huang, Gao.*
   
-  [[Paper](https://arxiv.org/abs/2312.01026)] [[Code](https://github.com/LeapLabTHU/Agent-Attention)] ![](https://img.shields.io/badge/Agent_Attention-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Linear_Attention-orange)
+  [[Paper](https://arxiv.org/abs/2312.01026)] [[Code](https://github.com/LeapLabTHU/Agent-Attention)] ![](https://img.shields.io/badge/Agent_Attention-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Linear_Attention-orange)
 
 - **[8] Token Caching for Diffusion Transformer Acceleration**, arXiv 2024.
 
   *Jinming Lou and Wenyang Luo and Yufan Liu and Bing Li and Xinmiao Ding and Weiming Hu and Jiajiong Cao and Yuming Li and Chenguang Ma.*
 
-  [[Paper](https://arxiv.org/abs/2409.18523)] [Code] ![](https://img.shields.io/badge/TokenCache-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Cache_Based-purple) ![](https://img.shields.io/badge/Token_Compression-orange)
+  [[Paper](https://arxiv.org/abs/2409.18523)] [Code] ![](https://img.shields.io/badge/TokenCache-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[9] Dynamic Diffusion Transformer**, arXiv 2024.
 
   *Wangbo Zhao and Yizeng Han and Jiasheng Tang and Kai Wang and Yibing Song and Gao Huang and Fan Wang and Yang You.*
 
-  [[Paper](https://arxiv.org/abs/2410.03456)] [[Code](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer)] ![](https://img.shields.io/badge/DyDiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Compression-orange)
+  [[Paper](https://arxiv.org/abs/2410.03456)] [[Code](https://github.com/NUS-HPC-AI-Lab/Dynamic-Diffusion-Transformer)] ![](https://img.shields.io/badge/DyDiT-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[10] Accelerating Diffusion Transformers with Token-wise Feature Caching**, arXiv 2024.
 
   *Chang Zou and Xuyang Liu and Ting Liu and Siteng Huang and Linfeng Zhang.*
   
-  [[Paper](https://arxiv.org/abs/2410.05317)] [[Code](https://github.com/Shenyi-Z/ToCa)] ![](https://img.shields.io/badge/ToCa-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Cache_Based-purple) ![](https://img.shields.io/badge/Cache_Mechanism-orange)
+  [[Paper](https://arxiv.org/abs/2410.05317)] [[Code](https://github.com/Shenyi-Z/ToCa)] ![](https://img.shields.io/badge/ToCa-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Caching-orange)
 
   - **[11] Importance-based Token Merging for Diffusion Models**, arXiv 2024.
   
@@ -101,7 +100,7 @@
   
    [[Paper](https://arxiv.org/abs/2412.16822)] [[Code](https://github.com/GATECH-EIC/DiffRatio-MoD)] ![](https://img.shields.io/badge/DiffRatio_MoD-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-   - **[18] Multistage Compression Optimization Strategies for Accelerating Diffusion Models**, PRCV 2024.
+- **[18] Multistage Compression Optimization Strategies for Accelerating Diffusion Models**, PRCV 2024.
 
   *Huang, Weiquan and Chen, Qiang.*
   
@@ -130,6 +129,7 @@
   *Tian, Yuchuan and Tu, Zhijun and Chen, Hanting and Hu, Jie and Xu, Chao and Wang, Yunhe.*
   
   [[Paper](https://arxiv.org/abs/2405.02730)] [Code] ![](https://img.shields.io/badge/U_DiTs-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Downsampling-orange)
+  
 
 ### Video:
 
