@@ -237,25 +237,13 @@
 
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-72643-9_13)] [Code] ![](https://img.shields.io/badge/IVTP-blue) ![](https://img.shields.io/badge/MultiModal-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Instruction_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[40] DiCoDe: Diffusion-Compressed Deep Tokens**, arXiv 2024.
-  
-  *Li, Yizhuo and Ge, Yuying and Ge, Yixiao and Luo, Ping and Shan, Ying.*
-
-  [[Paper](https://arxiv.org/abs/2412.04446)] [Code] ![](https://img.shields.io/badge/DiCoDe-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Compression-orange)
-
-- **[41] TempMe: Video Temporal Token Merging**, arXiv 2024.
-  
-  *Shen, Leqi and Hao, Tianxiang and Zhao, Sicheng and Zhang, Yifeng and Liu, Pengzhang and Bao, Yongjun and Ding, Guiguang.*
-
-  [[Paper](https://arxiv.org/abs/2409.01156)] [Code] ![](https://img.shields.io/badge/TempMe-blue) ![](https://img.shields.io/badge/TextVideo-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Temporal_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
-
-- **[42] Efficient Video Action Detection with Token Dropout**, ICCV 2023.
+- **[40] Efficient Video Action Detection with Token Dropout**, ICCV 2023.
   
   *Chen, Lei and Tong, Zhan and Song, Yibing and Wu, Gangshan and Wang, Limin.*
 
   [[Paper](https://arxiv.org/abs/2304.08451)] [Code] ![](https://img.shields.io/badge/TokenDrop-blue) ![](https://img.shields.io/badge/Video_Action-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Dropout-orange)
 
-- **[43] Beyond Training: Dynamic Token Merging**, arXiv 2024.
+- **[41] Beyond Training: Dynamic Token Merging**, arXiv 2024.
   
   *Zhang, Yiming and Zhao, Zhuokai and Chen, Zhaorun and Ding, Zenghui and Yang, Xianjun and Sun, Yining.*
 
