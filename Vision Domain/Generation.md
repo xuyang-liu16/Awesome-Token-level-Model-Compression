@@ -106,7 +106,7 @@
 
   *Zhang, Evelyn and Tang, Jiayi and Ning, Xuefei and Zhang, Linfeng.*
   
-  [[Paper](https://www.researchgate.net/profile/Linfeng-Zhang-18/publication/387204421_Training-Free_and_Hardware-Friendly_Acceleration_for_Diffusion_Models_via_Similarity-based_Token_Pruning/links/6763f5c78cfcdf077fe561e0/Training-Free-and-Hardware-Friendly-Acceleration-for-Diffusion-Models-via-Similarity-based-Token-Pruning.pdf)] [Code] ![](https://img.shields.io/badge/HF_Pruning-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+ [[Paper](https://www.researchgate.net/profile/Linfeng-Zhang-18/publication/387204421_Training-Free_and_Hardware-Friendly_Acceleration_for_Diffusion_Models_via_Similarity-based_Token_Pruning/links/6763f5c78cfcdf077fe561e0/Training-Free-and-Hardware-Friendly-Acceleration-for-Diffusion-Models-via-Similarity-based-Token-Pruning.pdf)] [Code] ![](https://img.shields.io/badge/SiTo-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[19] An Image is Worth 32 Tokens for Reconstruction and Generation**, arXiv 2024.
 
