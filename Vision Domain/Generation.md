@@ -57,9 +57,9 @@
 
 - **[10] Importance-based Token Merging for Diffusion Models**, arXiv 2024.
 
-*Wu, Haoyu and Xu, Jingyi and Le, Hieu and Samaras, Dimitris.*
+  *Wu, Haoyu and Xu, Jingyi and Le, Hieu and Samaras, Dimitris.*
 
-[[Paper](https://arxiv.org/abs/2411.16720)] [Code] ![](https://img.shields.io/badge/IToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Importance_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2411.16720)] [Code] ![](https://img.shields.io/badge/IToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Importance_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[11] FlexDiT: Dynamic Token Density Control for Diffusion Transformer**, arXiv 2024.
 
@@ -122,13 +122,13 @@
   
 - **[21] Accelerating Text-to-Image Editing via Cache-Enabled Sparse Diffusion Inference**, AAAI 2024.
 
-*Yu, Zihao and Li, Haoyang and Fu, Fangcheng and Miao, Xupeng and Cui, Bin.*
+  *Yu, Zihao and Li, Haoyang and Fu, Fangcheng and Miao, Xupeng and Cui, Bin.*
 
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29599)] [Code] ![](https://img.shields.io/badge/CESDI-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Cache_Based-purple) ![](https://img.shields.io/badge/Sparse_Inference-orange)
 
 - **[22] Adaptive Computation Modules: Granular Conditional Computation For Efficient Inference**, arXiv 2023.
 
-*Wójcik, Bartosz and Devoto, Alessio and Pustelnik, Karol and Minervini, Pasquale and Scardapane, Simone.*
+  *Wójcik, Bartosz and Devoto, Alessio and Pustelnik, Karol and Minervini, Pasquale and Scardapane, Simone.*
 
   [[Paper](https://arxiv.org/abs/2312.10193)] [Code] ![](https://img.shields.io/badge/ACM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Conditional_Computation-orange)
 
