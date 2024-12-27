@@ -10,7 +10,7 @@
 
     
 ## 💬 <span id="head1"> *Keywords* </span>
-![](https://img.shields.io/badge/Abbreviation-blue) ![](https://img.shields.io/badge/Application-green)  ![](https://img.shields.io/badge/W./W.O._Training-brown) ![](https://img.shields.io/badge/Reduction_Criteria-purple) ![](https://img.shields.io/badge/Reduction_Mechanism-orange)
+![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Downstream_Application-green)  ![](https://img.shields.io/badge/W./W.O._Training-brown) ![](https://img.shields.io/badge/Reduction_Criteria-purple) ![](https://img.shields.io/badge/Reduction_Mechanism-orange)
 
 ## 🧑‍💻 Contribution
 
