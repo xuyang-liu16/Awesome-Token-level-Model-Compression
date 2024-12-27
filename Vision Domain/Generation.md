@@ -35,7 +35,7 @@
   
   *Han, Dongchen and Ye, Tianzhu and Han, Yizeng and Xia, Zhuofan and Song, Shiji and Huang, Gao.*
   
-  [[Paper](https://arxiv.org/abs/2312.01026)] [[Code](https://github.com/LeapLabTHU/Agent-Attention)] ![](https://img.shields.io/badge/Agent_Attention-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Linear_Attention-orange)
+  [[Paper](https://arxiv.org/abs/2312.01026)] [[Code](https://github.com/LeapLabTHU/Agent-Attention)] ![](https://img.shields.io/badge/Agent_Attention-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Linear_Attention-orange)
 
 - **[7] Token Caching for Diffusion Transformer Acceleration**, arXiv 2024.
 
@@ -59,7 +59,7 @@
   
   *Wu, Haoyu and Xu, Jingyi and Le, Hieu and Samaras, Dimitris.*
 
-  [[Paper](https://arxiv.org/abs/2411.16720)] [Code] ![](https://img.shields.io/badge/IToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Importance_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2411.16720)] [Code] ![](https://img.shields.io/badge/IToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/CFG_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[11] FlexDiT: Dynamic Token Density Control for Diffusion Transformer**, arXiv 2024.
 
@@ -67,59 +67,53 @@
   
   [[Paper](https://arxiv.org/abs/2412.06028)] [[Code](https://github.com/changsn/FlexDiT)] ![](https://img.shields.io/badge/FlexDiT-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[12] AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration**, arXiv 2024.
-
-  *AsymRnR: Video Diffusion Transformers Acceleration with Asymmetric Reduction and Restoration.*
-  
-  [[Paper](https://arxiv.org/abs/2412.11706)] [Code] ![](https://img.shields.io/badge/AsymRnR-blue) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Asymmetric_Based-purple) ![](https://img.shields.io/badge/Token_Reduction-orange)
-
-- **[13] CAT Pruning: Cluster-Aware Token Pruning For Text-to-Image Diffusion Models**, NeurIPSw 2024.
+- **[12] CAT Pruning: Cluster-Aware Token Pruning For Text-to-Image Diffusion Models**, NeurIPSw 2024.
   
   *Xinle Cheng, Zhuoming Chen, Zhihao Jia.*
   
   [[Paper](https://openreview.net/pdf/bf470617f541635cbde87fcc0ba3fdbddcef3db7.pdf)] [[Code](https://github.com/ada-cheng/CAT-Pruning)] ![](https://img.shields.io/badge/CAT_Pruning-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Clustering_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[14] ToMA: Token Merging with Attention For Diffusion Models**, OpenReview 2024.
+- **[13] ToMA: Token Merging with Attention For Diffusion Models**, OpenReview 2024.
   
   [[Paper](https://openreview.net/forum?id=xhtqgW5b93)] [[Code](https://openreview.net/forum?id=xhtqgW5b93)] ![](https://img.shields.io/badge/ToMA-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[15] Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis**, NeurIPS 2024.
+- **[14] Token Merging for Training-Free Semantic Binding in Text-to-Image Synthesis**, NeurIPS 2024.
 
   *Taihang Hu and Linxuan Li and Joost van de Weijer and Hongcheng Gao and Fahad Khan and Jian Yang and Ming-Ming Cheng and Kai Wang and Yaxing Wang.*
 
   [[Paper](https://arxiv.org/abs/2411.07132)] [[Code](https://github.com/hutaiHang/ToMe)] ![](https://img.shields.io/badge/ToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Semantic_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[16] Layer- and Timestep-Adaptive Differentiable Token Compression Ratios for Efficient Diffusion Transformers**, arXiv 2024.
+- **[15] Layer- and Timestep-Adaptive Differentiable Token Compression Ratios for Efficient Diffusion Transformers**, arXiv 2024.
 
   *Haoran You and Connelly Barnes and Yuqian Zhou and Yan Kang and Zhenbang Du and Wei Zhou and Lingzhi Zhang and Yotam Nitzan and Xiaoyang Liu and Zhe Lin and Eli Shechtman and Sohrab Amirghodsi and Yingyan Celine Lin.*
   
    [[Paper](https://arxiv.org/abs/2412.16822)] [[Code](https://github.com/GATECH-EIC/DiffRatio-MoD)] ![](https://img.shields.io/badge/DiffRatio_MoD-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[17] Multistage Compression Optimization Strategies for Accelerating Diffusion Models**, PRCV 2024.
+- **[16] Multistage Compression Optimization Strategies for Accelerating Diffusion Models**, PRCV 2024.
 
   *Huang, Weiquan and Chen, Qiang.*
   
   [[Paper](https://link.springer.com/chapter/10.1007/978-981-97-8487-5_16)] [Code] ![](https://img.shields.io/badge/MCO-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Compression-orange)
 
-- **[18] ImageFolder: Autoregressive Image Generation with Folded Tokens**, arXiv 2024.
+- **[17] ImageFolder: Autoregressive Image Generation with Folded Tokens**, arXiv 2024.
 
   *Li, Xiang and Qiu, Kai and Chen, Hao and Kuen, Jason and Gu, Jiuxiang and Raj, Bhiksha and Lin, Zhe.*
   
   [[Paper](https://arxiv.org/abs/2410.01756)] [Code] ![](https://img.shields.io/badge/ImageFolder-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Folding-orange)
 
-- **[19] Training-Free and Hardware-Friendly Acceleration for Diffusion Models via Similarity-based Token Pruning**, arXiv 2024.
+- **[18] Training-Free and Hardware-Friendly Acceleration for Diffusion Models via Similarity-based Token Pruning**, arXiv 2024.
 
   *Zhang, Evelyn and Tang, Jiayi and Ning, Xuefei and Zhang, Linfeng.*
   
   [[Paper](https://www.researchgate.net/profile/Linfeng-Zhang-18/publication/387204421_Training-Free_and_Hardware-Friendly_Acceleration_for_Diffusion_Models_via_Similarity-based_Token_Pruning/links/6763f5c78cfcdf077fe561e0/Training-Free-and-Hardware-Friendly-Acceleration-for-Diffusion-Models-via-Similarity-based-Token-Pruning.pdf)] [Code] ![](https://img.shields.io/badge/HF_Pruning-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[20] An Image is Worth 32 Tokens for Reconstruction and Generation**, arXiv 2024.
+- **[19] An Image is Worth 32 Tokens for Reconstruction and Generation**, arXiv 2024.
 
   *Yu, Qihang and Weber, Mark and Deng, Xueqing and Shen, Xiaohui and Cremers, Daniel and Chen, Liang-Chieh.*
   
   [[Paper](https://arxiv.org/abs/2406.07550)] [Code] ![](https://img.shields.io/badge/Token32-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Compression-orange)
 
-- **[21] U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers**, arXiv 2024.
+- **[20] U-DiTs: Downsample Tokens in U-Shaped Diffusion Transformers**, arXiv 2024.
 
   *Tian, Yuchuan and Tu, Zhijun and Chen, Hanting and Hu, Jie and Xu, Chao and Wang, Yunhe.*
   
