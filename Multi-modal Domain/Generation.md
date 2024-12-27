@@ -22,8 +22,4 @@
 
   [[Paper](https://arxiv.org/abs/2412.04446)] [Code] ![](https://img.shields.io/badge/DiCoDe-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Compression-orange)
 
-- **[5] TempMe: Video Temporal Token Merging**, arXiv 2024.
-  
-  *Shen, Leqi and Hao, Tianxiang and Zhao, Sicheng and Zhang, Yifeng and Liu, Pengzhang and Bao, Yongjun and Ding, Guiguang.*
 
-  [[Paper](https://arxiv.org/abs/2409.01156)] [Code] ![](https://img.shields.io/badge/TempMe-blue) ![](https://img.shields.io/badge/TextVideo-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Temporal_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
