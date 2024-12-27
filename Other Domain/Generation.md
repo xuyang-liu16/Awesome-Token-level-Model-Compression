@@ -2,7 +2,7 @@
 
 - **[1] Discrete Audio Representation as an Alternative to Mel-Spectrograms**  
   [[Paper]](https://arxiv.org/abs/2309.10922)   
-  ![](https://img.shields.io/badge/Audio_Tokenization-blue) ![](https://img.shields.io/badge/Speaker_Recognition-green) ![](https://img.shields.io/badge/Compression_Based-purple) ![](https://img.shields.io/badge/Low_Bitrate- orange)
+  ![](https://img.shields.io/badge/Audio_Tokenization-blue) ![](https://img.shields.io/badge/Speaker_Recognition-green) ![](https://img.shields.io/badge/Compression_Based-purple) ![](https://img.shields.io/badge/Low_Bitrate-orange)
 
 - **[2] Fewer-token Neural Speech Codec with Time-invariant Codes, ICASSP 2024**  
   [[Paper]](https://arxiv.org/abs/2310.00014)    
