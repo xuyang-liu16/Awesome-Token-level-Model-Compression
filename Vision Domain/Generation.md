@@ -1,6 +1,6 @@
+### Image:
 
-  ### Image:
-  
+
 - **[1] Token Merging for Fast Stable Diffusion**, CVPRW 2023.
   
   *Bolya, Daniel and Hoffman, Judy.*
@@ -35,7 +35,7 @@
   
   *Han, Dongchen and Ye, Tianzhu and Han, Yizeng and Xia, Zhuofan and Song, Shiji and Huang, Gao.*
   
-  [[Paper](https://arxiv.org/abs/2312.01026)] [[Code](https://github.com/LeapLabTHU/Agent-Attention)] ![](https://img.shields.io/badge/Agent_Attention-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Linear_Attention-orange)
+  [[Paper](https://arxiv.org/abs/2312.01026)] [[Code](https://github.com/LeapLabTHU/Agent-Attention)] ![](https://img.shields.io/badge/Agent_Attention-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Linear_Attention-orange)
 
 - **[7] Token Caching for Diffusion Transformer Acceleration**, arXiv 2024.
 
@@ -43,7 +43,7 @@
 
   [[Paper](https://arxiv.org/abs/2409.18523)] [Code] ![](https://img.shields.io/badge/TokenCache-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[8] Dynamic Diffusion Transformer**, arXiv 2024.
+- **[98 Dynamic Diffusion Transformer**, arXiv 2024.
 
   *Wangbo Zhao and Yizeng Han and Jiasheng Tang and Kai Wang and Yibing Song and Gao Huang and Fan Wang and Yang You.*
 
@@ -55,17 +55,18 @@
   
   [[Paper](https://arxiv.org/abs/2410.05317)] [[Code](https://github.com/Shenyi-Z/ToCa)] ![](https://img.shields.io/badge/ToCa-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Caching-orange)
 
-- **[10] Importance-based Token Merging for Diffusion Models**, arXiv 2024.
+  - **[10] Importance-based Token Merging for Diffusion Models**, arXiv 2024.
   
   *Wu, Haoyu and Xu, Jingyi and Le, Hieu and Samaras, Dimitris.*
 
-  [[Paper](https://arxiv.org/abs/2411.16720)] [Code] ![](https://img.shields.io/badge/IToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/CFG_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2411.16720)] [Code] ![](https://img.shields.io/badge/IToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Importance_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[11] FlexDiT: Dynamic Token Density Control for Diffusion Transformer**, arXiv 2024.
 
   *Shuning Chang and Pichao Wang and Jiasheng Tang and Yi Yang.*
   
   [[Paper](https://arxiv.org/abs/2412.06028)] [[Code](https://github.com/changsn/FlexDiT)] ![](https://img.shields.io/badge/FlexDiT-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
 
 - **[12] CAT Pruning: Cluster-Aware Token Pruning For Text-to-Image Diffusion Models**, NeurIPSw 2024.
   
@@ -105,7 +106,7 @@
 
   *Zhang, Evelyn and Tang, Jiayi and Ning, Xuefei and Zhang, Linfeng.*
   
-  [[Paper](https://www.researchgate.net/profile/Linfeng-Zhang-18/publication/387204421_Training-Free_and_Hardware-Friendly_Acceleration_for_Diffusion_Models_via_Similarity-based_Token_Pruning/links/6763f5c78cfcdf077fe561e0/Training-Free-and-Hardware-Friendly-Acceleration-for-Diffusion-Models-via-Similarity-based-Token-Pruning.pdf)] [Code] ![](https://img.shields.io/badge/SiTo-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  [[Paper](https://www.researchgate.net/profile/Linfeng-Zhang-18/publication/387204421_Training-Free_and_Hardware-Friendly_Acceleration_for_Diffusion_Models_via_Similarity-based_Token_Pruning/links/6763f5c78cfcdf077fe561e0/Training-Free-and-Hardware-Friendly-Acceleration-for-Diffusion-Models-via-Similarity-based-Token-Pruning.pdf)] [Code] ![](https://img.shields.io/badge/HF_Pruning-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[19] An Image is Worth 32 Tokens for Reconstruction and Generation**, arXiv 2024.
 
@@ -119,7 +120,53 @@
   
   [[Paper](https://arxiv.org/abs/2405.02730)] [Code] ![](https://img.shields.io/badge/U_DiTs-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Downsampling-orange)
   
+- **[21] Accelerating Text-to-Image Editing via Cache-Enabled Sparse Diffusion Inference**, AAAI 2024.
 
+*Yu, Zihao and Li, Haoyang and Fu, Fangcheng and Miao, Xupeng and Cui, Bin.*
+
+[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29599)] [Code] ![](https://img.shields.io/badge/CESDI-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Cache_Based-purple) ![](https://img.shields.io/badge/Sparse_Inference-orange)
+
+- **[22] Adaptive Computation Modules: Granular Conditional Computation For Efficient Inference**, arXiv 2023.
+
+*Wójcik, Bartosz and Devoto, Alessio and Pustelnik, Karol and Minervini, Pasquale and Scardapane, Simone.*
+
+[[Paper](https://arxiv.org/abs/2312.10193)] [Code] ![](https://img.shields.io/badge/ACM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Conditional_Computation-orange)
+
+- **[23] Highlight Diffusion: Training-Free Attention Guided Acceleration for Text-to-Image Models**, OpenReview 2024.
+  
+  *Nam, Kyuseok and Kim, Yulhwa and Park, Jeongwoo.*
+
+  [[Paper](https://openreview.net/forum?id=Jt1gGIumJo)] [Code] ![](https://img.shields.io/badge/HighlightDiff-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Selection-orange)
+
+- **[24] Layer- and Timestep-Adaptive Differentiable Token Compression Ratios**, arXiv 2024.
+  
+  *You, Haoran and Barnes, Connelly and Zhou, Yuqian and others.*
+
+  [[Paper](https://arxiv.org/abs/2412.16822)] [Code] ![](https://img.shields.io/badge/LTA_DiTC-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Compression-orange)
+
+- **[25] Fast Training of Diffusion Models with Masked Transformers**, arXiv 2023.
+  
+  *Zheng, Hongkai and Nie, Weili and Vahdat, Arash and Anandkumar, Anima.*
+
+  [[Paper](https://arxiv.org/abs/2306.09305)] [Code] ![](https://img.shields.io/badge/MaskDiff-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Masked_Training-orange)
+
+- **[26] MDTv2: Masked Diffusion Transformer is a Strong Image Synthesizer**, ICCV 2023.
+  
+  *Gao, Shanghua and Zhou, Pan and Cheng, Ming-Ming and Yan, Shuicheng.*
+
+  [[Paper](https://arxiv.org/abs/2303.14389)] [Code] ![](https://img.shields.io/badge/MDTv2-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Masked_Training-orange)
+
+- **[27] Diffusion Models as Masked Autoencoders**, ICCV 2023.
+  
+  *Wei, Chen and Mangalam, Karttikeya and Huang, Po-Yao and others.*
+
+  [[Paper](https://arxiv.org/abs/2304.03283)] [Code] ![](https://img.shields.io/badge/DiffMAE-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Masked_Training-orange)
+
+- **[28] DSP: Dynamic Sequence Parallelism for Multi-Dimensional Transformers**, arXiv 2024.
+  
+  *Zhao, Xuanlei and Cheng, Shenggan and Chen, Chang and others.*
+
+  [[Paper](https://arxiv.org/abs/2403.10266)] [Code] ![](https://img.shields.io/badge/DSP-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Sequence_Parallelism-orange)
 ### Video:
 
 - **[1] F<sup>3</sup>-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis**, AAAI 2024.
