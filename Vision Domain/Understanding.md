@@ -188,57 +188,84 @@
 
 - **[32] Training-Free Visual Token Compression via Delayed Spatial Merging**, NeurIPS 2024.
 
+  *Jung Hwan Heo, Seyedarmin Azizi, Arash Fayyazi, Massoud Pedram*
+
   [[Paper](https://openreview.net/forum?id=4JXo4wOUfQ)] [Code] ![](https://img.shields.io/badge/DSM-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Spatial_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[33] Prune Spatio-temporal Tokens by Semantic-aware Temporal Accumulation**, ICCV 2023.
+
+  *Shuangrui Ding, Peisen Zhao, Xiaopeng Zhang, Rui Qian, Hongkai Xiong, Qi Tian*
 
   [[Paper](https://arxiv.org/abs/2308.04549)] [Code] ![](https://img.shields.io/badge/PSTA-blue) ![](https://img.shields.io/badge/Video_Understanding-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Semantic_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[34] Bridging The Gaps Between Token Pruning and Full Pre-training via Masked Fine-tuning**, arXiv 2023.
 
+  *Fengyuan Shi, Limin Wang*
+
   [[Paper](https://arxiv.org/abs/2310.17177)] [Code] ![](https://img.shields.io/badge/MFT-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[35] Attention Standard Deviation Based Token Sparsification**, IEEE Access 2024.
+
+  *En Gao; Jinzhao We; Guowu Yang*
 
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10548480)] [Code] ![](https://img.shields.io/badge/ASD-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Sparsification-orange)
 
 - **[36] Efficient Video Transformers via Spatial-temporal Token Merging for Action Recognition**, ACM MM 2024.
 
+  *Zhanzhou Feng, Jiaming Xu, Lei Ma, Shiliang Zhang*
+
   [[Paper](https://dl.acm.org/doi/abs/10.1145/3633781)] [Code] ![](https://img.shields.io/badge/STToMe-blue) ![](https://img.shields.io/badge/Action_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Spatio_Temporal-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[37] Zero-TPrune: Zero-Shot Token Pruning through Attention Graph**, CVPR 2024.
+  
   *Wang, Hongjie et al.*
+  
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.html)] [Code] ![](https://img.shields.io/badge/Zero_TPrune-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[38] SPViT: Latency-Aware Soft Token Pruning**, ECCV 2022.
+- **[38] SPViT: Latency-Aware Soft Token Pruning**, ECCV 2022
+  
   *Kong, Zhenglun et al.*
+  
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_37)] [Code] ![](https://img.shields.io/badge/SPViT-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[39] PaPr: Training-Free One-Step Patch Pruning**, ECCV 2025.
+  
   *Mahmud, Tanvir et al.*
+  
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73337-6_7)] [Code] ![](https://img.shields.io/badge/PaPr-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Patch_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 
 - **[40] Learning to Merge Tokens via Decoupled Embedding**, arXiv 2024.
+  
   *Lee, Dong Hoon and Hong, Seunghoon.*
+  
   [[Paper](https://arxiv.org/abs/2412.10569)] [Code] ![](https://img.shields.io/badge/DecoupledToMe-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[41] Segformer++: Token-Merging for Semantic Segmentation**, arXiv 2024.
+  
   *Kienzle, Daniel et al.*
+  
   [[Paper](https://arxiv.org/abs/2405.14467)] [Code] ![](https://img.shields.io/badge/Segformer++-blue) ![](https://img.shields.io/badge/Segmentation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[42] Vote&Mix: Plug-and-Play Token Reduction**, arXiv 2024.
+  
   *Peng, Shuai et al.*
+  
   [[Paper](https://arxiv.org/abs/2408.17062)] [Code] ![](https://img.shields.io/badge/Vote&Mix-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Voting_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[43] ToSA: Token Selective Attention**, arXiv 2024.
   *Singh, Manish Kumar et al.*
+  
   [[Paper](https://arxiv.org/abs/2406.08816)] [Code] ![](https://img.shields.io/badge/ToSA-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Selection-orange)
 
 - **[44] A-ViT: Adaptive Tokens**, CVPR 2022.
+  
   *Yin, Hongxu et al.*
+  
   [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_A-ViT_Adaptive_Tokens_for_Efficient_Vision_Transformer_CVPR_2022_paper.html)] [Code] ![](https://img.shields.io/badge/A_ViT-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Adaptive_Token-orange)
 
-- **[45] TokenLearner: Adaptive Space-Time Tokenization**, NeurIPS 2021.
+- **[45] TokenLearner: Adaptive Space-Time Tokenization**, NeurIPS 2021
+  
   *Ryoo, Michael et al.*
+  
   [[Paper](https://proceedings.neurips.cc/paper/2021/hash/6a30e32e56fce5cf381895dfe6ca7b6f-Abstract.html)] [Code] ![](https://img.shields.io/badge/TokenLearner-blue) ![](https://img.shields.io/badge/Video_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Adaptive_Token-orange)
