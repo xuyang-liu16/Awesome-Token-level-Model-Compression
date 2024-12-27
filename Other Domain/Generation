@@ -1,3 +1,5 @@
+### Speech:
+
 - **[1] Discrete Audio Representation as an Alternative to Mel-Spectrograms**  
   [[Paper]](链接)  
   该研究评估了基于压缩的音频tokens在说话人验证、分离和多语言语音识别任务中的性能，发现这些模型在保持与mel频谱图相似性能的同时，能够实现比mel频谱图高20倍的压缩率，对于低比特率应用至关重要。  
