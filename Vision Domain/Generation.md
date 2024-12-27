@@ -43,7 +43,7 @@
 
   [[Paper](https://arxiv.org/abs/2409.18523)] [Code] ![](https://img.shields.io/badge/TokenCache-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[98 Dynamic Diffusion Transformer**, arXiv 2024.
+- **[8] Dynamic Diffusion Transformer**, arXiv 2024.
 
   *Wangbo Zhao and Yizeng Han and Jiasheng Tang and Kai Wang and Yibing Song and Gao Huang and Fan Wang and Yang You.*
 
@@ -55,11 +55,11 @@
   
   [[Paper](https://arxiv.org/abs/2410.05317)] [[Code](https://github.com/Shenyi-Z/ToCa)] ![](https://img.shields.io/badge/ToCa-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Caching-orange)
 
-  - **[10] Importance-based Token Merging for Diffusion Models**, arXiv 2024.
-  
-  *Wu, Haoyu and Xu, Jingyi and Le, Hieu and Samaras, Dimitris.*
+- **[10] Importance-based Token Merging for Diffusion Models**, arXiv 2024.
 
-  [[Paper](https://arxiv.org/abs/2411.16720)] [Code] ![](https://img.shields.io/badge/IToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Importance_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+*Wu, Haoyu and Xu, Jingyi and Le, Hieu and Samaras, Dimitris.*
+
+[[Paper](https://arxiv.org/abs/2411.16720)] [Code] ![](https://img.shields.io/badge/IToMe-blue) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Importance_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[11] FlexDiT: Dynamic Token Density Control for Diffusion Transformer**, arXiv 2024.
 
@@ -124,13 +124,13 @@
 
 *Yu, Zihao and Li, Haoyang and Fu, Fangcheng and Miao, Xupeng and Cui, Bin.*
 
-[[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29599)] [Code] ![](https://img.shields.io/badge/CESDI-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Cache_Based-purple) ![](https://img.shields.io/badge/Sparse_Inference-orange)
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/29599)] [Code] ![](https://img.shields.io/badge/CESDI-blue) ![](https://img.shields.io/badge/Image_Editing-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Cache_Based-purple) ![](https://img.shields.io/badge/Sparse_Inference-orange)
 
 - **[22] Adaptive Computation Modules: Granular Conditional Computation For Efficient Inference**, arXiv 2023.
 
 *Wójcik, Bartosz and Devoto, Alessio and Pustelnik, Karol and Minervini, Pasquale and Scardapane, Simone.*
 
-[[Paper](https://arxiv.org/abs/2312.10193)] [Code] ![](https://img.shields.io/badge/ACM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Conditional_Computation-orange)
+  [[Paper](https://arxiv.org/abs/2312.10193)] [Code] ![](https://img.shields.io/badge/ACM-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Conditional_Computation-orange)
 
 - **[23] Highlight Diffusion: Training-Free Attention Guided Acceleration for Text-to-Image Models**, OpenReview 2024.
   
