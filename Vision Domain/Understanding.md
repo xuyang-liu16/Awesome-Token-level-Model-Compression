@@ -193,7 +193,7 @@
   
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.html)] [Code] ![](https://img.shields.io/badge/Zero_TPrune-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[33] SPViT: Latency-Aware Soft Token Pruning**, ECCV 2022
+- **[33] SPViT: Latency-Aware Soft Token Pruning**, ECCV 2022.
   
   *Kong, Zhenglun et al.*
   
@@ -228,63 +228,96 @@
   
   [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_A-ViT_Adaptive_Tokens_for_Efficient_Vision_Transformer_CVPR_2022_paper.html)] [Code] ![](https://img.shields.io/badge/A_ViT-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Adaptive_Token-orange)
 
-- **[39] TokenLearner: Adaptive Space-Time Tokenization**, NeurIPS 2021
-  
-  *Ryoo, Michael et al.*
-  
-  [[Paper](https://proceedings.neurips.cc/paper/2021/hash/6a30e32e56fce5cf381895dfe6ca7b6f-Abstract.html)] [Code] ![](https://img.shields.io/badge/TokenLearner-blue) ![](https://img.shields.io/badge/Video_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Adaptive_Token-orange)
 
 
 ### Video Recognition:
 
-- **[1] Efficient Video Transformers with Spatial-Temporal Token Selection**, ECCV 2022.
+- **[1] TokenLearner: Adaptive Space-Time Tokenization for Videos**, NeurIPS 2021.
+  
+  *Michael Ryoo, AJ Piergiovanni, Anurag Arnab, Mostafa Dehghani, Anelia Angelova.*
+  
+  [[Paper](https://proceedings.neurips.cc/paper/2021/hash/6a30e32e56fce5cf381895dfe6ca7b6f-Abstract.html)] [[Code](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner)] ![](https://img.shields.io/badge/TokenLearner-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[2] Efficient Video Transformers with Spatial-Temporal Token Selection**, ECCV 2022.
 
   *Junke Wang and Xitong Yang and Hengduo Li and Li Liu and Zuxuan Wu and Yu-Gang Jiang.*
 
   [[Paper](https://arxiv.org/abs/2111.11591)] [[Code](https://github.com/wdrink/STTS)] ![](https://img.shields.io/badge/STTS-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[2] Prune Spatio-temporal Tokens by Semantic-aware Temporal Accumulation**, ICCV 2023.
+- **[3] Prune Spatio-temporal Tokens by Semantic-aware Temporal Accumulation**, ICCV 2023.
 
   *Shuangrui Ding, Peisen Zhao, Xiaopeng Zhang, Rui Qian, Hongkai Xiong, Qi Tian*
 
   [[Paper](https://arxiv.org/abs/2308.04549)] [Code] ![](https://img.shields.io/badge/PSTA-blue) ![](https://img.shields.io/badge/Video_Understanding-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Semantic_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[3] vid-TLDR: Training Free Token merging for Light-weight Video Transformer**, CVPR 2024.
+- **[4] vid-TLDR: Training Free Token merging for Light-weight Video Transformer**, CVPR 2024.
 
   *Joonmyung Choi and Sanghyeok Lee and Jaewon Chu and Minhyuk Choi and Hyunwoo J. Kim.*
 
   [[Paper](https://arxiv.org/abs/2403.13347)] [[Code](https://github.com/mlvlab/vid-TLDR)] ![](https://img.shields.io/badge/vid_TLDR-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Salience_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[4] Efficient Video Transformers via Spatial-temporal Token Merging for Action Recognition**, ACM MM 2024.
+- **[5] Efficient Video Transformers via Spatial-temporal Token Merging for Action Recognition**, ACM MM 2024.
 
   *Zhanzhou Feng, Jiaming Xu, Lei Ma, Shiliang Zhang*
 
   [[Paper](https://dl.acm.org/doi/abs/10.1145/3633781)] [Code] ![](https://img.shields.io/badge/STToMe-blue) ![](https://img.shields.io/badge/Action_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Spatio_Temporal-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
   
-- **[5] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval**, arXiv 2024.
+- **[6] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval**, arXiv 2024.
   
   *Shen, Leqi and Hao, Tianxiang and Zhao, Sicheng and Zhang, Yifeng and Liu, Pengzhang and Bao, Yongjun and Ding, Guiguang.*
 
-  [[Paper](https://arxiv.org/abs/2409.01156)] [Code] ![](https://img.shields.io/badge/TempMe-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2409.01156)] [Code] ![](https://img.shields.io/badge/TempMe-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Text_Video_Retrieval-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 
 ### Dense Prediction
 
-- **[1] Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation**, ICCV 2023.
+- **[1] Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer**, CVPR 2022.
+  
+  *Zeng, Wang and Jin, Sheng and Liu, Wentao and Qian, Chen and Luo, Ping and Ouyang, Wanli and Wang, Xiaogang.*
+
+  [[Paper](https://arxiv.org/abs/2204.08680)] [[Code](https://github.com/zengwang430521/TCFormer)] ![](https://img.shields.io/badge/TCFormer-blue) ![](https://img.shields.io/badge/Pose_Estimation-green) ![](https://img.shields.io/badge/Mesh_Reconstruction-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[2] Less is more: Pay less attention in vision transformers**, AAAI 2022.
+  
+  *Zizheng Pan and Bohan Zhuang and Haoyu He and Jing Liu and Jianfei Cai.*
+
+  [[Paper](https://arxiv.org/abs/2105.14217)] [[Code](https://github.com/ziplab/LIT)] ![](https://img.shields.io/badge/LIT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Object_Detection-green) ![](https://img.shields.io/badge/Instance_Segmentation-green) ![](https://img.shields.io/badge/ISemantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[3] Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation**, ICCV 2023.
   
   *Tang, Quan and Zhang, Bowen and Liu, Jiajun and Liu, Fagui and Liu, Yifan.*
 
   [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Tang_Dynamic_Token_Pruning_in_Plain_Vision_Transformers_for_Semantic_Segmentation_ICCV_2023_paper.html)] [Code] ![](https://img.shields.io/badge/DTP-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[2] Content-Aware Token Sharing for Efficient Semantic Segmentation With Vision Transformers**, CVPR 2023.
+- **[4] Content-Aware Token Sharing for Efficient Semantic Segmentation With Vision Transformers**, CVPR 2023.
   
   *Lu, Chenyang and de Geus, Daan and Dubbelman, Gijs.*
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Content-Aware_Token_Sharing_for_Efficient_Semantic_Segmentation_With_Vision_Transformers_CVPR_2023_paper.html)] [Code] ![](https://img.shields.io/badge/CATS-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Sharing-orange)
 
-- **[3] Segformer++: Efficient Token-Merging Strategies for High-Resolution Semantic Segmentation**, MIPR 2024.
+- **[5] Revisiting token pruning for object detection and instance segmentation**, WACV 2024.
+
+  *Liu, Yifei and Gehrig, Mathias and Messikommer, Nico and Cannici, Marco and Scaramuzza, Davide.*
+  
+  [[Paper](https://arxiv.org/abs/2306.07050)] [[Code](https://github.com/uzh-rpg/svit)] ![](https://img.shields.io/badge/SViT-blue) ![](https://img.shields.io/badge/Object_Detection-green) ![](https://img.shields.io/badge/Instance_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[6] Dynamic Token-Pass Transformers for Semantic Segmentation**, WACV 2024.
+
+  *Liu, Yuang and Zhou, Qiang and Wang, Jin and Wang, Zhibin and Wang, Fan and Wang, Jun and Zhang, Wei.*
+  
+  [[Paper](https://arxiv.org/abs/2308.01944)] [[Code](https://github.com/FLHonker/DoViT-code)] ![](https://img.shields.io/badge/DoViT-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[7] DTMFormer: Dynamic Token Merging for Boosting Transformer-Based Medical Image Segmentation**, AAAI 2024.
+
+  *Wang, Zhehao and Lin, Xian and Wu, Nannan and Yu, Li and Cheng, Kwang-Ting and Yan, Zengqiang.*
+  
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28394)] [[Code](https://github.com/iam-nacl/DTMFormer)] ![](https://img.shields.io/badge/DTMFormer-blue) ![](https://img.shields.io/badge/Medical_Image_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[8] Segformer++: Efficient Token-Merging Strategies for High-Resolution Semantic Segmentation**, MIPR 2024.
   
   *Daniel Kienzle and Marco Kantonis and Robin Schön and Rainer Lienhart.*
   
-  [[Paper](https://arxiv.org/abs/2405.14467)] [Code] ![](https://img.shields.io/badge/Segformer++-blue) ![](https://img.shields.io/badge/Segmentation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2405.14467)] [Code] ![](https://img.shields.io/badge/Segformer++-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+
 
