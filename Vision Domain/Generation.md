@@ -188,3 +188,10 @@
   *Kahatapitiya, Kumara and Karjauv, Adil and Abati, Davide and Porikli, Fatih and Asano, Yuki M and Habibian, Amirhossein.*
   
   [[Paper](https://arxiv.org/abs/2401.05735)] [Code] ![](https://img.shields.io/badge/OCD-blue) ![](https://img.shields.io/badge/Video_Editing-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[4] DiCoDe: Diffusion-Compressed Deep Tokens for Autoregressive Video Generation with Language Models**, arXiv 2024.
+  
+  *Li, Yizhuo and Ge, Yuying and Ge, Yixiao and Luo, Ping and Shan, Ying.*
+
+  [[Paper](https://arxiv.org/abs/2412.04446)] [Code] ![](https://img.shields.io/badge/DiCoDe-blue) ![](https://img.shields.io/badge/Video_Generation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
+
