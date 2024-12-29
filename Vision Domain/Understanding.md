@@ -1,4 +1,4 @@
-### Image
+### 🗺️ Image Recognition
 - **[1] Adaptive Token Sampling for Efficient Vision Transformers**, ECCV 2022.
   
   *Fayyaz, Mohsen and Koohpayegani, Soroush Abbasi and Jafari, Farnoush Rezaei and Sengupta, Sunando and Joze, Hamid Reza Vaezi and Sommerlade, Eric and Pirsiavash, Hamed and Gall, Jürgen.*
@@ -216,7 +216,7 @@
   [[Paper](https://arxiv.org/abs/2408.17062)] [Code] ![](https://img.shields.io/badge/Vote&Mix-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Voting_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
   
 
-### Video Recognition:
+### 📹 Video Recognition:
 
 - **[1] TokenLearner: Adaptive Space-Time Tokenization for Videos**, NeurIPS 2021.
   
@@ -256,7 +256,7 @@
 
 
 
-### Dense Prediction:
+### 🔍 Dense Prediction:
 
 - **[1] Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer**, CVPR 2022.
   
