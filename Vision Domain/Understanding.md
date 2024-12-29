@@ -39,7 +39,7 @@
   
   *Rao, Yongming and Zhao, Wenliang and Liu, Benlin and Lu, Jiwen and Zhou, Jie and Hsieh, Cho-Jui.*
 
-  [[Paper](https://proceedings.neurips.cc/paper/2021/hash/747d3443e319a22747fbb873e8b2f9f2-Abstract.html)] [[Code]([https://github.com/RaoYongming/DynamicViT)](https://github.com/raoyongming/DynamicViT))] ![](https://img.shields.io/badge/DynamicViT-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Sparsification-orange)
+  [[Paper](https://proceedings.neurips.cc/paper/2021/hash/747d3443e319a22747fbb873e8b2f9f2-Abstract.html)] [[Code]([https://github.com/RaoYongming/DynamicViT)]] ![](https://img.shields.io/badge/DynamicViT-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Sparsification-orange)
 
 - **[8] Patch Slimming for Efficient Vision Transformers**, CVPR 2022.
   
