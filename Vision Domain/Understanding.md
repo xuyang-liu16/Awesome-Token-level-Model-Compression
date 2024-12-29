@@ -37,7 +37,7 @@
 
   [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/d072677d210ac4c03ba046120f0802ec-Abstract.html)] [[Code](https://github.com/bowenpan/IA-RED2)] ![](https://img.shields.io/badge/IA-RED2-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Redundancy_Reduction-purple)
 
-- **[7] DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification**, Advances in Neural Information Processing Systems 2021.
+- **[7] DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification**, NeurIPS 2021.
   
   *Rao, Yongming and Zhao, Wenliang and Liu, Benlin and Lu, Jiwen and Zhou, Jie and Hsieh, Cho-Jui.*
 
@@ -61,11 +61,6 @@
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_A-ViT_Adaptive_Tokens_for_Efficient_Vision_Transformer_CVPR_2022_paper.html)] [[Code](https://github.com/hongxuYin/A-ViT)] ![](https://img.shields.io/badge/A-ViT-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Adaptive_Tokens-purple)
 
-- **[11] Token Merging: Your ViT But Faster**, arXiv 2022.
-  
-  *Bolya, Daniel and Fu, Cheng-Yang and Dai, Xiaoliang and Zhang, Peizhao and Feichtenhofer, Christoph and Hoffman, Judy.*
-
-  [[Paper](https://arxiv.org/abs/2210.09461)] [[Code](https://github.com/dbolya/TokenMerging)] ![](https://img.shields.io/badge/TokenMerging-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[12] Multi-scale Hybrid Vision Transformer and Sinkhorn Tokenizer for Sewer Defect Classification**, Automation in Construction 2022.
   
@@ -85,11 +80,7 @@
 
   [[Paper](https://arxiv.org/abs/2202.12015)] [[Code](https://github.com/cedricrenggli/LearnTokenMerging)] ![](https://img.shields.io/badge/LearnTokenMerging-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Token_Merging-purple)
 
-- **[15] TokenLearner: Adaptive Space-Time Tokenization for Videos**, Advances in Neural Information Processing Systems 2021.
-  
-  *Ryoo, Michael and Piergiovanni, AJ and Arnab, Anurag and Dehghani, Mostafa and Angelova, Anelia.*
 
-  [[Paper](https://proceedings.neurips.cc/paper/2021/hash/6a30e32e56fce5cf381895dfe6ca7b6f-Abstract.html)] [[Code](https://github.com/mryoo/TokenLearner)] ![](https://img.shields.io/badge/TokenLearner-blue) ![](https://img.shields.io/badge/Video_Understanding-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Adaptive_Tokenization-purple)
 
 - **[16] Centroid Transformers: Learning to Abstract with Attention**, arXiv 2021.
   
@@ -151,11 +142,6 @@
 
   [[Paper](https://arxiv.org/abs/2410.09324)] [Code] ![](https://img.shields.io/badge/BAViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[6] DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification**, NeurIPS 2021.
-  
-  *Rao, Yongming and Zhao, Wenliang and Liu, Benlin and Lu, Jiwen and Zhou, Jie and Hsieh, Cho-Jui.*
-
-  [[Paper](https://proceedings.neurips.cc/paper/2021/hash/747d3443e319a22747fbb873e8b2f9f2-Abstract.html)] [Code] ![](https://img.shields.io/badge/DynamicViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[7] GTP-ViT: Efficient Vision Transformers via Graph-Based Token Propagation**, WACV 2024.
   
@@ -310,19 +296,14 @@
 
 - **[32] Zero-TPrune: Zero-Shot Token Pruning through Attention Graph**, CVPR 2024.
   
-  *Wang, Hongjie et al.*
+  *Hongjie Wang, Bhishma Dedhia, Niraj K. Jha*
   
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.html)] [Code] ![](https://img.shields.io/badge/Zero_TPrune-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[33] SPViT: Enabling Faster Vision Transformers via Latency-Aware Soft Token Pruning**, ECCV 2022.
-  
-  *Kong, Zhenglun et al.*
-  
-  [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_37)] [Code] ![](https://img.shields.io/badge/SPViT-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[34] PaPr: Training-Free One-Step Patch Pruning with Lightweight ConvNets for Faster Inference**, ECCV 2024.
   
-  *Mahmud, Tanvir et al.*
+  *Tanvir Mahmud, Burhaneddin Yaman, Chun-Hao Liu, Diana Marculescu*
   
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73337-6_7)] [Code] ![](https://img.shields.io/badge/PaPr-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Patch_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
@@ -334,15 +315,11 @@
 
 - **[36] Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer**, arXiv 2024.
   
-  *Peng, Shuai et al.*
+  *Shuai Peng, Di Fu, Baole Wei, Yong Cao, Liangcai Gao, Zhi Tang
   
   [[Paper](https://arxiv.org/abs/2408.17062)] [Code] ![](https://img.shields.io/badge/Vote&Mix-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Voting_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[37] A-ViT: Adaptive Tokens for Efficient Vision Transformer**, CVPR 2022.
-  
-  *Yin, Hongxu et al.*
-  
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Yin_A-ViT_Adaptive_Tokens_for_Efficient_Vision_Transformer_CVPR_2022_paper.html)] [Code] ![](https://img.shields.io/badge/A_ViT-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Adaptive_Token-orange)
+
 
 
 
