@@ -217,12 +217,7 @@
   
   [[Paper](https://arxiv.org/abs/2408.17062)] [Code] ![](https://img.shields.io/badge/Vote&Mix-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Voting_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[37] ToSA: Token Selective Attention for Efficient Vision Transformers**, arXiv 2024.
-  *Singh, Manish Kumar et al.*
-  
-  [[Paper](https://arxiv.org/abs/2406.08816)] [Code] ![](https://img.shields.io/badge/ToSA-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Selection-orange)
-
-- **[38] A-ViT: Adaptive Tokens for Efficient Vision Transformer**, CVPR 2022.
+- **[37] A-ViT: Adaptive Tokens for Efficient Vision Transformer**, CVPR 2022.
   
   *Yin, Hongxu et al.*
   
@@ -318,6 +313,11 @@
   *Daniel Kienzle and Marco Kantonis and Robin Schön and Rainer Lienhart.*
   
   [[Paper](https://arxiv.org/abs/2405.14467)] [Code] ![](https://img.shields.io/badge/Segformer++-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[9] ToSA: Token Selective Attention for Efficient Vision Transformers**, arXiv 2024.
+  *Singh, Manish Kumar et al.*
+  
+  [[Paper](https://arxiv.org/abs/2406.08816)] [Code] ![](https://img.shields.io/badge/ToSA-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Selection-orange)
 
 
 
