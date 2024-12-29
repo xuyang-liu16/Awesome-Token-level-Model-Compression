@@ -1,4 +1,4 @@
-### Image Generation:
+### 🖼️ Image Generation:
 
 
 - **[1] Token Merging for Fast Stable Diffusion**, CVPRW 2023.
@@ -169,7 +169,7 @@
   [[Paper](https://arxiv.org/abs/2403.10266)] [Code] ![](https://img.shields.io/badge/DSP-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Sequence_Parallelism-orange)
 
 
-### Video Generation:
+### 🎥 Video Generation:
 
 - **[1] F<sup>3</sup>-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis**, AAAI 2024.
   
