@@ -1,11 +1,11 @@
 ### Image
-- **[1] Adaptive Token Sampling for Efficient Vision Transformers**, European Conference on Computer Vision 2022.
+- **[1] Adaptive Token Sampling for Efficient Vision Transformers**, ECCV 2022.
   
   *Fayyaz, Mohsen and Koohpayegani, Soroush Abbasi and Jafari, Farnoush Rezaei and Sengupta, Sunando and Joze, Hamid Reza Vaezi and Sommerlade, Eric and Pirsiavash, Hamed and Gall, Jürgen.*
 
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_24)] [[Code]( https://adaptivetokensampling.github.io/)] ![](https://img.shields.io/badge/ATS-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Sampling-orange)
 
-- **[2] SPViT: Enabling Faster Vision Transformers via Latency-Aware Soft Token Pruning**, European Conference on Computer Vision 2022.
+- **[2] SPViT: Enabling Faster Vision Transformers via Latency-Aware Soft Token Pruning**, ECCV 2022.
   
   *Kong, Zhenglun and Dong, Peiyan and Ma, Xiaolong and Meng, Xin and Niu, Wei and Sun, Mengshu and Shen, Xuan and Yuan, Geng and Ren, Bin and Tang, Hao and others.*
 
@@ -95,7 +95,7 @@
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2022/html/Zeng_Not_All_Tokens_Are_Equal_Human-Centric_Visual_Analysis_via_Token_Clustering_Transformer_CVPR_2022_paper.html)] [[Code](https://github.com/wangzeng/token-clustering-transformer)] ![](https://img.shields.io/badge/TokenClusteringTransformer-blue) ![](https://img.shields.io/badge/Image_Understanding-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Token_Clustering-purple)
 
-- **[17] Self-slimmed Vision Transformer**, European Conference on Computer Vision 2022.
+- **[17] Self-slimmed Vision Transformer**, ECCV 2022.
   
   *Zong, Zhuofan and Li, Kunchang and Song, Guanglu and Wang, Yali and Qiao, Yu and Leng, Biao and Liu, Yu.*
 
