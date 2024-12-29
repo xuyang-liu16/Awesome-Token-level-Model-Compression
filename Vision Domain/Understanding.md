@@ -214,6 +214,7 @@
   *Shuai Peng, Di Fu, Baole Wei, Yong Cao, Liangcai Gao, Zhi Tang.*
 
   [[Paper](https://arxiv.org/abs/2408.17062)] [Code] ![](https://img.shields.io/badge/Vote&Mix-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Voting_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+  
 
 ### Video Recognition:
 
@@ -247,7 +248,7 @@
 
   [[Paper](https://dl.acm.org/doi/abs/10.1145/3633781)] [Code] ![](https://img.shields.io/badge/STToMe-blue) ![](https://img.shields.io/badge/Action_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Spatio_Temporal-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[42] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval**, arXiv 2024.
+- **[6] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval**, arXiv 2024.
   
   *Shen, Leqi and Hao, Tianxiang and Zhao, Sicheng and Zhang, Yifeng and Liu, Pengzhang and Bao, Yongjun and Ding, Guiguang.*
 
