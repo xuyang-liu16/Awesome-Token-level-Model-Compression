@@ -193,36 +193,36 @@
   
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.html)] [Code] ![](https://img.shields.io/badge/Zero_TPrune-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[33] SPViT: Latency-Aware Soft Token Pruning**, ECCV 2022.
+- **[33] SPViT: Enabling Faster Vision Transformers via Latency-Aware Soft Token Pruning**, ECCV 2022.
   
   *Kong, Zhenglun et al.*
   
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_37)] [Code] ![](https://img.shields.io/badge/SPViT-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[34] PaPr: Training-Free One-Step Patch Pruning**, ECCV 2024.
+- **[34] PaPr: Training-Free One-Step Patch Pruning with Lightweight ConvNets for Faster Inference**, ECCV 2024.
   
   *Mahmud, Tanvir et al.*
   
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73337-6_7)] [Code] ![](https://img.shields.io/badge/PaPr-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Patch_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[35] Learning to Merge Tokens via Decoupled Embedding**, arXiv 2024.
+- **[35] Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers**, arXiv 2024.
   
   *Lee, Dong Hoon and Hong, Seunghoon.*
   
   [[Paper](https://arxiv.org/abs/2412.10569)] [Code] ![](https://img.shields.io/badge/DecoupledToMe-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[36] Vote&Mix: Plug-and-Play Token Reduction**, arXiv 2024.
+- **[36] Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer**, arXiv 2024.
   
   *Peng, Shuai et al.*
   
   [[Paper](https://arxiv.org/abs/2408.17062)] [Code] ![](https://img.shields.io/badge/Vote&Mix-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Voting_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[37] ToSA: Token Selective Attention**, arXiv 2024.
+- **[37] ToSA: Token Selective Attention for Efficient Vision Transformers**, arXiv 2024.
   *Singh, Manish Kumar et al.*
   
   [[Paper](https://arxiv.org/abs/2406.08816)] [Code] ![](https://img.shields.io/badge/ToSA-blue) ![](https://img.shields.io/badge/Vision_Understanding-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Selection-orange)
 
-- **[38] A-ViT: Adaptive Tokens**, CVPR 2022.
+- **[38] A-ViT: Adaptive Tokens for Efficient Vision Transformer**, CVPR 2022.
   
   *Yin, Hongxu et al.*
   
