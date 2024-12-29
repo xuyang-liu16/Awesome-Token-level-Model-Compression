@@ -269,7 +269,7 @@
   [[Paper](https://arxiv.org/abs/2409.01156)] [Code] ![](https://img.shields.io/badge/TempMe-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Text_Video_Retrieval-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 
-### Dense Prediction
+### Dense Prediction:
 
 - **[1] Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer**, CVPR 2022.
   
