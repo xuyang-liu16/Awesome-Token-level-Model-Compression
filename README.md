@@ -2,6 +2,13 @@
 
 # 🔎 Awesome Token Reduction for Model Compression 🚀
 
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+![papercount](https://img.shields.io/badge/paper_count-200+-pink)
+[![Maintenance](https://img.shields.io/badge/maintained%3F-yes-green.svg)](https://github.com/Naereen/StrapDown.js/graphs/commit-activity)
+[![Last Commit](https://img.shields.io/github/last-commit/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression.svg?style=flat&color=orange)](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression)
+[![GitHub](https://img.shields.io/github/stars/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression.svg?style=social)](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression.git)  
+
+
 </div>
 
 ## 🔥 <span id="head1"> *News* </span>
