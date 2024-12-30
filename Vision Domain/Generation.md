@@ -168,6 +168,12 @@
 
   [[Paper](https://arxiv.org/abs/2403.10266)] [Code] ![](https://img.shields.io/badge/DSP-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Sequence_Parallelism-orange)
 
+- **[29] Accelerating Diffusion Transformers with Dual Feature Caching**, arXiv 2024.
+
+  *Chang Zou and Evelyn Zhang and Runlin Guo and Haohang Xu and Conghui He and Xuming Hu and Linfeng Zhang.*
+  
+  [[Paper](https://arxiv.org/abs/2410.05317)] [[Code](https://github.com/Shenyi-Z/DuCa)] ![](https://img.shields.io/badge/DuCa-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Text2Video-green) ![](https://img.shields.io/badge/Token_Caching-orange) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Caching-orange)
+
 
 ### 🎥 Video Generation:
 
