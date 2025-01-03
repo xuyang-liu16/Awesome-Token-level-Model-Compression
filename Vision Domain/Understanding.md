@@ -33,7 +33,7 @@
   
   *Pan, Bowen and Panda, Rameswar and Jiang, Yifan and Wang, Zhangyang and Feris, Rogerio and Oliva, Aude.*
 
-  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/d072677d210ac4c03ba046120f0802ec-Abstract.html)] [[Code]([https://github.com/bowenpan/IA-RED2](http://people.csail.mit.edu/bpan/ia-red/))] ![](https://img.shields.io/badge/IA-RED2-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Redundancy_Reduction-purple)
+  [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/hash/d072677d210ac4c03ba046120f0802ec-Abstract.html)] [[Code]([https://github.com/bowenpan/IA-RED2](http://people.csail.mit.edu/bpan/ia-red/))] ![](https://img.shields.io/badge/IA_RED2-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Redundancy_Reduction-purple)
 
 - **[7] DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification**, NeurIPS 2021.
   
