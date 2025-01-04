@@ -248,7 +248,14 @@
 
   [[Paper](https://dl.acm.org/doi/abs/10.1145/3633781)] [Code] ![](https://img.shields.io/badge/STToMe-blue) ![](https://img.shields.io/badge/Action_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Spatio_Temporal-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[6] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval**, arXiv 2024.
+- **[6] Don't Look Twice: Faster Video Transformers with Run-Length Tokenization**, NeurIPS 2024.
+
+  *Choudhury, Rohan and Zhu, Guanglei and Liu, Sihan and Niinuma, Koichiro and Kitani, Kris M and Jeni, Laszlo Attila.*
+
+  [[Paper](https://dl.acm.org/doi/abs/10.1145/3633781)] [[Code](https://github.com/rccchoudhury/rlt)] ![](https://img.shields.io/badge/RLT-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Temporal_Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+  
+
+- **[7] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval**, arXiv 2024.
   
   *Shen, Leqi and Hao, Tianxiang and Zhao, Sicheng and Zhang, Yifeng and Liu, Pengzhang and Bao, Yongjun and Ding, Guiguang.*
 
@@ -309,7 +316,14 @@
 - **[9] ToSA: Token Selective Attention for Efficient Vision Transformers**, arXiv 2024.
   *Singh, Manish Kumar et al.*
   
-  [[Paper](https://arxiv.org/abs/2406.08816)] [Code] ![](https://img.shields.io/badge/ToSA-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Selection-orange)
+  [[Paper](https://arxiv.org/abs/2406.08816)] [Code] ![](https://img.shields.io/badge/ToSA-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[10] Less is More: Token Context-aware Learning for Object Tracking**, AAAI 2025.
+  *Chenlong Xu and Bineng Zhong and Qihua Liang and Yaozong Zheng and Guorong Li and Shuxiang Song.*
+  
+  [[Paper](https://arxiv.org/abs/2501.00758)] [[Code](https://github.com/XuChenLong/LMTrack)] ![](https://img.shields.io/badge/LMTrack-blue) ![](https://img.shields.io/badge/Object_Tracking-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+  
 
 
 
