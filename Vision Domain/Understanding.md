@@ -81,7 +81,7 @@
   
   *Wu, Lemeng and Liu, Xingchao and Liu, Qiang.*
 
-  [[Paper](https://arxiv.org/abs/2102.08606)] [Code] ![](https://img.shields.io/badge/CentroidTransformers-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention-Based-purple)
+  [[Paper](https://arxiv.org/abs/2102.08606)] [Code] ![](https://img.shields.io/badge/CentroidTransformers-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple)
 
 - **[15] GroupViT: Semantic Segmentation Emerges From Text Supervision**, CVPR 2022.
   
@@ -101,11 +101,11 @@
 
   [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-20083-0_26)] [[Code](https://github.com/Sense-X/SiT)] ![](https://img.shields.io/badge/SelfSlimmedViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Self_Slimming-purple)
 
-- **[18] Which Tokens to Use? Investigating Token Reduction in Vision Transformers**, ICCV 2023 Workshop.
+- **[18] Which Tokens to Use? Investigating Token Reduction in Vision Transformers**, ICCVw 2023.
   
   *Haurum, Joakim Bruslund and Escalera, Sergio and Taylor, Graham W and Moeslund, Thomas B.*
 
-  [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/NIVT/html/Haurum_Which_Tokens_to_Use_Investigating_Token_Reduction_in_Vision_Transformers_ICCVW_2023_paper.html)] [[Code](https://vap.aau.dk/tokens)] ![](https://img.shields.io/badge/TokenReduction-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Token_Reduction-purple)
+  [[Paper](https://openaccess.thecvf.com/content/ICCV2023W/NIVT/html/Haurum_Which_Tokens_to_Use_Investigating_Token_Reduction_in_Vision_Transformers_ICCVW_2023_paper.html)] [[Code](https://vap.aau.dk/tokens)] ![](https://img.shields.io/badge/TokenReduction-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Training_Free-brown) 
 
 - **[19] Efficient Vision Transformer via Token Merger**, TIP 2023.
   
@@ -195,25 +195,25 @@
   
   *Wang, Hongjie and Dedhia, Bhishma and Jha, Niraj K.*
 
-  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.html)] [Code] ![](https://img.shields.io/badge/Zero_TPrune-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  [[Paper](https://openaccess.thecvf.com/content/CVPR2024/html/Wang_Zero-TPrune_Zero-Shot_Token_Pruning_through_Leveraging_of_the_Attention_Graph_CVPR_2024_paper.html)] [Code] ![](https://img.shields.io/badge/Zero_TPrune-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[34] PaPr: Training-Free One-Step Patch Pruning with Lightweight ConvNets for Faster Inference**, ECCV 2024.
   
   *Tanvir Mahmud, Burhaneddin Yaman, Chun-Hao Liu, Diana Marculescu.*
 
-  [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73337-6_7)] [Code] ![](https://img.shields.io/badge/PaPr-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Patch_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-73337-6_7)] [Code] ![](https://img.shields.io/badge/PaPr-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Patch_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[35] Learning to Merge Tokens via Decoupled Embedding for Efficient Vision Transformers**, arXiv 2024.
   
   *Lee, Dong Hoon and Hong, Seunghoon.*
 
-  [[Paper](https://arxiv.org/abs/2412.10569)] [Code] ![](https://img.shields.io/badge/DecoupledToMe-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2412.10569)] [Code] ![](https://img.shields.io/badge/DecoupledToMe-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[36] Vote&Mix: Plug-and-Play Token Reduction for Efficient Vision Transformer**, arXiv 2024.
   
   *Shuai Peng, Di Fu, Baole Wei, Yong Cao, Liangcai Gao, Zhi Tang.*
 
-  [[Paper](https://arxiv.org/abs/2408.17062)] [Code] ![](https://img.shields.io/badge/Vote&Mix-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Free-red) ![](https://img.shields.io/badge/Voting_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2408.17062)] [Code] ![](https://img.shields.io/badge/Vote&Mix-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Voting_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
   
 
 ### 📹 Video Recognition:
@@ -222,7 +222,7 @@
   
   *Michael Ryoo, AJ Piergiovanni, Anurag Arnab, Mostafa Dehghani, Anelia Angelova.*
 
-  [[Paper](https://proceedings.neurips.cc/paper/2021/hash/6a30e32e56fce5cf381895dfe6ca7b6f-Abstract.html)] [[Code](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner)] ![](https://img.shields.io/badge/TokenLearner-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://proceedings.neurips.cc/paper/2021/hash/6a30e32e56fce5cf381895dfe6ca7b6f-Abstract.html)] [[Code](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner)] ![](https://img.shields.io/badge/TokenLearner-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[2] Efficient Video Transformers with Spatial-Temporal Token Selection**, ECCV 2022.
   
@@ -293,35 +293,35 @@
 
   *Liu, Yifei and Gehrig, Mathias and Messikommer, Nico and Cannici, Marco and Scaramuzza, Davide.*
   
-  [[Paper](https://arxiv.org/abs/2306.07050)] [[Code](https://github.com/uzh-rpg/svit)] ![](https://img.shields.io/badge/SViT-blue) ![](https://img.shields.io/badge/Object_Detection-green) ![](https://img.shields.io/badge/Instance_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  [[Paper](https://arxiv.org/abs/2306.07050)] [[Code](https://github.com/uzh-rpg/svit)] ![](https://img.shields.io/badge/SViT-blue) ![](https://img.shields.io/badge/Object_Detection-green) ![](https://img.shields.io/badge/Instance_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[6] Dynamic Token-Pass Transformers for Semantic Segmentation**, WACV 2024.
 
   *Liu, Yuang and Zhou, Qiang and Wang, Jin and Wang, Zhibin and Wang, Fan and Wang, Jun and Zhang, Wei.*
   
-  [[Paper](https://arxiv.org/abs/2308.01944)] [[Code](https://github.com/FLHonker/DoViT-code)] ![](https://img.shields.io/badge/DoViT-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  [[Paper](https://arxiv.org/abs/2308.01944)] [[Code](https://github.com/FLHonker/DoViT-code)] ![](https://img.shields.io/badge/DoViT-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[7] DTMFormer: Dynamic Token Merging for Boosting Transformer-Based Medical Image Segmentation**, AAAI 2024.
 
   *Wang, Zhehao and Lin, Xian and Wu, Nannan and Yu, Li and Cheng, Kwang-Ting and Yan, Zengqiang.*
   
-  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28394)] [[Code](https://github.com/iam-nacl/DTMFormer)] ![](https://img.shields.io/badge/DTMFormer-blue) ![](https://img.shields.io/badge/Medical_Image_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28394)] [[Code](https://github.com/iam-nacl/DTMFormer)] ![](https://img.shields.io/badge/DTMFormer-blue) ![](https://img.shields.io/badge/Medical_Image_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[8] Segformer++: Efficient Token-Merging Strategies for High-Resolution Semantic Segmentation**, MIPR 2024.
   
   *Daniel Kienzle and Marco Kantonis and Robin Schön and Rainer Lienhart.*
   
-  [[Paper](https://arxiv.org/abs/2405.14467)] [Code] ![](https://img.shields.io/badge/Segformer++-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2405.14467)] [Code] ![](https://img.shields.io/badge/Segformer++-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[9] ToSA: Token Selective Attention for Efficient Vision Transformers**, arXiv 2024.
   *Singh, Manish Kumar et al.*
   
-  [[Paper](https://arxiv.org/abs/2406.08816)] [Code] ![](https://img.shields.io/badge/ToSA-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  [[Paper](https://arxiv.org/abs/2406.08816)] [Code] ![](https://img.shields.io/badge/ToSA-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[10] Less is More: Token Context-aware Learning for Object Tracking**, AAAI 2025.
   *Chenlong Xu and Bineng Zhong and Qihua Liang and Yaozong Zheng and Guorong Li and Shuxiang Song.*
   
-  [[Paper](https://arxiv.org/abs/2501.00758)] [[Code](https://github.com/XuChenLong/LMTrack)] ![](https://img.shields.io/badge/LMTrack-blue) ![](https://img.shields.io/badge/Object_Tracking-green) ![](https://img.shields.io/badge/Training_Based-red) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  [[Paper](https://arxiv.org/abs/2501.00758)] [[Code](https://github.com/XuChenLong/LMTrack)] ![](https://img.shields.io/badge/LMTrack-blue) ![](https://img.shields.io/badge/Object_Tracking-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
   
 
