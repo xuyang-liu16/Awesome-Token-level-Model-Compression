@@ -1645,183 +1645,698 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[36] D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models**, 2024  
-   
-
-
-- **[37] Unveiling and harnessing hidden attention sinks: Enhancing large language models without training through attention calibration**, 2024  
-   
-
-
-- **[38] Sglang: Efficient execution of structured language model programs**, 2024  
-   
-
-
-- **[39] Prompt cache: Modular attention reuse for low-latency inference**, 2024  
-   
-
-
-- **[40] Cascade inference: Memory bandwidth efficient shared prefix batch decoding**, 2024  
-   
-
-
-- **[41] Hydragen: High-Throughput LLM Inference with Shared Prefixes**, 2024  
-   
-
-
-- **[42] RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**, 2024  
-   
-
-
-- **[43] CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion**, 2024  
-   
-
-
-- **[44] Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference**, 2024  
-   
-
-
-- **[45] Ada-kv: Optimizing kv cache eviction by adaptive budget allocation for efficient llm inference**, 2024  
-   
-
-
-- **[46] Massive activations in large language models**, 2024  
-   
-
-
-- **[47] Unifying KV Cache Compression for Large Language Models with LeanKV**, 2024  
-   
-
-
-- **[48] More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression**, 2024  
-   
-
-
-- **[49] LayerKV: Optimizing Large Language Model Serving with Layer-wise KV Cache Management**, 2024  
-   
-
-
-- **[50] KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head**, 2024  
-   
-
-
-- **[51] ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty**, 2024  
-   
-
-
-- **[52] UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference**, 2024  
-   
-
-
-- **[53] KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing**, 2024  
-   
-
-
-- **[54] LoCoCo: Dropping In Convolutions for Long Context Compression**, 2024  
-   
-
-
-- **[55] SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**, 2024  
-   
-
-
-- **[56] EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance**, 2024  
-   
-
-
-- **[57] ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression**, 2024  
-   
-
-
-- **[58] Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**, 2024  
-   
-
-
-- **[59] No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization**, 2024  
-   
-
-
-- **[60] LSH-E Tells You What To Discard: An Adaptive Locality-Sensitive Strategy for KV Cache Compression**, 2024  
-   
-
-
-- **[61] Enhancing and Accelerating Large Language Models via Instruction-Aware Contextual Compression**, 2024  
-   
-
-
-- **[62] LoMA: Lossless Compressed Memory Attention**, 2024  
-   
-
-
-- **[63] KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches**, 2024  
-   
-
-
-- **[64] NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time**, 2024  
-   
-
-
-- **[65] TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection**, 2024  
-   
-
-
-- **[66] ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction**, 2024  
-   
-
-
-- **[67] Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache**, 2024  
-   
-
-
-- **[68] InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management**, 2024  
-   
-
-
-- **[69] XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference**, 2024  
-   
-
-
-- **[70] In-context KV-Cache Eviction for LLMs via Attention-Gate**, 2024  
-   
-
-
-- **[71] Recycled Attention: Efficient inference for long-context language models**, 2024  
-   
-
-
-- **[72] MagicPIG: LSH Sampling for Efficient LLM Generation**, 2024  
-   
-
-
-- **[73] Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache**, 2024  
-   
-
-
-- **[74] When Attention Sink Emerges in Language Models: An Empirical View**, 2024  
-   
-
-
-- **[75] Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference**, 2024  
-   
-
-
-- **[76] SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**, 2024  
-   
-
-
-- **[77] A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference**, 2024  
-   
-
-
-- **[78] LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**, 2024  
-   
-
-
-- **[79] Efficient Sparse Attention needs Adaptive Token Release**, 2024  
-   
-
-
-- **[80] Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling**, 2024  
-   
-
+- **[36] D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models**, arXiv 2024  
+  *Wan, Zhongwei and Wu, Xinjian and Zhang, Yu and Xin, Yi and Tao, Chaofan and Zhu, Zhihong and Wang, Xin and Luo, Siqi and Xiong, Jing and Zhang, Mi*  
+  [[Paper](https://arxiv.org/pdf/2406.13035)] ![D2O](https://img.shields.io/badge/D2O-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{wan2024d2o,
+    title={D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models},
+    author={Wan, Zhongwei and Wu, Xinjian and Zhang, Yu and Xin, Yi and Tao, Chaofan and Zhu, Zhihong and Wang, Xin and Luo, Siqi and Xiong, Jing and Zhang, Mi},
+    journal={arXiv preprint arXiv:2406.13035},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[37] Unveiling and harnessing hidden attention sinks: Enhancing large language models without training through attention calibration**, ICML 2024  
+  *Yu, Zhongzhi and Wang, Zheng and Fu, Yonggan and Shi, Huihong and Shaikh, Khalid and Lin, Yingyan (Celine)*  
+  [[Paper](https://raw.githubusercontent.com/mlresearch/v235/main/assets/yu24l/yu24l.pdf)] [[Code](https://github.com/GATECH-EIC/ACT)] ![ACT](https://img.shields.io/badge/ACT-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention_Sink](https://img.shields.io/badge/Attention_Sink-yellow) ![Analysis](https://img.shields.io/badge/Analysis-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{10.5555/3692070.3694448,
+  author = {Yu, Zhongzhi and Wang, Zheng and Fu, Yonggan and Shi, Huihong and Shaikh, Khalid and Lin, Yingyan (Celine)},
+  title = {Unveiling and harnessing hidden attention sinks: enhancing large language models without training through attention calibration},
+  year = {2025},
+  publisher = {JMLR.org},
+  booktitle = {Proceedings of the 41st International Conference on Machine Learning},
+  articleno = {2378},
+  numpages = {19},
+  location = {Vienna, Austria},
+  series = {ICML'24}
+  }
+  ```
+  </details>  
+
+- **[38] Sglang: Efficient execution of structured language model programs**, NeurIPS 2024  
+  *Lianmin Zheng and Liangsheng Yin and Zhiqiang Xie and Chuyue Sun and Jeff Huang and Cody Hao Yu and Shiyi Cao and Christos Kozyrakis and Ion Stoica and Joseph E. Gonzalez and Clark Barrett and Ying Sheng*  
+  [[Paper](https://openreview.net/pdf?id=VqkAKQibpq)] [[Code](https://github.com/sgl-project/sglang)] ![SGLang](https://img.shields.io/badge/SGLang-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Reusing](https://img.shields.io/badge/Reusing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{
+  zheng2024sglang,
+  title={{SGL}ang: Efficient Execution of Structured Language Model Programs},
+  author={Lianmin Zheng and Liangsheng Yin and Zhiqiang Xie and Chuyue Sun and Jeff Huang and Cody Hao Yu and Shiyi Cao and Christos Kozyrakis and Ion Stoica and Joseph E. Gonzalez and Clark Barrett and Ying Sheng},
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+  year={2024},
+  url={https://openreview.net/forum?id=VqkAKQibpq}
+  }
+  ```
+  </details>  
+
+- **[39] Prompt cache: Modular attention reuse for low-latency inference**, MLSys 2024  
+  *Gim, In and Chen, Guojun and Lee, Seung-seob and Sarda, Nikhil and Khandelwal, Anurag and Zhong, Lin*  
+  [[Paper](https://proceedings.mlsys.org/paper_files/paper/2024/file/a66caa1703fe34705a4368c3014c1966-Paper-Conference.pdf)] [[Code](https://github.com/MachineLearningSystem/24MLSYS-prompt-cache)] ![Prompt_Cache](https://img.shields.io/badge/Prompt_Cache-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Reusing](https://img.shields.io/badge/Reusing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{MLSYS2024_a66caa17,
+   author = {Gim, In and Chen, Guojun and Lee, Seung-seob and Sarda, Nikhil and Khandelwal, Anurag and Zhong, Lin},
+   booktitle = {Proceedings of Machine Learning and Systems},
+   editor = {P. Gibbons and G. Pekhimenko and C. De Sa},
+   pages = {325--338},
+   title = {Prompt Cache: Modular Attention Reuse for Low-Latency Inference},
+   url = {https://proceedings.mlsys.org/paper_files/paper/2024/file/a66caa1703fe34705a4368c3014c1966-Paper-Conference.pdf},
+   volume = {6},
+   year = {2024}
+  }
+  ```
+  </details>  
+
+- **[40] Hydragen: High-Throughput LLM Inference with Shared Prefixes**, ES-FoMo-II  2024  
+  *Jordan Juravsky and Bradley Brown and Ryan Saul Ehrlich and Daniel Y Fu and Christopher Re and Azalia Mirhoseini*  
+  [[Paper](https://openreview.net/pdf?id=Ye3ia34Fpp)] [[Code](https://github.com/ScalingIntelligence/hydragen)] ![Hydragen](https://img.shields.io/badge/Hydragen-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Reusing](https://img.shields.io/badge/Reusing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{
+  juravsky2024hydragen,
+  title={Hydragen: High-Throughput {LLM} Inference with Shared Prefixes},
+  author={Jordan Juravsky and Bradley Brown and Ryan Saul Ehrlich and Daniel Y Fu and Christopher Re and Azalia Mirhoseini},
+  booktitle={Workshop on Efficient Systems for Foundation Models II @ ICML2024},
+  year={2024},
+  url={https://openreview.net/forum?id=Ye3ia34Fpp}
+  }
+  ```
+  </details>  
+
+- **[41] RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**, arXiv 2024  
+  *Jin, Chao and Zhang, Zili and Jiang, Xuanlin and Liu, Fangyue and Liu, Xin and Liu, Xuanzhe and Jin, Xin*  
+  [[Paper](https://arxiv.org/pdf/2404.12457)] ![RAGCache](https://img.shields.io/badge/RAGCache-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow) ![RAG](https://img.shields.io/badge/RAG-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{jin2024ragcache,
+    title={RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation},
+    author={Jin, Chao and Zhang, Zili and Jiang, Xuanlin and Liu, Fangyue and Liu, Xin and Liu, Xuanzhe and Jin, Xin},
+    journal={arXiv preprint arXiv:2404.12457},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[42] CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion**, arXiv 2024  
+  *Yao, Jiayi and Li, Hanchen and Liu, Yuhan and Ray, Siddhant and Cheng, Yihua and Zhang, Qizheng and Du, Kuntai and Lu, Shan and Jiang, Junchen*  
+  [[Paper](https://arxiv.org/pdf/2405.16444)] [[Code](https://github.com/YaoJiayi/CacheBlend)] ![CacheBlend](https://img.shields.io/badge/CacheBlend-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Reusing](https://img.shields.io/badge/Reusing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow) ![RAG](https://img.shields.io/badge/RAG-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{yao2024cacheblend,
+    title={CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion},
+    author={Yao, Jiayi and Li, Hanchen and Liu, Yuhan and Ray, Siddhant and Cheng, Yihua and Zhang, Qizheng and Du, Kuntai and Lu, Shan and Jiang, Junchen},
+    journal={arXiv preprint arXiv:2405.16444},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[43] Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference**, arXiv 2024  
+  *Tang, Jiaming and Zhao, Yilong and Zhu, Kan and Xiao, Guangxuan and Kasikci, Baris and Han, Song*  
+  [[Paper](https://arxiv.org/pdf/2406.10774)] [[Code](https://github.com/mit-han-lab/Quest)] ![Quest](https://img.shields.io/badge/Quest-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![PageAttention](https://img.shields.io/badge/PageAttention-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{tang2024quest,
+    title={Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference},
+    author={Tang, Jiaming and Zhao, Yilong and Zhu, Kan and Xiao, Guangxuan and Kasikci, Baris and Han, Song},
+    journal={arXiv preprint arXiv:2406.10774},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[44] Ada-kv: Optimizing kv cache eviction by adaptive budget allocation for efficient llm inference**, arXiv 2024  
+  *Feng, Yuan and Lv, Junlin and Cao, Yukun and Xie, Xike and Zhou, S Kevin*  
+  [[Paper](https://arxiv.org/pdf/2407.11550)] [[Code](https://github.com/FFY0/AdaKV)] ![Ada--kv](https://img.shields.io/badge/Ada--kv-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{feng2024ada,
+    title={Ada-kv: Optimizing kv cache eviction by adaptive budget allocation for efficient llm inference},
+    author={Feng, Yuan and Lv, Junlin and Cao, Yukun and Xie, Xike and Zhou, S Kevin},
+    journal={arXiv preprint arXiv:2407.11550},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[45] Massive activations in large language models**, COLM 2024  
+  *Sun, Mingjie and Chen, Xinlei and Kolter, J Zico and Liu, Zhuang*  
+  [[Paper](https://openreview.net/pdf?id=F7aAhfitX6)] [[Code](https://github.com/locuslab/massive-activations)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Massive_Activation](https://img.shields.io/badge/Massive_Activation-yellow) ![Analysis](https://img.shields.io/badge/Analysis-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{sun2024massive,
+    title={Massive activations in large language models},
+    author={Sun, Mingjie and Chen, Xinlei and Kolter, J Zico and Liu, Zhuang},
+    journal={arXiv preprint arXiv:2402.17762},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[46] Unifying KV Cache Compression for Large Language Models with LeanKV**, arXiv 2024  
+  *Zhang, Yanqi and Hu, Yuwei and Zhao, Runyuan and Lui, John and Chen, Haibo*  
+  [[Paper](https://arxiv.org/pdf/2412.03131)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{zhang2024unifying,
+    title={Unifying kv cache compression for large language models with leankv},
+    author={Zhang, Yanqi and Hu, Yuwei and Zhao, Runyuan and Lui, John and Chen, Haibo},
+    journal={arXiv preprint arXiv:2412.03131},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[47] More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression**, arXiv 2024  
+  *Zhang, Jiebin and Zhu, Dawei and Song, Yifan and Wu, Wenhao and Kuang, Chuqiao and Li, Xiaoguang and Shang, Lifeng and Liu, Qun and Li, Sujian*  
+  [[Paper](https://arxiv.org/pdf/2412.12706)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Quantization](https://img.shields.io/badge/Quantization-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{zhang2024more,
+    title={More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression},
+    author={Zhang, Jiebin and Zhu, Dawei and Song, Yifan and Wu, Wenhao and Kuang, Chuqiao and Li, Xiaoguang and Shang, Lifeng and Liu, Qun and Li, Sujian},
+    journal={arXiv preprint arXiv:2412.12706},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[48] LayerKV: Optimizing Large Language Model Serving with Layer-wise KV Cache Management**, arXiv 2024  
+  *Xiong, Yi and Wu, Hao and Shao, Changxu and Wang, Ziqing and Zhang, Rui and Guo, Yuhong and Zhao, Junping and Zhang, Ke and Pan, Zhenxuan*  
+  [[Paper](https://arxiv.org/pdf/2410.00428)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Offloading](https://img.shields.io/badge/Offloading-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{xiong2024layerkv,
+    title={Layerkv: Optimizing large language model serving with layer-wise kv cache management},
+    author={Xiong, Yi and Wu, Hao and Shao, Changxu and Wang, Ziqing and Zhang, Rui and Guo, Yuhong and Zhao, Junping and Zhang, Ke and Pan, Zhenxuan},
+    journal={arXiv preprint arXiv:2410.00428},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[49] KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head**, arXiv 2024  
+  *Isaac Rehg*  
+  [[Paper](https://arxiv.org/pdf/2410.00161)] [[Code](https://github.com/IsaacRe/vllm-kvcompress)] ![KV--Compress](https://img.shields.io/badge/KV--Compress-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{rehg2024kv,
+    title={KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head},
+    author={Rehg, Isaac},
+    journal={arXiv preprint arXiv:2410.00161},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[50] ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty**, arXiv 2024  
+  *Zhong, Meizhi and Liu, Xikai and Zhang, Chen and Lei, Yikun and Gao, Yan and Hu, Yao and Chen, Kehai and Zhang, Min*  
+  [[Paper](https://arxiv.org/pdf/2412.09036)] ![ZigZagKV](https://img.shields.io/badge/ZigZagKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Layer_Uncertainty](https://img.shields.io/badge/Layer_Uncertainty-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Layer_Uncertainty](https://img.shields.io/badge/Layer_Uncertainty-yellow) ![Dynamic_Budget_Allocation_](https://img.shields.io/badge/Dynamic_Budget_Allocation_-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{zhong2024zigzagkv,
+    title={ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty},
+    author={Zhong, Meizhi and Liu, Xikai and Zhang, Chen and Lei, Yikun and Gao, Yan and Hu, Yao and Chen, Kehai and Zhang, Min},
+    journal={arXiv preprint arXiv:2412.09036},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[51] UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference**, arXiv 2024  
+  *Xiong, Jing and Shen, Jianghan and Ye, Fanghua and Tao, Chaofan and Wan, Zhongwei and Lu, Jianqiao and Wu, Xun and Zheng, Chuanyang and Guo, Zhijiang and Kong, Lingpeng and others*  
+  [[Paper](https://arxiv.org/pdf/2410.03090)] ![UNComp](https://img.shields.io/badge/UNComp-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Matrix_Entropy](https://img.shields.io/badge/Matrix_Entropy-purple) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{xiong2024uncomp,
+    title={UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference},
+    author={Xiong, Jing and Shen, Jianghan and Ye, Fanghua and Tao, Chaofan and Wan, Zhongwei and Lu, Jianqiao and Wu, Xun and Zheng, Chuanyang and Guo, Zhijiang and Kong, Lingpeng and others},
+    journal={arXiv preprint arXiv:2410.03090},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[52] KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing**, arXiv 2024  
+  *Yang, Yifei and Cao, Zouying and Chen, Qiguang and Qin, Libo and Yang, Dongjie and Zhao, Hai and Chen, Zhi*  
+  [[Paper](https://arxiv.org/pdf/2410.18517)] ![KVSharer](https://img.shields.io/badge/KVSharer-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Similarity](https://img.shields.io/badge/Similarity-purple) ![Sharing](https://img.shields.io/badge/Sharing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{yang2024kvsharer,
+    title={Kvsharer: Efficient inference via layer-wise dissimilar KV cache sharing},
+    author={Yang, Yifei and Cao, Zouying and Chen, Qiguang and Qin, Libo and Yang, Dongjie and Zhao, Hai and Chen, Zhi},
+    journal={arXiv preprint arXiv:2410.18517},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[53] LoCoCo: Dropping In Convolutions for Long Context Compression**, ICML 2024  
+  *Cai, Ruisi and Tian, Yuandong and Wang, Zhangyang and Chen, Beidi*  
+  [[Paper](https://arxiv.org/pdf/2406.05317)] [[Code](https://github.com/VITA-Group/LoCoCo)] ![LoCoCo](https://img.shields.io/badge/LoCoCo-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Learnable_Mechanism](https://img.shields.io/badge/Learnable_Mechanism-purple) ![Conv](https://img.shields.io/badge/Conv-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{
+  cai2024lococo,
+  title={LoCoCo: Dropping In Convolutions for Long Context Compression},
+  author={Ruisi Cai and Yuandong Tian and Zhangyang Wang and Beidi Chen},
+  booktitle={Forty-first International Conference on Machine Learning},
+  year={2024},
+  url={https://openreview.net/forum?id=NUlyqMyhO9}
+  }
+  ```
+  </details>  
+
+- **[54] SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**, arXiv 2024  
+  *Zhang, Xuan and Du, Cunxiao and Du, Chao and Pang, Tianyu and Gao, Wei and Lin, Min*  
+  [[Paper](https://arxiv.org/pdf/2410.13846)] [[Code](https://github.com/sail-sg/SimLayerKV)] ![Simlayerkv](https://img.shields.io/badge/Simlayerkv-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{zhang2024simlayerkv,
+    title={Simlayerkv: A simple framework for layer-level KV cache reduction},
+    author={Zhang, Xuan and Du, Cunxiao and Du, Chao and Pang, Tianyu and Gao, Wei and Lin, Min},
+    journal={arXiv preprint arXiv:2410.13846},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[55] EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance**, arXiv 2024  
+  *Li, Yingxin and Li, Ye and Meng, Yuan and Ma, Xinzhu and Geng, Zihan and Xia, Shutao and Wang, Zhi*  
+  [[Paper](https://arxiv.org/pdf/2412.08521)] ![EMS](https://img.shields.io/badge/EMS-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Global--Local_score](https://img.shields.io/badge/Global--Local_score-yellow) ![Evict--Then--Merge](https://img.shields.io/badge/Evict--Then--Merge-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{li2024ems,
+    title={EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance},
+    author={Li, Yingxin and Li, Ye and Meng, Yuan and Ma, Xinzhu and Geng, Zihan and Xia, Shutao and Wang, Zhi},
+    journal={arXiv preprint arXiv:2412.08521},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[56] ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression**, arXiv 2024  
+  *Liu, Guangda and Li, Chengwei and Zhao, Jieru and Zhang, Chenqi and Guo, Minyi*  
+  [[Paper](https://arxiv.org/pdf/2412.03213)] ![ClusterKV](https://img.shields.io/badge/ClusterKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Similarity](https://img.shields.io/badge/Similarity-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{liu2024clusterkv,
+    title={ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression},
+    author={Liu, Guangda and Li, Chengwei and Zhao, Jieru and Zhang, Chenqi and Guo, Minyi},
+    journal={arXiv preprint arXiv:2412.03213},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[57] Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**, arXiv 2024  
+  *Huang, Yuxiang and Yuan, Binhang and Han, Xu and Xiao, Chaojun and Liu, Zhiyuan*  
+  [[Paper](https://arxiv.org/pdf/2410.01805)] [[Code](https://github.com/huangyuxiang03/Locret)] ![Locret](https://img.shields.io/badge/Locret-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Learnable_Mechanism](https://img.shields.io/badge/Learnable_Mechanism-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Retaining_Head](https://img.shields.io/badge/Retaining_Head-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{huang2024locret,
+    title={Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads},
+    author={Huang, Yuxiang and Yuan, Binhang and Han, Xu and Xiao, Chaojun and Liu, Zhiyuan},
+    journal={arXiv preprint arXiv:2410.01805},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[58] No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization**, arXiv 2024  
+  *Yang, June Yong and Kim, Byeongwook and Bae, Jeongin and Kwon, Beomseok and Park, Gunho and Yang, Eunho and Kwon, Se Jung and Lee, Dongsoo*  
+  [[Paper](https://arxiv.org/pdf/2402.18096)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Quantization](https://img.shields.io/badge/Quantization-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{yang2024no,
+    title={No token left behind: Reliable kv cache compression via importance-aware mixed precision quantization},
+    author={Yang, June Yong and Kim, Byeongwook and Bae, Jeongin and Kwon, Beomseok and Park, Gunho and Yang, Eunho and Kwon, Se Jung and Lee, Dongsoo},
+    journal={arXiv preprint arXiv:2402.18096},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[59] LoMA: Lossless Compressed Memory Attention**, arXiv 2024  
+  *Wang, Yumeng and Xiao, Zhenyang*  
+  [[Paper](https://arxiv.org/pdf/2401.09486)] ![LoMA](https://img.shields.io/badge/LoMA-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Learnable_Mechanism](https://img.shields.io/badge/Learnable_Mechanism-purple) ![Soft_Token](https://img.shields.io/badge/Soft_Token-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{wang2024loma,
+    title={LoMA: Lossless Compressed Memory Attention},
+    author={Wang, Yumeng and Xiao, Zhenyang},
+    journal={arXiv preprint arXiv:2401.09486},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[60] KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches**, EMNLP 2024  
+  *Yuan, Jiayi  and  Liu, Hongyi  and  Zhong, Shaochen  and  Chuang, Yu-Neng  and Li, Songchen  and  Wang, Guanchu  and  Le, Duy  and  Jin, Hongye  and  Chaudhary, Vipin  and  Xu, Zhaozhuo  and  Liu, Zirui  and  Hu, Xia*  
+  [[Paper](https://aclanthology.org/2024.findings-emnlp.266.pdf)] [[Code](https://github.com/henryzhongsc/longctx_bench)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Benchmark](https://img.shields.io/badge/Benchmark-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{yuan-etal-2024-kv,
+      title = "{KV} Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches",
+      author = "Yuan, Jiayi  and
+        Liu, Hongyi  and
+        Zhong, Shaochen  and
+        Chuang, Yu-Neng  and
+        Li, Songchen  and
+        Wang, Guanchu  and
+        Le, Duy  and
+        Jin, Hongye  and
+        Chaudhary, Vipin  and
+        Xu, Zhaozhuo  and
+        Liu, Zirui  and
+        Hu, Xia",
+      editor = "Al-Onaizan, Yaser  and
+        Bansal, Mohit  and
+        Chen, Yun-Nung",
+      booktitle = "Findings of the Association for Computational Linguistics: EMNLP 2024",
+      month = nov,
+      year = "2024",
+      address = "Miami, Florida, USA",
+      publisher = "Association for Computational Linguistics",
+      url = "https://aclanthology.org/2024.findings-emnlp.266/",
+      doi = "10.18653/v1/2024.findings-emnlp.266",
+      pages = "4623--4648"
+  }
+  ```
+  </details>  
+
+- **[61] NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time**, ACL 2024  
+  *Chen, Yilong  and  Wang, Guoxia  and Shang, Junyuan  and   Cui, Shiyao  and Zhang, Zhenyu  and Liu, Tingwen  an Wang, Shuohuan  and  Sun, Yu  and  Yu, Dianhai  and  Wu, Hua*  
+  [[Paper](https://aclanthology.org/2024.acl-long.428.pdf)] [[Code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL)] ![NACL](https://img.shields.io/badge/NACL-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{chen-etal-2024-nacl,
+      title = "{NACL}: A General and Effective {KV} Cache Eviction Framework for {LLM} at Inference Time",
+      author = "Chen, Yilong  and
+        Wang, Guoxia  and
+        Shang, Junyuan  and
+        Cui, Shiyao  and
+        Zhang, Zhenyu  and
+        Liu, Tingwen  and
+        Wang, Shuohuan  and
+        Sun, Yu  and
+        Yu, Dianhai  and
+        Wu, Hua",
+      editor = "Ku, Lun-Wei  and
+        Martins, Andre  and
+        Srikumar, Vivek",
+      booktitle = "Proceedings of the 62nd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers)",
+      month = aug,
+      year = "2024",
+      address = "Bangkok, Thailand",
+      publisher = "Association for Computational Linguistics",
+      url = "https://aclanthology.org/2024.acl-long.428/",
+      doi = "10.18653/v1/2024.acl-long.428",
+      pages = "7913--7926"
+  }
+  ```
+  </details>  
+
+- **[62] TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection**, arXiv 2024  
+  *Wu, Wei and Pan, Zhuoshi and Wang, Chao and Chen, Liyi and Bai, Yunchu and Fu, Kun and Wang, Zheng and Xiong, Hui*  
+  [[Paper](https://arxiv.org/pdf/2411.02886)] ![TokenSelect](https://img.shields.io/badge/TokenSelect-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{wu2024tokenselect,
+    title={TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection},
+    author={Wu, Wei and Pan, Zhuoshi and Wang, Chao and Chen, Liyi and Bai, Yunchu and Fu, Kun and Wang, Zheng and Xiong, Hui},
+    journal={arXiv preprint arXiv:2411.02886},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[63] ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction**, NeurIPS 2024  
+  *Renze Chen and Zhuofeng Wang and Beiquan Cao and Tong Wu and Size Zheng and Xiuhong Li and Xuechao Wei and Shengen Yan and Meng Li and Yun Liang*  
+  [[Paper](https://openreview.net/pdf?id=4oAt5L4lYe)] [[Code](https://github.com/pku-liang/ArkVale)] ![ArkVale](https://img.shields.io/badge/ArkVale-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow) ![KV--page](https://img.shields.io/badge/KV--page-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{
+  chen2024arkvale,
+  title={ArkVale: Efficient Generative {LLM} Inference with Recallable Key-Value Eviction},
+  author={Renze Chen and Zhuofeng Wang and Beiquan Cao and Tong Wu and Size Zheng and Xiuhong Li and Xuechao Wei and Shengen Yan and Meng Li and Yun Liang},
+  booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
+  year={2024},
+  url={https://openreview.net/forum?id=4oAt5L4lYe}
+  }
+  ```
+  </details>  
+
+- **[64] Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache**, MLSys 2024  
+  *Zhang, Zhenyu and Liu, Shiwei and Chen, Runjin and Kailkhura, Bhavya and Chen, Beidi and Wang, Atlas*  
+  [[Paper](https://proceedings.mlsys.org/paper_files/paper/2024/file/bbb7506579431a85861a05fff048d3e1-Paper-Conference.pdf)] [[Code](https://github.com/VITA-Group/Q-Hitter)] ![Q--Hitter](https://img.shields.io/badge/Q--Hitter-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Quantization](https://img.shields.io/badge/Quantization-orange) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Quantization_Friendlines](https://img.shields.io/badge/Quantization_Friendlines-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{MLSYS2024_bbb75065,
+   author = {Zhang, Zhenyu and Liu, Shiwei and Chen, Runjin and Kailkhura, Bhavya and Chen, Beidi and Wang, Atlas},
+   booktitle = {Proceedings of Machine Learning and Systems},
+   editor = {P. Gibbons and G. Pekhimenko and C. De Sa},
+   pages = {381--394},
+   title = {Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache},
+   url = {https://proceedings.mlsys.org/paper_files/paper/2024/file/bbb7506579431a85861a05fff048d3e1-Paper-Conference.pdf},
+   volume = {6},
+   year = {2024}
+  }
+  ```
+  </details>  
+
+- **[65] InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management**, OSDI  2024  
+  *Wonbeom Lee and Jungi Lee and Junghwan Seo and Jaewoong Sim*  
+  [[Paper](https://www.usenix.org/system/files/osdi24-lee.pdf)] ![InfiniGen](https://img.shields.io/badge/InfiniGen-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings {298683,
+  author = {Wonbeom Lee and Jungi Lee and Junghwan Seo and Jaewoong Sim},
+  title = {{InfiniGen}: Efficient Generative Inference of Large Language Models with Dynamic {KV} Cache Management},
+  booktitle = {18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 24)},
+  year = {2024},
+  isbn = {978-1-939133-40-3},
+  address = {Santa Clara, CA},
+  pages = {155--172},
+  url = {https://www.usenix.org/conference/osdi24/presentation/lee},
+  publisher = {USENIX Association},
+  month = jul
+  }
+  ```
+  </details>  
+
+- **[66] XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference**, arXiv 2024  
+  *Li, Weizhuo and Wang, Zhigang and Gu, Yu and Yu, Ge*  
+  [[Paper](https://www.arxiv.org/pdf/2412.05896)] ![XKV](https://img.shields.io/badge/XKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{li2024xkv,
+    title={XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference},
+    author={Li, Weizhuo and Wang, Zhigang and Gu, Yu and Yu, Ge},
+    journal={arXiv preprint arXiv:2412.05896},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[67] In-context KV-Cache Eviction for LLMs via Attention-Gate**, arXiv 2024  
+  *Zeng, Zihao and Lin, Bokai and Hou, Tianqi and Zhang, Hao and Deng, Zhijie*  
+  [[Paper](https://arxiv.org/pdf/2410.12876)] ![Attention--Gate](https://img.shields.io/badge/Attention--Gate-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![In--context_Eviction](https://img.shields.io/badge/In--context_Eviction-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{zeng2024context,
+    title={In-context KV-Cache Eviction for LLMs via Attention-Gate},
+    author={Zeng, Zihao and Lin, Bokai and Hou, Tianqi and Zhang, Hao and Deng, Zhijie},
+    journal={arXiv preprint arXiv:2410.12876},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[68] Recycled Attention: Efficient inference for long-context language models**, arXiv 2024  
+  *Xu, Fangyuan and Goyal, Tanya and Choi, Eunsol*  
+  [[Paper](https://arxiv.org/pdf/2411.05787)] [[Code](https://github.com/carriex/recycled-attention)] ![Recycled_Attention](https://img.shields.io/badge/Recycled_Attention-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{xu2024recycled,
+    title={Recycled Attention: Efficient inference for long-context language models},
+    author={Xu, Fangyuan and Goyal, Tanya and Choi, Eunsol},
+    journal={arXiv preprint arXiv:2411.05787},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[69] MagicPIG: LSH Sampling for Efficient LLM Generation**, arXiv 2024  
+  *Chen, Zhuoming and Sadhukhan, Ranajoy and Ye, Zihao and Zhou, Yang and Zhang, Jianyu and Nolte, Niklas and Tian, Yuandong and Douze, Matthijs and Bottou, Leon and Jia, Zhihao and others*  
+  [[Paper](https://arxiv.org/pdf/2410.16179)] [[Code](https://github.com/Infini-AI-Lab/MagicPIG)] ![Magicpig](https://img.shields.io/badge/Magicpig-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Locality_Sensitive_Hashing](https://img.shields.io/badge/Locality_Sensitive_Hashing-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{chen2024magicpig,
+    title={Magicpig: Lsh sampling for efficient llm generation},
+    author={Chen, Zhuoming and Sadhukhan, Ranajoy and Ye, Zihao and Zhou, Yang and Zhang, Jianyu and Nolte, Niklas and Tian, Yuandong and Douze, Matthijs and Bottou, Leon and Jia, Zhihao and others},
+    journal={arXiv preprint arXiv:2410.16179},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[70] When Attention Sink Emerges in Language Models: An Empirical View**, arXiv 2024  
+  *Gu, Xiangming and Pang, Tianyu and Du, Chao and Liu, Qian and Zhang, Fengzhuo and Du, Cunxiao and Wang, Ye and Lin, Min*  
+  [[Paper](https://arxiv.org/pdf/2410.10781)] [[Code](https://github.com/sail-sg/Attention-Sink)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Analysis](https://img.shields.io/badge/Analysis-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{gu2024attention,
+    title={When Attention Sink Emerges in Language Models: An Empirical View},
+    author={Gu, Xiangming and Pang, Tianyu and Du, Chao and Liu, Qian and Zhang, Fengzhuo and Du, Cunxiao and Wang, Ye and Lin, Min},
+    journal={arXiv preprint arXiv:2410.10781},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[71] Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference**, arXiv 2024  
+  *Dong, Harry and Yang, Xinyu and Zhang, Zhenyu and Wang, Zhangyang and Chi, Yuejie and Chen, Beidi*  
+  [[Paper](https://arxiv.org/pdf/2402.09398)] [[Code](https://github.com/hdong920/LESS)] ![LESS](https://img.shields.io/badge/LESS-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{dong2024get,
+    title={Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference},
+    author={Dong, Harry and Yang, Xinyu and Zhang, Zhenyu and Wang, Zhangyang and Chi, Yuejie and Chen, Beidi},
+    journal={arXiv preprint arXiv:2402.09398},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[72] SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**, arXiv 2024  
+  *Chen, Guoxuan and Shi, Han and Li, Jiawei and Gao, Yihang and Ren, Xiaozhe and Chen, Yimeng and Jiang, Xin and Li, Zhenguo and Liu, Weiyang and Huang, Chao*  
+  [[Paper](https://arxiv.org/pdf/2412.12094)] [[Code](https://sepllm.github.io/)] ![Sepllm](https://img.shields.io/badge/Sepllm-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{chen2024sepllm,
+    title={Sepllm: Accelerate large language models by compressing one segment into one separator},
+    author={Chen, Guoxuan and Shi, Han and Li, Jiawei and Gao, Yihang and Ren, Xiaozhe and Chen, Yimeng and Jiang, Xin and Li, Zhenguo and Liu, Weiyang and Huang, Chao},
+    journal={arXiv preprint arXiv:2412.12094},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[73] A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference**, arXiv 2024  
+  *Wu, You and Wu, Haoyi and Tu, Kewei*  
+  [[Paper](https://arxiv.org/pdf/2410.14442)] [[Code](https://github.com/whyNLP/LCKV)] ![LCKV](https://img.shields.io/badge/LCKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Sharing](https://img.shields.io/badge/Sharing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{wu2024systematic,
+    title={A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference},
+    author={Wu, You and Wu, Haoyi and Tu, Kewei},
+    journal={arXiv preprint arXiv:2410.14442},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[74] LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**, arXiv 2024  
+  *Gu, Zhuohan and Yao, Jiayi and Du, Kuntai and Jiang, Junchen*  
+  [[Paper](https://arxiv.org/pdf/2411.13009)] ![LLMSteer](https://img.shields.io/badge/LLMSteer-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Chunking](https://img.shields.io/badge/Chunking-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Attention_Steering](https://img.shields.io/badge/Attention_Steering-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{gu2024llmsteer,
+    title={LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts},
+    author={Gu, Zhuohan and Yao, Jiayi and Du, Kuntai and Jiang, Junchen},
+    journal={arXiv preprint arXiv:2411.13009},
+    year={2024}
+  }
+  ```
+  </details>  
+
+- **[75] Efficient Sparse Attention needs Adaptive Token Release**, ACL 2024  
+  *Zhang, Chaoran  and  Zou, Lixin  and  Luo, Dan  and  Luo, Xiangyang  and  Li, Zihao  and Tang, Min  and  Li, Chenliang*  
+  [[Paper](https://aclanthology.org/2024.findings-acl.837.pdf)] [[Code](https://github.com/WHUIR/ADORE)] ![ADORE](https://img.shields.io/badge/ADORE-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{zhang-etal-2024-efficient,
+      title = "Efficient Sparse Attention needs Adaptive Token Release",
+      author = "Zhang, Chaoran  and
+        Zou, Lixin  and
+        Luo, Dan  and
+        Luo, Xiangyang  and
+        Li, Zihao  and
+        Tang, Min  and
+        Li, Chenliang",
+      editor = "Ku, Lun-Wei  and
+        Martins, Andre  and
+        Srikumar, Vivek",
+      booktitle = "Findings of the Association for Computational Linguistics: ACL 2024",
+      month = aug,
+      year = "2024",
+      address = "Bangkok, Thailand",
+      publisher = "Association for Computational Linguistics",
+      url = "https://aclanthology.org/2024.findings-acl.837/",
+      doi = "10.18653/v1/2024.findings-acl.837",
+      pages = "14081--14094"
+  }
+  ```
+  </details>  
+
+- **[76] Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling**, arXiv 2024  
+  *Luo, Xianzhen and Wang, Yixuan and Zhu, Qingfu and Zhang, Zhiming and Zhang, Xuanyu and Yang, Qing and Xu, Dongliang and Che, Wanxiang*  
+  [[Paper](https://arxiv.org/pdf/2408.08696)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Retrieving](https://img.shields.io/badge/Retrieving-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Token_Recycling](https://img.shields.io/badge/Token_Recycling-yellow)  
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @article{luo2024turning,
+    title={Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling},
+    author={Luo, Xianzhen and Wang, Yixuan and Zhu, Qingfu and Zhang, Zhiming and Zhang, Xuanyu and Yang, Qing and Xu, Dongliang and Che, Wanxiang},
+    journal={arXiv preprint arXiv:2408.08696},
+    year={2024}
+  }
+  ```
+  </details>  
 
