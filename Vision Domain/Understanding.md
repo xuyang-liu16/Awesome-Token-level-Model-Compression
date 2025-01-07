@@ -261,6 +261,12 @@
 
   [[Paper](https://arxiv.org/abs/2409.01156)] [Code] ![](https://img.shields.io/badge/TempMe-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Text_Video_Retrieval-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
+- **[8] Efficient Video Action Detection with Token Dropout and Context Refinement**, ICCV 2023.
+  
+  *Chen, Lei and Tong, Zhan and Song, Yibing and Wu, Gangshan and Wang, Limin.*
+
+  [[Paper](https://arxiv.org/abs/2304.08451)] [[Code](https://github.com/MCG-NJU/EVAD)] ![](https://img.shields.io/badge/EVAD-blue) ![](https://img.shields.io/badge/Video_Action_Detection-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
 
 
 ### 🔍 Dense Prediction:
@@ -322,6 +328,12 @@
   *Chenlong Xu and Bineng Zhong and Qihua Liang and Yaozong Zheng and Guorong Li and Shuxiang Song.*
   
   [[Paper](https://arxiv.org/abs/2501.00758)] [[Code](https://github.com/XuChenLong/LMTrack)] ![](https://img.shields.io/badge/LMTrack-blue) ![](https://img.shields.io/badge/Object_Tracking-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[11] Efficient Video Action Detection with Token Dropout and Context Refinement**, ICCV 2023.
+  
+  *Chen, Lei and Tong, Zhan and Song, Yibing and Wu, Gangshan and Wang, Limin.*
+
+  [[Paper](https://arxiv.org/abs/2304.08451)] [[Code](https://github.com/MCG-NJU/EVAD)] ![](https://img.shields.io/badge/EVAD-blue) ![](https://img.shields.io/badge/Video_Action_Detection-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
   
 
