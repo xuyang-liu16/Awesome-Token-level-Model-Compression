@@ -262,14 +262,32 @@
   *Haicheng Wang and Zhemeng Yu and Gabriele Spadaro and Chen Ju and Victor Quétu and Enzo Tartaglione.*
 
   [[Paper](https://arxiv.org/abs/2501.02430)] [[Code](https://github.com/anakin-skywalker-Joseph/Folder)] ![](https://img.shields.io/badge/FOLDER-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[44] Token-level Correlation-guided Compression for Efficient Multimodal Document Understanding**, arXiv 2024.
+
+  *Renshan Zhang, Yibo Lyu, Rui Shao, Gongwei Chen, Weili Guan and Liqiang Nie.*
+
+  [[Paper](https://arxiv.org/abs/2407.14439)] [[Code](https://github.com/JiuTian-VL/TokenCorrCompressor)] ![](https://img.shields.io/badge/TokenCorrCompressor-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Document_Understanding-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[45] mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding**, EMNLP 2024.
+
+  *Hu, Anwen and Xu, Haiyang and Ye, Jiabo and Yan, Ming and Zhang, Liang and Zhang, Bo and Li, Chen and Zhang, Ji and Jin, Qin and Huang, Fei and others.*
+
+  [[Paper](https://arxiv.org/abs/2403.12895)] [[Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl1.5)] ![](https://img.shields.io/badge/mPLUG_DocOwl1.5-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Document_Understanding-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[46] mPLUG-DocOwl2: High-resolution Compressing for OCR-free Multi-page Document Understanding**, arXiv 2024.
+
+  *Anwen Hu and Haiyang Xu and Liang Zhang and Jiabo Ye and Ming Yan and Ji Zhang and Qin Jin and Fei Huang and Jingren Zhou.*
+
+  [[Paper](https://arxiv.org/abs/2409.03420)] [[Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl2)] ![](https://img.shields.io/badge/mPLUG_DocOwl2-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Document_Understanding-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
   
-- **[44] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**, arXiv 2025.
+- **[47] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**, arXiv 2025.
 
   *Shaolei Zhang and Qingkai Fang and Zhe Yang and Yang Feng.*
 
-  [[Paper](https://arxiv.org/abs/2501.03895)] [[Code](https://github.com/ictnlp/LLaVA-Mini)] ![](https://img.shields.io/badge/LLaVA_Mini-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2501.03895)] [[Code](https://github.com/ictnlp/LLaVA-Mini)] ![](https://img.shields.io/badge/LLaVA_Mini-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[45] What Kind of Visual Tokens Do We Need? Training-free Visual Token Pruning for Multi-modal Large Language Models from the Perspective of Graph**, arXiv 2025.
+- **[48] What Kind of Visual Tokens Do We Need? Training-free Visual Token Pruning for Multi-modal Large Language Models from the Perspective of Graph**, arXiv 2025.
 
   *Yutao Jiang and Qiong Wu and Wenhao Lin and Wei Yu and Yiyi Zhou.*
 
