@@ -253,7 +253,7 @@
 
 - **[42] FoPru: Focal Pruning for Efficient Large Vision-Language Models**, arXiv 2024.
 
- *Lei Jiang and Weizhe Huang and Tongxuan Liu and Yuting Zeng and Jing Li and Lechao Cheng and Xiaohua Xu.*
+  *Lei Jiang and Weizhe Huang and Tongxuan Liu and Yuting Zeng and Jing Li and Lechao Cheng and Xiaohua Xu.*
 
   [[Paper](https://arxiv.org/abs/2411.14164)] [Code] ![](https://img.shields.io/badge/FoPru-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
