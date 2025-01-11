@@ -15,7 +15,21 @@
 
 * `2024/12/24` 🤗🤗 We release an open-sourse repo "[Awesome-Token-Reduction-for-Model-Compression](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression)", which collects recent awesome token reduction papers! Feel free to contribute your suggestions!
 
-    
+## 📚 <span id="head1"> *Contents* </span>
+
+- [Awesome Generation Acceleration](README.md)
+    - [Vision Domain](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression/tree/main/Vision%20Domain)
+        - [Understanding](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression/blob/main/Vision%20Domain/Understanding.md)
+        - [Generation](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression/blob/main/Vision%20Domain/Generation.md)
+    - [Language Domain](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression/blob/main/Language%20Domain/token-reduction-in-language-domain.md)
+    - [Multi-Modal Domain](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression/tree/main/Multi-modal%20Domain)
+        - [Understanding](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression/blob/main/Multi-modal%20Domain/Understanding.md)
+        - [Generation](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression/blob/main/Multi-modal%20Domain/Generation.md)
+    - [Other Domain](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression/tree/main/Other%20Domain)
+        - [Understanding](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression/blob/main/Other%20Domain/Understanding.md)
+        - [Generation](https://github.com/xuyang-liu16/Awesome-Token-Reduction-for-Model-Compression/blob/main/Other%20Domain/Generation.md)
+
+
 ## 💬 <span id="head1"> *Keywords* </span>
 ![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Downstream_Application-green)  ![](https://img.shields.io/badge/W./W.O._Training-brown) ![](https://img.shields.io/badge/Reduction_Criteria-purple) ![](https://img.shields.io/badge/Reduction_Mechanism-orange)
 
