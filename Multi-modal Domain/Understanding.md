@@ -269,7 +269,7 @@
 
   [[Paper](https://arxiv.org/abs/2407.14439)] [[Code](https://github.com/JiuTian-VL/TokenCorrCompressor)] ![](https://img.shields.io/badge/TokenCorrCompressor-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Document_Understanding-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[45] mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding**, EMNLP 2024.
+- **[45] mPLUG-DocOwl 1.5: Unified Structure Learning for OCR-free Document Understanding**, Findings of EMNLP 2024.
 
   *Hu, Anwen and Xu, Haiyang and Ye, Jiabo and Yan, Ming and Zhang, Liang and Zhang, Bo and Li, Chen and Zhang, Ji and Jin, Qin and Huang, Fei and others.*
 
