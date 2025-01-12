@@ -13,7 +13,7 @@
   ![A_ToMe](https://img.shields.io/badge/A_ToMe-blue)  ![Token_Merging](https://img.shields.io/badge/Token_Merging-green)  ![GPU_Acceleration](https://img.shields.io/badge/GPU_Acceleration-orange)  ![Token_Reduction](https://img.shields.io/badge/Token_Reduction-purple) 
 
 - **[3] Token Merging: Your ViT But Faster** ICLR 2023
-- *Daniel Bolya, Cheng-Yang Fu, Xiaoliang Dai, Peizhao Zhang, Christoph Feichtenhofer, Judy Hoffman*
+  *Daniel Bolya, Cheng-Yang Fu, Xiaoliang Dai, Peizhao Zhang, Christoph Feichtenhofer, Judy Hoffman*
   [[Paper](https://arxiv.org/abs/2210.09461)]   
   ![ToMe](https://img.shields.io/badge/ToMe-blue)  ![Vision_Transformer](https://img.shields.io/badge/Vision_Transformer-green)  ![Training_Free](https://img.shields.io/badge/Training_Free-orange)  ![Token_Merging](https://img.shields.io/badge/Token_Merging-purple) 
 
