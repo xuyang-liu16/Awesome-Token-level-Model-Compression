@@ -289,11 +289,13 @@
   [[Paper](https://arxiv.org/abs/2405.14467)] [Code] ![](https://img.shields.io/badge/Segformer++-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[10] ToSA: Token Selective Attention for Efficient Vision Transformers**, arXiv 2024.
+  
   *Singh, Manish Kumar et al.*
   
   [[Paper](https://arxiv.org/abs/2406.08816)] [Code] ![](https://img.shields.io/badge/ToSA-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[11] Less is More: Token Context-aware Learning for Object Tracking**, AAAI 2025.
+  
   *Chenlong Xu and Bineng Zhong and Qihua Liang and Yaozong Zheng and Guorong Li and Shuxiang Song.*
   
   [[Paper](https://arxiv.org/abs/2501.00758)] [[Code](https://github.com/XuChenLong/LMTrack)] ![](https://img.shields.io/badge/LMTrack-blue) ![](https://img.shields.io/badge/Object_Tracking-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
