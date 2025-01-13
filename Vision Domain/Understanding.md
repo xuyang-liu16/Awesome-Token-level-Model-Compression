@@ -1,3 +1,20 @@
+<div align=center>
+
+# Token Reduction for Vision Domain
+
+:loudspeaker: Collections of Awesome Token Reduction for Vision Domain Resources.
+
+</div>
+
+
+## 📚 <span id="head1"> *Contents* </span>
+
+- Token Reduction for Vision Domain
+  - [Image Recognition](#Image-Recognition)
+  - [Video Recognition](#Video-Recognition)
+  - [Dense Prediction](#Dense-Prediction)
+
+
 ### Image Recognition
 - **[1] Adaptive Token Sampling for Efficient Vision Transformers**, ECCV 2022.
   
@@ -229,7 +246,6 @@
   *Chen, Lei and Tong, Zhan and Song, Yibing and Wu, Gangshan and Wang, Limin.*
 
   [[Paper](https://arxiv.org/abs/2304.08451)] [[Code](https://github.com/MCG-NJU/EVAD)] ![](https://img.shields.io/badge/EVAD-blue) ![](https://img.shields.io/badge/Video_Action_Detection-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
-
 
 
 ### Dense Prediction:
