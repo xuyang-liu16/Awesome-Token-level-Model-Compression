@@ -36,8 +36,7 @@
 ## 💻 Related Works
 
 * [Awesome Generation Acceleration](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration): An open-source repository that curates a collection of recent awesome papers on AIGC acceleration.
-* [GlobalCom<sup>2</sup>](https://github.com/xuyang-liu16/GlobalCom2): A "global-to-local" approach for training-free acceleration of **high-resolution MLLMs** with AnyRes strategy.
-* [FiCoCo](https://github.com/kawhiiiileo/FiCoCo): A **systematic study** that proposes a unified "filter-correlate-compress" paradigm for training-free token reduction in MLLMs.
+
 
 ## 🧑‍💻 Contribution
 
