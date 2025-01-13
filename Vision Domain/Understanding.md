@@ -2,7 +2,7 @@
 
 # Token Reduction for Vision Domain
 
-:loudspeaker: Collections of Awesome Token Reduction for Vision Domain Resources.
+:loudspeaker: Collections of Awesome Token Reduction for Vision Understanding Domain Resources.
 
 </div>
 
