@@ -1,4 +1,20 @@
-### 🖼️ Image Generation:
+<div align=center>
+
+# Token Reduction for Vision Domain
+
+:loudspeaker: Collections of Awesome Token Reduction for Vision Generation Resources.
+
+</div>
+
+
+## 📚 <span id="head1"> *Contents* </span>
+
+- [Token-wise Generation Acceleration](TOKEN-WISE.md)
+  - [Image Generation](#image-generation)
+  - [Video Generation](#video-generation)
+
+
+### Image Generation:
 
 
 - **[1] Token Merging for Fast Stable Diffusion**, CVPRW 2023.
@@ -187,7 +203,7 @@
   [[Paper](https://arxiv.org/abs/2501.00375)] [[Code](https://github.com/EvelynZhang-epiclab/DaTo)] ![](https://img.shields.io/badge/DaTo-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Text2Image-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple)  ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Token_Caching-orange)
 
 
-### 🎥 Video Generation:
+### Video Generation:
 
 - **[1] F<sup>3</sup>-Pruning: A Training-Free and Generalized Pruning Strategy towards Faster and Finer Text-to-Video Synthesis**, AAAI 2024.
   
