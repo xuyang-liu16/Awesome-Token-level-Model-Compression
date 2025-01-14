@@ -287,8 +287,20 @@
 
   [[Paper](https://arxiv.org/abs/2501.03895)] [[Code](https://github.com/ictnlp/LLaVA-Mini)] ![](https://img.shields.io/badge/LLaVA_Mini-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[48] What Kind of Visual Tokens Do We Need? Training-free Visual Token Pruning for Multi-modal Large Language Models from the Perspective of Graph**, arXiv 2025.
+- **[48] What Kind of Visual Tokens Do We Need? Training-free Visual Token Pruning for Multi-modal Large Language Models from the Perspective of Graph**, AAAI 2025.
 
   *Yutao Jiang and Qiong Wu and Wenhao Lin and Wei Yu and Yiyi Zhou.*
 
   [[Paper](https://arxiv.org/abs/2501.03895)] [[Code](https://github.com/ictnlp/LLaVA-Mini)] ![](https://img.shields.io/badge/LLaVA_Mini-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[49] FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models**, arXiv 2025.
+
+  *Fu, Tianyu and Liu, Tengxuan and Han, Qinghao and Dai, Guohao and Yan, Shengen and Yang, Huazhong and Ning, Xuefei and Wang, Yu.*
+
+  [[Paper](https://arxiv.org/abs/2501.01986)] [[Code](https://thu-nics.github.io/FrameFusion_Project_Page/)] ![](https://img.shields.io/badge/FrameFusion-blue) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[50] Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**, arXiv 2025.
+
+  *Xuyang Liu and Ziming Wang and Yuhang Han and Yingyao Wang and Jiale Yuan and Jun Song and Bo Zheng and Linfeng Zhang and Siteng Huang and Honggang Chen.*
+
+  [[Paper](https://arxiv.org/abs/2501.05179)] [[Code](https://github.com/xuyang-liu16/GlobalCom2)] ![](https://img.shields.io/badge/GlobalCom2-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
