@@ -204,7 +204,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[1] Transformer-XL: Attentive language models beyond a fixed-length context**, ACL 2019  
   *Dai, Zihang and Yang, Zhilin and Yang, Yiming and Carbonell, Jaime G and Le, Quoc and Salakhutdinov, Ruslan*  
-  [[Paper](https://aclanthology.org/P19-1285.pdf)] [[Code](https://github.com/kimiyoung/transformer-xl)] ![Transformer--XL](https://img.shields.io/badge/Transformer--XL-blue) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Cache](https://img.shields.io/badge/Cache-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Memory](https://img.shields.io/badge/Memory-yellow) ![Recurrent_Mechanism](https://img.shields.io/badge/Recurrent_Mechanism-yellow)  
+  [[Paper](https://aclanthology.org/P19-1285.pdf)] [[Code](https://github.com/kimiyoung/transformer-xl)] ![Transformer--XL](https://img.shields.io/badge/Transformer--XL-blue) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Caching](https://img.shields.io/badge/Caching-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Memory](https://img.shields.io/badge/Memory-yellow) ![Recurrent_Mechanism](https://img.shields.io/badge/Recurrent_Mechanism-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -255,7 +255,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[1] Compressive transformers for long-range sequence modelling**, ICLR 2020  
   *Rae, Jack W and Potapenko, Anna and Jayakumar, Siddhant M and Lillicrap, Timothy P*  
-  [[Paper](https://openreview.net/pdf?id=SylKikSYDH)] [[Code](https://github.com/lucidrains/compressive-transformer-pytorch)] ![Compressive_Transformer](https://img.shields.io/badge/Compressive_Transformer-blue) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Cache](https://img.shields.io/badge/Cache-orange) ![Conv](https://img.shields.io/badge/Conv-orange) ![Pooling](https://img.shields.io/badge/Pooling-orange) ![Most--used](https://img.shields.io/badge/Most--used-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Memory](https://img.shields.io/badge/Memory-yellow) ![Reinforcement_Learning](https://img.shields.io/badge/Reinforcement_Learning-yellow)  
+  [[Paper](https://openreview.net/pdf?id=SylKikSYDH)] [[Code](https://github.com/lucidrains/compressive-transformer-pytorch)] ![Compressive_Transformer](https://img.shields.io/badge/Compressive_Transformer-blue) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Caching](https://img.shields.io/badge/Caching-orange) ![Conv](https://img.shields.io/badge/Conv-orange) ![Pooling](https://img.shields.io/badge/Pooling-orange) ![Most--used](https://img.shields.io/badge/Most--used-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Memory](https://img.shields.io/badge/Memory-yellow) ![Reinforcement_Learning](https://img.shields.io/badge/Reinforcement_Learning-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -269,7 +269,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[2] PoWER-BERT: Accelerating BERT Inference via Progressive Word-vector Elimination**, ICML 2020  
   *Goyal, Saurabh and Choudhury, Anamitra Roy and Raje, Saurabh and Chakaravarthy, Venkatesan and Sabharwal, Yogish and Verma, Ashish*  
-  [[Paper](https://proceedings.mlr.press/v119/goyal20a/goyal20a.pdf)] [[Code](https://github.com/IBM/PoWER-BERT)] ![PoWER--BERT](https://img.shields.io/badge/PoWER--BERT-blue) ![QA](https://img.shields.io/badge/QA-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Embedding](https://img.shields.io/badge/Embedding-green) ![Text_Classification](https://img.shields.io/badge/Text_Classification-green) ![Static](https://img.shields.io/badge/Static-purple) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  [[Paper](https://proceedings.mlr.press/v119/goyal20a/goyal20a.pdf)] [[Code](https://github.com/IBM/PoWER-BERT)] ![PoWER--BERT](https://img.shields.io/badge/PoWER--BERT-blue) ![QA](https://img.shields.io/badge/QA-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Embedding](https://img.shields.io/badge/Embedding-green) ![Text_Classification](https://img.shields.io/badge/Text_Classification-green) ![Static](https://img.shields.io/badge/Static-purple) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -318,7 +318,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[5] Reformer: The efficient transformer**, ICLR 2020  
   *Nikita Kitaev and Lukasz Kaiser and Anselm Levskaya*  
-  [[Paper](https://openreview.net/pdf?id=rkgNKkHtvB)] [[Code](https://github.com/google/trax/tree/master/trax/models/reformer)] ![Reformer](https://img.shields.io/badge/Reformer-blue) ![Language_Understanding](https://img.shields.io/badge/Language_Understanding-green) ![Translation](https://img.shields.io/badge/Translation-green) ![Image_Classification](https://img.shields.io/badge/Image_Classification-green) ![Locality--Sensitive_Hashing](https://img.shields.io/badge/Locality--Sensitive_Hashing-orange) ![Cache](https://img.shields.io/badge/Cache-orange) ![Chunking](https://img.shields.io/badge/Chunking-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Transformer_Encoder--Decoder](https://img.shields.io/badge/Transformer_Encoder--Decoder-yellow)  
+  [[Paper](https://openreview.net/pdf?id=rkgNKkHtvB)] [[Code](https://github.com/google/trax/tree/master/trax/models/reformer)] ![Reformer](https://img.shields.io/badge/Reformer-blue) ![Language_Understanding](https://img.shields.io/badge/Language_Understanding-green) ![Translation](https://img.shields.io/badge/Translation-green) ![Image_Classification](https://img.shields.io/badge/Image_Classification-green) ![Locality--Sensitive_Hashing](https://img.shields.io/badge/Locality--Sensitive_Hashing-orange) ![Caching](https://img.shields.io/badge/Caching-orange) ![Chunking](https://img.shields.io/badge/Chunking-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Transformer_Encoder--Decoder](https://img.shields.io/badge/Transformer_Encoder--Decoder-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -385,7 +385,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[1] TR-BERT: Dynamic Token Reduction for Accelerating BERT Inference**, NAACL 2021  
   *Ye, Deming and Lin, Yankai and Huang, Yufei and Sun, Maosong*  
-  [[Paper](https://aclanthology.org/2021.naacl-main.463.pdf)] [[Code](https://github.com/thunlp/TR-BERT)] ![TR--BERT](https://img.shields.io/badge/TR--BERT-blue) ![Text_Classification](https://img.shields.io/badge/Text_Classification-green) ![QA](https://img.shields.io/badge/QA-green) ![Random](https://img.shields.io/badge/Random-purple) ![Prediction--guided](https://img.shields.io/badge/Prediction--guided-purple) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  [[Paper](https://aclanthology.org/2021.naacl-main.463.pdf)] [[Code](https://github.com/thunlp/TR-BERT)] ![TR--BERT](https://img.shields.io/badge/TR--BERT-blue) ![Text_Classification](https://img.shields.io/badge/Text_Classification-green) ![QA](https://img.shields.io/badge/QA-green) ![Random](https://img.shields.io/badge/Random-purple) ![Prediction--guided](https://img.shields.io/badge/Prediction--guided-purple) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -452,7 +452,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[5] Not all memories are created equal: Learning to forget by expiring**, ICML 2021  
   *Sukhbaatar, Sainbayar and Ju, Da and Poff, Spencer and Roller, Stephen and Szlam, Arthur and Weston, Jason and Fan, Angela*  
-  [[Paper](http://proceedings.mlr.press/v139/sukhbaatar21a/sukhbaatar21a.pdf)] [[Code](https://github.com/facebookresearch/transformer-sequential)] ![Expire--Span](https://img.shields.io/badge/Expire--Span-blue) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Expire](https://img.shields.io/badge/Expire-orange) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Expire](https://img.shields.io/badge/Expire-yellow) ![Memory](https://img.shields.io/badge/Memory-yellow)  
+  [[Paper](http://proceedings.mlr.press/v139/sukhbaatar21a/sukhbaatar21a.pdf)] [[Code](https://github.com/facebookresearch/transformer-sequential)] ![Expire--Span](https://img.shields.io/badge/Expire--Span-blue) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Expire](https://img.shields.io/badge/Expire-orange) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Expire](https://img.shields.io/badge/Expire-yellow) ![Memory](https://img.shields.io/badge/Memory-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -501,7 +501,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[8] Magic pyramid: Accelerating inference with early exiting and token pruning**, NeurIPS-ENLSP 2021  
   *He, Xuanli and Keivanloo, Iman and Xu, Yi and He, Xiang and Zeng, Belinda and Rajagopalan, Santosh and Chilimbi, Trishul*  
-  [[Paper](https://neurips2021-nlp.github.io/papers/21/CameraReady/magic_pyramid.pdf)] ![Magic_Pyramid](https://img.shields.io/badge/Magic_Pyramid-blue) ![Text_Classification](https://img.shields.io/badge/Text_Classification-green) ![QA](https://img.shields.io/badge/QA-green) ![Similarity_Detection](https://img.shields.io/badge/Similarity_Detection-green) ![Topic_Identification_](https://img.shields.io/badge/Topic_Identification_-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Early_Existing](https://img.shields.io/badge/Early_Existing-yellow) ![Token_Pruning](https://img.shields.io/badge/Token_Pruning-yellow)  
+  [[Paper](https://neurips2021-nlp.github.io/papers/21/CameraReady/magic_pyramid.pdf)] ![Magic_Pyramid](https://img.shields.io/badge/Magic_Pyramid-blue) ![Text_Classification](https://img.shields.io/badge/Text_Classification-green) ![QA](https://img.shields.io/badge/QA-green) ![Similarity--based_Detection](https://img.shields.io/badge/Similarity--based_Detection-green) ![Topic_Identification_](https://img.shields.io/badge/Topic_Identification_-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Early_Existing](https://img.shields.io/badge/Early_Existing-yellow) ![Token_Pruning](https://img.shields.io/badge/Token_Pruning-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -535,7 +535,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[1] Learned Token Pruning for Transformers**, KDD 2022  
   *Kim, Sehoon and Shen, Sheng and Thorsley, David and Gholami, Amir and Kwon, Woosuk and Hassoun, Joseph and Keutzer, Kurt*  
-  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539260)] [[Code](https://github.com/kssteven418/LTP)] ![LTP](https://img.shields.io/badge/LTP-blue) ![Sentence_Similarity](https://img.shields.io/badge/Sentence_Similarity-green) ![Classification](https://img.shields.io/badge/Classification-green) ![QA](https://img.shields.io/badge/QA-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Learnable_Threshold](https://img.shields.io/badge/Learnable_Threshold-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  [[Paper](https://dl.acm.org/doi/pdf/10.1145/3534678.3539260)] [[Code](https://github.com/kssteven418/LTP)] ![LTP](https://img.shields.io/badge/LTP-blue) ![Sentence_Similarity--based](https://img.shields.io/badge/Sentence_Similarity--based-green) ![Classification](https://img.shields.io/badge/Classification-green) ![QA](https://img.shields.io/badge/QA-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Learnable_Threshold](https://img.shields.io/badge/Learnable_Threshold-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -585,7 +585,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[4] Memorizing transformers**, ICLR 2022  
   *Yuhuai Wu and Markus Norman Rabe and DeLesley Hutchins and Christian Szegedy*  
-  [[Paper](https://openreview.net/pdf?id=TrjbxzRcnf-)] [[Code](https://github.com/lucidrains/memorizing-transformers-pytorch)] ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Caching](https://img.shields.io/badge/Caching-orange) ![kNN_Attention](https://img.shields.io/badge/kNN_Attention-orange) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  [[Paper](https://openreview.net/pdf?id=TrjbxzRcnf-)] [[Code](https://github.com/lucidrains/memorizing-transformers-pytorch)] ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Caching](https://img.shields.io/badge/Caching-orange) ![kNN_Attention](https://img.shields.io/badge/kNN_Attention-orange) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -618,7 +618,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[6] Adapler: Speeding up inference by adaptive length reduction**, ACL 2022  
   *Modarressi, Ali and Mohebbi, Hosein and Pilehvar, Mohammad Taher*  
-  [[Paper](https://aclanthology.org/2022.acl-long.1.pdf)] [[Code](https://github.com/amodaresi/AdapLeR)] ![AdapLeR](https://img.shields.io/badge/AdapLeR-blue) ![Topic_Classification](https://img.shields.io/badge/Topic_Classification-green) ![Sentiment_Classification](https://img.shields.io/badge/Sentiment_Classification-green) ![Knowledge_Extraction](https://img.shields.io/badge/Knowledge_Extraction-green) ![QA](https://img.shields.io/badge/QA-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  [[Paper](https://aclanthology.org/2022.acl-long.1.pdf)] [[Code](https://github.com/amodaresi/AdapLeR)] ![AdapLeR](https://img.shields.io/badge/AdapLeR-blue) ![Topic_Classification](https://img.shields.io/badge/Topic_Classification-green) ![Sentiment_Classification](https://img.shields.io/badge/Sentiment_Classification-green) ![Knowledge_Extraction](https://img.shields.io/badge/Knowledge_Extraction-green) ![QA](https://img.shields.io/badge/QA-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -634,7 +634,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[7] Fine-and coarse-granularity hybrid self-attention for efficient bert**, ACL 2022  
   *Zhao, Jing and Wang, Yifan and Bao, Junwei and Wu, Youzheng and He, Xiaodong*  
-  [[Paper](https://aclanthology.org/2022.acl-long.330.pdf)] [[Code](https://github.com/pierre-zhao/FCA-BERT)] ![FCA--BERT](https://img.shields.io/badge/FCA--BERT-blue) ![Summarization](https://img.shields.io/badge/Summarization-green) ![QA](https://img.shields.io/badge/QA-green) ![Similarity](https://img.shields.io/badge/Similarity-green) ![NLI](https://img.shields.io/badge/NLI-green) ![Sentiment](https://img.shields.io/badge/Sentiment-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pooling](https://img.shields.io/badge/Pooling-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  [[Paper](https://aclanthology.org/2022.acl-long.330.pdf)] [[Code](https://github.com/pierre-zhao/FCA-BERT)] ![FCA--BERT](https://img.shields.io/badge/FCA--BERT-blue) ![Summarization](https://img.shields.io/badge/Summarization-green) ![QA](https://img.shields.io/badge/QA-green) ![Similarity--based](https://img.shields.io/badge/Similarity--based-green) ![NLI](https://img.shields.io/badge/NLI-green) ![Sentiment](https://img.shields.io/badge/Sentiment-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pooling](https://img.shields.io/badge/Pooling-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -703,7 +703,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[4] Compressing context to enhance inference efficiency of large language models**, EMNLP 2023  
   *Li, Yucheng and Dong, Bo and Guerin, Frank and Lin, Chenghua*  
-  [[Paper](https://aclanthology.org/2023.emnlp-main.391.pdf)] [[Code](https://github.com/liyucheng09/Selective_Context)] ![Selective_Context](https://img.shields.io/badge/Selective_Context-blue) ![QA](https://img.shields.io/badge/QA-green) ![Summarization](https://img.shields.io/badge/Summarization-green) ![Conversation](https://img.shields.io/badge/Conversation-green) ![Self--Information](https://img.shields.io/badge/Self--Information-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Generation](https://img.shields.io/badge/LLM_Generation-yellow)  
+  [[Paper](https://aclanthology.org/2023.emnlp-main.391.pdf)] [[Code](https://github.com/liyucheng09/Selective_Context)] ![Selective_Context](https://img.shields.io/badge/Selective_Context-blue) ![QA](https://img.shields.io/badge/QA-green) ![Summarization](https://img.shields.io/badge/Summarization-green) ![Conversation](https://img.shields.io/badge/Conversation-green) ![Self--Information](https://img.shields.io/badge/Self--Information-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Generation](https://img.shields.io/badge/LLM_Generation-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -719,7 +719,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[5] Did you read the instructions? rethinking the effectiveness of task definitions in instruction learning**, ACL 2023  
   *Yin, Fan and Vig, Jesse and Laban, Philippe and Joty, Shafiq and Xiong, Caiming and Wu, Chien-Sheng*  
-  [[Paper](https://aclanthology.org/2023.acl-long.172.pdf)] [[Code](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)] ![STDC](https://img.shields.io/badge/STDC-blue) ![Classification](https://img.shields.io/badge/Classification-green) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Syntax--guided](https://img.shields.io/badge/Syntax--guided-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://aclanthology.org/2023.acl-long.172.pdf)] [[Code](https://github.com/fanyin3639/Rethinking-instruction-effectiveness)] ![STDC](https://img.shields.io/badge/STDC-blue) ![Classification](https://img.shields.io/badge/Classification-green) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Syntax--guided](https://img.shields.io/badge/Syntax--guided-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -735,7 +735,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[6] Llmlingua: Compressing prompts for accelerated inference of large language models**, EMNLP 2023  
   *Jiang, Huiqiang and Wu, Qianhui and Lin, Chin-Yew and Yang, Yuqing and Qiu, Lili*  
-  [[Paper](https://aclanthology.org/2023.emnlp-main.825.pdf)] [[Code](https://aka.ms/LLMLingua)] ![LLMLingua_](https://img.shields.io/badge/LLMLingua_-blue) ![Classification](https://img.shields.io/badge/Classification-green) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Budget_Controller](https://img.shields.io/badge/Budget_Controller-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  [[Paper](https://aclanthology.org/2023.emnlp-main.825.pdf)] [[Code](https://aka.ms/LLMLingua)] ![LLMLingua_](https://img.shields.io/badge/LLMLingua_-blue) ![Classification](https://img.shields.io/badge/Classification-green) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Budget_Controller](https://img.shields.io/badge/Budget_Controller-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -816,7 +816,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[11] Nugget: Neural agglomerative embeddings of text**, ICML  2023  
   *Qin, Guanghui and Van Durme, Benjamin*  
-  [[Paper](https://arxiv.org/pdf/2310.01732)] [[Code](https://github.com/hiaoxui/nugget)] ![Nugget](https://img.shields.io/badge/Nugget-blue) ![Similarity](https://img.shields.io/badge/Similarity-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Nugget_Generator](https://img.shields.io/badge/Nugget_Generator-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  [[Paper](https://arxiv.org/pdf/2310.01732)] [[Code](https://github.com/hiaoxui/nugget)] ![Nugget](https://img.shields.io/badge/Nugget-blue) ![Similarity--based](https://img.shields.io/badge/Similarity--based-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Nugget_Generator](https://img.shields.io/badge/Nugget_Generator-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -832,7 +832,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[12] Unlimiformer: Long-range transformers with unlimited length input**, NeurIPS 2023  
   *Amanda Bertsch and Uri Alon and Graham Neubig and Matthew R. Gormley*  
-  [[Paper](https://openreview.net/pdf?id=lJWUJWLCJo)] [[Code](https://github.com/abertsch72/unlimiformer)] ![Unlimiformer](https://img.shields.io/badge/Unlimiformer-blue) ![Similarity](https://img.shields.io/badge/Similarity-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Top--k_retrieval](https://img.shields.io/badge/Top--k_retrieval-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Transformer_Encoder--Decoder](https://img.shields.io/badge/Transformer_Encoder--Decoder-yellow)  
+  [[Paper](https://openreview.net/pdf?id=lJWUJWLCJo)] [[Code](https://github.com/abertsch72/unlimiformer)] ![Unlimiformer](https://img.shields.io/badge/Unlimiformer-blue) ![Similarity--based](https://img.shields.io/badge/Similarity--based-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Top--k_retrieval](https://img.shields.io/badge/Top--k_retrieval-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Transformer_Encoder--Decoder](https://img.shields.io/badge/Transformer_Encoder--Decoder-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -849,7 +849,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[13] Walking down the memory maze: Beyond context limit through interactive reading**, arXiv 2023  
   *Chen, Howard and Pasunuru, Ramakanth and Weston, Jason and Celikyilmaz, Asli*  
-  [[Paper](https://arxiv.org/pdf/2310.05029)] ![MemWalker](https://img.shields.io/badge/MemWalker-blue) ![Similarity](https://img.shields.io/badge/Similarity-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Divide_and_Donquer](https://img.shields.io/badge/Divide_and_Donquer-orange) ![Caching](https://img.shields.io/badge/Caching-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2310.05029)] ![MemWalker](https://img.shields.io/badge/MemWalker-blue) ![Similarity--based](https://img.shields.io/badge/Similarity--based-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Divide_and_Donquer](https://img.shields.io/badge/Divide_and_Donquer-orange) ![Caching](https://img.shields.io/badge/Caching-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -879,15 +879,15 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[15] Scissorhands: Exploiting the persistence of importance hypothesis for llm kv cache compression at test time**, NeurIPS 2023  
+- **[15] Scissorhands: Exploiting the persistence of importance hypothesis for llm kv Caching compression at test time**, NeurIPS 2023  
   *Zichang Liu and Aditya Desai and Fangshuo Liao and Weitao Wang and Victor Xie and Zhaozhuo Xu and Anastasios Kyrillidis and Anshumali Shrivastava*  
-  [[Paper](https://openreview.net/pdf?id=JZfg6wGi6g)] ![Scissorhands](https://img.shields.io/badge/Scissorhands-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://openreview.net/pdf?id=JZfg6wGi6g)] ![Scissorhands](https://img.shields.io/badge/Scissorhands-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{
   liu2023scissorhands,
-  title={Scissorhands: Exploiting the Persistence of Importance Hypothesis for {LLM} {KV} Cache Compression at Test Time},
+  title={Scissorhands: Exploiting the Persistence of Importance Hypothesis for {LLM} {KV} Caching Compression at Test Time},
   author={Zichang Liu and Aditya Desai and Fangshuo Liao and Weitao Wang and Victor Xie and Zhaozhuo Xu and Anastasios Kyrillidis and Anshumali Shrivastava},
   booktitle={Thirty-seventh Conference on Neural Information Processing Systems},
   year={2023},
@@ -898,7 +898,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[16] H2o: Heavy-hitter oracle for efficient generative inference of large language models**, NeurIPS 2023  
   *Zhenyu Zhang and Ying Sheng and Tianyi Zhou and Tianlong Chen and Lianmin Zheng and Ruisi Cai and Zhao Song and Yuandong Tian and Christopher Re and Clark Barrett and Zhangyang Wang and Beidi Chen*  
-  [[Paper](https://openreview.net/pdf?id=RkRrPp7GKO)] [[Code](https://github.com/FMInference/H2O)] ![H2O](https://img.shields.io/badge/H2O-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://openreview.net/pdf?id=RkRrPp7GKO)] [[Code](https://github.com/FMInference/H2O)] ![H2O](https://img.shields.io/badge/H2O-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -932,7 +932,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[18] Optimizing retrieval-augmented reader models via token elimination**, EMNLP 2023  
   *Berchansky, Moshe and Izsak, Peter and Caciularu, Avi and Dagan, Ido and Wasserblat, Moshe*  
-  [[Paper](https://aclanthology.org/2023.emnlp-main.93.pdf)] [[Code](https://github.com/IntelLabs/token_elimination)] ![Token_Elimination](https://img.shields.io/badge/Token_Elimination-blue) ![QA](https://img.shields.io/badge/QA-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://aclanthology.org/2023.emnlp-main.93.pdf)] [[Code](https://github.com/IntelLabs/token_elimination)] ![Token_Elimination](https://img.shields.io/badge/Token_Elimination-blue) ![QA](https://img.shields.io/badge/QA-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -964,7 +964,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[20] Dynamic context pruning for efficient and interpretable autoregressive transformers**, NeurIPS 2023  
   *Sotiris Anagnostidis and Dario Pavllo and Luca Biggio and Lorenzo Noci and Aurelien Lucchi and Thomas Hofmann*  
-  [[Paper](https://openreview.net/pdf?id=uvdJgFFzby)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Learnable_Mechanism](https://img.shields.io/badge/Learnable_Mechanism-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  [[Paper](https://openreview.net/pdf?id=uvdJgFFzby)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Learnable_Mechanism](https://img.shields.io/badge/Learnable_Mechanism-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1030,7 +1030,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[3] Efficient streaming language models with attention sinks**, ICLR 2024  
   *Guangxuan Xiao and Yuandong Tian and Beidi Chen and Song Han and Mike Lewis*  
-  [[Paper](https://openreview.net/pdf?id=NG7sS51zVF)] [[Code](https://github.com/mit-han-lab/streaming-llm)] ![StreamingLLM](https://img.shields.io/badge/StreamingLLM-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://openreview.net/pdf?id=NG7sS51zVF)] [[Code](https://github.com/mit-han-lab/streaming-llm)] ![StreamingLLM](https://img.shields.io/badge/StreamingLLM-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1045,15 +1045,15 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[4] Model tells you what to discard: Adaptive kv cache compression for llms**, ICLR 2024  
+- **[4] Model tells you what to discard: Adaptive kv Caching compression for llms**, ICLR 2024  
   *Suyu Ge and Yunan Zhang and Liyuan Liu and Minjia Zhang and Jiawei Han and Jianfeng Gao*  
-  [[Paper](https://openreview.net/pdf?id=uNrFpDPMyo)] [[Code](https://github.com/machilusZ/FastGen)] ![FastGen](https://img.shields.io/badge/FastGen-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Policy](https://img.shields.io/badge/Policy-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://openreview.net/pdf?id=uNrFpDPMyo)] [[Code](https://github.com/machilusZ/FastGen)] ![FastGen](https://img.shields.io/badge/FastGen-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Policy](https://img.shields.io/badge/Policy-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{
   ge2024model,
-  title={Model Tells You What to Discard: Adaptive {KV} Cache Compression for {LLM}s},
+  title={Model Tells You What to Discard: Adaptive {KV} Caching Compression for {LLM}s},
   author={Suyu Ge and Yunan Zhang and Liyuan Liu and Minjia Zhang and Jiawei Han and Jianfeng Gao},
   booktitle={The Twelfth International Conference on Learning Representations},
   year={2024},
@@ -1081,7 +1081,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[6] FTP: A Fine-grained Token-wise Pruner for Large Language Models via Token Routing**, arXiv 2024  
   *Li, Zekai and Zheng, Jintu and Liu, Ji and Liu, Han and Zhu, Haowei and Li, Zeping and Yang, Fuwei and Huang, Haiduo and Peng, Jinzhang and Li, Dong and others*  
-  [[Paper](https://arxiv.org/pdf/2412.11494)] ![FTP](https://img.shields.io/badge/FTP-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  [[Paper](https://arxiv.org/pdf/2412.11494)] ![FTP](https://img.shields.io/badge/FTP-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1096,7 +1096,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[7] Discrete prompt compression with reinforcement learning**, IEEE Access 2024  
   *Jung, Hoyoun and Kim, Kyung-Joong*  
-  [[Paper](https://arxiv.org/pdf/2308.08758)] [[Code](https://github.com/nenomigami/PromptCompressor)] ![PCRL](https://img.shields.io/badge/PCRL-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Reinforcement_Learning](https://img.shields.io/badge/Reinforcement_Learning-yellow)  
+  [[Paper](https://arxiv.org/pdf/2308.08758)] [[Code](https://github.com/nenomigami/PromptCompressor)] ![PCRL](https://img.shields.io/badge/PCRL-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Reinforcement_Learning](https://img.shields.io/badge/Reinforcement_Learning-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1129,7 +1129,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[9] LazyLLM: Dynamic Token Pruning for Efficient Long Context LLM Inference**, arXiv 2024  
   *Fu, Qichen and Cho, Minsik and Merth, Thomas and Mehta, Sachin and Rastegari, Mohammad and Najibi, Mahyar*  
-  [[Paper](https://arxiv.org/pdf/2407.14057)] [[Code](https://github.com/Adam-Mazur/Lazy-Llama)] ![LazyLLM](https://img.shields.io/badge/LazyLLM-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Restore](https://img.shields.io/badge/Restore-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2407.14057)] [[Code](https://github.com/Adam-Mazur/Lazy-Llama)] ![LazyLLM](https://img.shields.io/badge/LazyLLM-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Restore](https://img.shields.io/badge/Restore-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1142,7 +1142,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[10] You only cache once: Decoder-decoder architectures for language models**, NeurIPS 2024  
+- **[10] You only Caching once: Decoder-decoder architectures for language models**, NeurIPS 2024  
   *Yutao Sun and Li Dong and Yi Zhu and Shaohan Huang and Wenhui Wang and Shuming Ma and Quanlu Zhang and Jianyong Wang and Furu Wei*  
   [[Paper](https://openreview.net/pdf?id=25Ioxw576r)] [[Code](https://github.com/microsoft/unilm/tree/master/YOCO)] ![YOCO](https://img.shields.io/badge/YOCO-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Sharing](https://img.shields.io/badge/Sharing-orange) ![Early_Exit](https://img.shields.io/badge/Early_Exit-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Decoder--Decoder](https://img.shields.io/badge/Decoder--Decoder-yellow)  
   <details> <summary>BibTex</summary>
@@ -1150,7 +1150,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```text
   @inproceedings{
   sun2024you,
-  title={You Only Cache Once: Decoder-Decoder Architectures for Language Models},
+  title={You Only Caching Once: Decoder-Decoder Architectures for Language Models},
   author={Yutao Sun and Li Dong and Yi Zhu and Shaohan Huang and Wenhui Wang and Shuming Ma and Quanlu Zhang and Jianyong Wang and Furu Wei},
   booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
   year={2024},
@@ -1159,7 +1159,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[11] Reducing Transformer Key-Value Cache Size with Cross-Layer Attention**, NeurIPS 2024  
+- **[11] Reducing Transformer Key-Value Caching Size with Cross-Layer Attention**, NeurIPS 2024  
   *William Brandon and Mayank Mishra and Aniruddha Nrusimha and Rameswar Panda and Jonathan Ragan-Kelley*  
   [[Paper](https://openreview.net/pdf?id=M2UzLRoqic)] [[Code](https://github.com/JerryYin777/Cross-Layer-Attention)] ![CLA](https://img.shields.io/badge/CLA-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Sharing](https://img.shields.io/badge/Sharing-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
@@ -1167,7 +1167,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```text
   @inproceedings{
   brandon2024reducing,
-  title={Reducing Transformer Key-Value Cache Size with Cross-Layer Attention},
+  title={Reducing Transformer Key-Value Caching Size with Cross-Layer Attention},
   author={William Brandon and Mayank Mishra and Aniruddha Nrusimha and Rameswar Panda and Jonathan Ragan-Kelley},
   booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
   year={2024},
@@ -1176,14 +1176,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[12] Goldfinch: High performance rwkv/transformer hybrid with linear pre-fill and extreme kv-cache compression**, arXiv 2024  
+- **[12] Goldfinch: High performance rwkv/transformer hybrid with linear pre-fill and extreme kv-Caching compression**, arXiv 2024  
   *Goldstein, Daniel and Obeid, Fares and Alcaide, Eric and Song, Guangyu and Cheah, Eugene*  
   [[Paper](https://arxiv.org/pdf/2407.12077)] [[Code](https://github.com/SmerkyG/GoldFinch-paper?tab=readme-ov-file)] ![GoldFinch](https://img.shields.io/badge/GoldFinch-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Sharing](https://img.shields.io/badge/Sharing-orange) ![Early_Exit](https://img.shields.io/badge/Early_Exit-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{goldstein2024goldfinch,
-    title={Goldfinch: High performance rwkv/transformer hybrid with linear pre-fill and extreme kv-cache compression},
+    title={Goldfinch: High performance rwkv/transformer hybrid with linear pre-fill and extreme kv-Caching compression},
     author={Goldstein, Daniel and Obeid, Fares and Alcaide, Eric and Song, Guangyu and Cheah, Eugene},
     journal={arXiv preprint arXiv:2407.12077},
     year={2024}
@@ -1219,7 +1219,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[14] Transformers are multi-state rnns**, EMNLP 2024  
   *Oren, Matanel  and Hassid, Michael  and Yarden, Nir  and Adi, Yossi  and Schwartz, Roy*  
-  [[Paper](https://aclanthology.org/2024.emnlp-main.1043.pdf)] [[Code](https://github.com/schwartz-lab-NLP/TOVA)] ![TOVA](https://img.shields.io/badge/TOVA-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Multi--State_RNN](https://img.shields.io/badge/Multi--State_RNN-yellow)  
+  [[Paper](https://aclanthology.org/2024.emnlp-main.1043.pdf)] [[Code](https://github.com/schwartz-lab-NLP/TOVA)] ![TOVA](https://img.shields.io/badge/TOVA-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Multi--State_RNN](https://img.shields.io/badge/Multi--State_RNN-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1245,14 +1245,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[15] PyramidInfer: Pyramid KV Cache Compression for High-throughput LLM Inference**, ACL 2024  
+- **[15] PyramidInfer: Pyramid KV Caching Compression for High-throughput LLM Inference**, ACL 2024  
   *Yang, Dongjie  and Han, Xiaodong  and Gao, Yan  and Hu, Yao  and Zhang, Shilin  and Zhao, Hai*  
-  [[Paper](https://aclanthology.org/2024.findings-acl.195.pdf)] [[Code](https://github.com/mutonix/pyramidinfer)] ![PyramidInfer](https://img.shields.io/badge/PyramidInfer-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://aclanthology.org/2024.findings-acl.195.pdf)] [[Code](https://github.com/mutonix/pyramidinfer)] ![PyramidInfer](https://img.shields.io/badge/PyramidInfer-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{yang-etal-2024-pyramidinfer,
-      title = "{P}yramid{I}nfer: Pyramid {KV} Cache Compression for High-throughput {LLM} Inference",
+      title = "{P}yramid{I}nfer: Pyramid {KV} Caching Compression for High-throughput {LLM} Inference",
       author = "Yang, Dongjie  and
         Han, Xiaodong  and
         Gao, Yan  and
@@ -1274,14 +1274,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[16] Pyramidkv: Dynamic kv cache compression based on pyramidal information funneling**, arXiv 2024  
+- **[16] Pyramidkv: Dynamic kv Caching compression based on pyramidal information funneling**, arXiv 2024  
   *Cai, Zefan and Zhang, Yichi and Gao, Bofei and Liu, Yuliang and Liu, Tianyu and Lu, Keming and Xiong, Wayne and Dong, Yue and Chang, Baobao and Hu, Junjie and others*  
-  [[Paper](https://arxiv.org/pdf/2406.02069)] [[Code](https://github.com/Zefan-Cai/KVCache-Factory)] ![PyramidKV](https://img.shields.io/badge/PyramidKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2406.02069)] [[Code](https://github.com/Zefan-Cai/KVCaching-Factory)] ![PyramidKV](https://img.shields.io/badge/PyramidKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{cai2024pyramidkv,
-    title={Pyramidkv: Dynamic kv cache compression based on pyramidal information funneling},
+    title={Pyramidkv: Dynamic kv Caching compression based on pyramidal information funneling},
     author={Cai, Zefan and Zhang, Yichi and Gao, Bofei and Liu, Yuliang and Liu, Tianyu and Lu, Keming and Xiong, Wayne and Dong, Yue and Chang, Baobao and Hu, Junjie and others},
     journal={arXiv preprint arXiv:2406.02069},
     year={2024}
@@ -1289,9 +1289,9 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[17] Keyformer: Kv cache reduction through key tokens selection for efficient generative inference**, MLSys 2024  
+- **[17] Keyformer: Kv Caching reduction through key tokens selection for efficient generative inference**, MLSys 2024  
   *Adnan, Muhammad and Arunkumar, Akhil and Jain, Gaurav and Nair, Prashant and Soloveychik, Ilya and Kamath, Purushotham*  
-  [[Paper](https://proceedings.mlsys.org/paper_files/paper/2024/file/48fecef47b19fe501d27d338b6d52582-Paper-Conference.pdf)] [[Code](https://github.com/d-matrix-ai/keyformer-llm)] ![Keyformer](https://img.shields.io/badge/Keyformer-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://proceedings.mlsys.org/paper_files/paper/2024/file/48fecef47b19fe501d27d338b6d52582-Paper-Conference.pdf)] [[Code](https://github.com/d-matrix-ai/keyformer-llm)] ![Keyformer](https://img.shields.io/badge/Keyformer-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1300,7 +1300,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
    booktitle = {Proceedings of Machine Learning and Systems},
    editor = {P. Gibbons and G. Pekhimenko and C. De Sa},
    pages = {114--127},
-   title = {Keyformer: KV Cache reduction through key tokens selection for Efficient Generative Inference},
+   title = {Keyformer: KV Caching reduction through key tokens selection for Efficient Generative Inference},
    url = {https://proceedings.mlsys.org/paper_files/paper/2024/file/48fecef47b19fe501d27d338b6d52582-Paper-Conference.pdf},
    volume = {6},
    year = {2024}
@@ -1308,15 +1308,15 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[18] Finch: Prompt-guided key-value cache compression**, TACL 2024  
+- **[18] Finch: Prompt-guided key-value Caching compression**, TACL 2024  
   *Corallo, Giulio and Papotti, Paolo*  
-  [[Paper](https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00716/2480391/tacl_a_00716.pdf)] [[Code](https://github.com/giulio98/context-compression/)] ![FINCH](https://img.shields.io/badge/FINCH-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Chunking](https://img.shields.io/badge/Chunking-orange) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://direct.mit.edu/tacl/article-pdf/doi/10.1162/tacl_a_00716/2480391/tacl_a_00716.pdf)] [[Code](https://github.com/giulio98/context-compression/)] ![FINCH](https://img.shields.io/badge/FINCH-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Chunking](https://img.shields.io/badge/Chunking-orange) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{10.1162/tacl_a_00716,
       author = {Corallo, Giulio and Papotti, Paolo},
-      title = {FINCH: Prompt-guided Key-Value Cache Compression for Large Language Models},
+      title = {FINCH: Prompt-guided Key-Value Caching Compression for Large Language Models},
       journal = {Transactions of the Association for Computational Linguistics},
       volume = {12},
       pages = {1517-1532},
@@ -1334,7 +1334,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[19] A2sf: Accumulative attention scoring with forgetting factor for token pruning in transformer decoder**, arXiv 2024  
   *Jo, Hyun-rae and Shin, Dongkun*  
-  [[Paper](https://arxiv.org/pdf/2407.20485#page=1.45)] [[Code](https://github.com/Dirac-Notation/A2SF)] ![A2sf](https://img.shields.io/badge/A2sf-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2407.20485#page=1.45)] [[Code](https://github.com/Dirac-Notation/A2SF)] ![A2sf](https://img.shields.io/badge/A2sf-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1347,14 +1347,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[20] Razorattention: Efficient kv cache compression through retrieval heads**, arXiv 2024  
+- **[20] Razorattention: Efficient kv Caching compression through retrieval heads**, arXiv 2024  
   *Tang, Hanlin and Lin, Yang and Lin, Jing and Han, Qingsen and Hong, Shikuan and Yao, Yiwu and Wang, Gongyi*  
-  [[Paper](https://arxiv.org/pdf/2407.15891)] ![RazorAttention](https://img.shields.io/badge/RazorAttention-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Pooling](https://img.shields.io/badge/Pooling-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Compensation_Token](https://img.shields.io/badge/Compensation_Token-yellow)  
+  [[Paper](https://arxiv.org/pdf/2407.15891)] ![RazorAttention](https://img.shields.io/badge/RazorAttention-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Pooling](https://img.shields.io/badge/Pooling-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Compensation_Token](https://img.shields.io/badge/Compensation_Token-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{tang2024razorattention,
-    title={Razorattention: Efficient kv cache compression through retrieval heads},
+    title={Razorattention: Efficient kv Caching compression through retrieval heads},
     author={Tang, Hanlin and Lin, Yang and Lin, Jing and Han, Qingsen and Hong, Shikuan and Yao, Yiwu and Wang, Gongyi},
     journal={arXiv preprint arXiv:2407.15891},
     year={2024}
@@ -1364,7 +1364,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[21] SirLLM: Streaming infinite retentive LLM**, ACL 2024  
   *Yao, Yao  and Li, Zuchao  and  Zhao, Hai*  
-  [[Paper](https://aclanthology.org/2024.acl-long.143.pdf)] [[Code](https://github.com/Zoeyyao27/SirLLM)] ![SirLLM](https://img.shields.io/badge/SirLLM-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Token_Entropy](https://img.shields.io/badge/Token_Entropy-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Token_Entropy](https://img.shields.io/badge/Token_Entropy-yellow)  
+  [[Paper](https://aclanthology.org/2024.acl-long.143.pdf)] [[Code](https://github.com/Zoeyyao27/SirLLM)] ![SirLLM](https://img.shields.io/badge/SirLLM-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Token_Entropy](https://img.shields.io/badge/Token_Entropy-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Token_Entropy](https://img.shields.io/badge/Token_Entropy-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1388,14 +1388,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[22] A Simple and Effective $ L_2 $ Norm-Based Strategy for KV Cache Compression**, EMNLP 2024  
+- **[22] A Simple and Effective $ L_2 $ Norm-Based Strategy for KV Caching Compression**, EMNLP 2024  
   *Devoto, Alessio  and  Zhao, Yu  and   Scardapane, Simone  and Minervini, Pasquale*  
-  [[Paper](https://aclanthology.org/2024.emnlp-main.1027.pdf)] [[Code](https://aclanthology.org/attachments/2024.emnlp-main.1027.software.zip)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![L2_Norm](https://img.shields.io/badge/L2_Norm-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![L2--norm--based](https://img.shields.io/badge/L2--norm--based-yellow)  
+  [[Paper](https://aclanthology.org/2024.emnlp-main.1027.pdf)] [[Code](https://aclanthology.org/attachments/2024.emnlp-main.1027.software.zip)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![L2_Norm](https://img.shields.io/badge/L2_Norm-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![L2--norm--based](https://img.shields.io/badge/L2--norm--based-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{devoto-etal-2024-simple,
-      title = "A Simple and Effective $L\_2$ Norm-Based Strategy for {KV} Cache Compression",
+      title = "A Simple and Effective $L\_2$ Norm-Based Strategy for {KV} Caching Compression",
       author = "Devoto, Alessio  and
         Zhao, Yu  and
         Scardapane, Simone  and
@@ -1417,7 +1417,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[23] Dynamic memory compression: Retrofitting llms for accelerated inference**, arXiv 2024  
   *Nawrot, Piotr and La'ncucki, Adrian and Chochowski, Marcin and Tarjan, David and Ponti, Edoardo M*  
-  [[Paper](https://arxiv.org/pdf/2403.09636)] ![DMC](https://img.shields.io/badge/DMC-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Learnable_Mechanism](https://img.shields.io/badge/Learnable_Mechanism-purple) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  [[Paper](https://arxiv.org/pdf/2403.09636)] ![DMC](https://img.shields.io/badge/DMC-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Learnable_Mechanism](https://img.shields.io/badge/Learnable_Mechanism-purple) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1430,14 +1430,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[24] Model tells you where to merge: Adaptive kv cache merging for llms on long-context tasks**, arXiv 2024  
+- **[24] Model tells you where to merge: Adaptive kv Caching merging for llms on long-context tasks**, arXiv 2024  
   *Wang, Zheng and Jin, Boxiao and Yu, Zhongzhi and Zhang, Minjia*  
-  [[Paper](https://arxiv.org/pdf/2407.08454#page=1.71)] ![KVMerger](https://img.shields.io/badge/KVMerger-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Similarity_Map](https://img.shields.io/badge/Similarity_Map-purple) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Gaussian_Kernel_weighted_merging](https://img.shields.io/badge/Gaussian_Kernel_weighted_merging-yellow)  
+  [[Paper](https://arxiv.org/pdf/2407.08454#page=1.71)] ![KVMerger](https://img.shields.io/badge/KVMerger-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Similarity--based](https://img.shields.io/badge/Similarity--based-purple) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Gaussian_Kernel_weighted_merging](https://img.shields.io/badge/Gaussian_Kernel_weighted_merging-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{wang2024model,
-    title={Model tells you where to merge: Adaptive kv cache merging for llms on long-context tasks},
+    title={Model tells you where to merge: Adaptive kv Caching merging for llms on long-context tasks},
     author={Wang, Zheng and Jin, Boxiao and Yu, Zhongzhi and Zhang, Minjia},
     journal={arXiv preprint arXiv:2407.08454},
     year={2024}
@@ -1447,7 +1447,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[25] Anchor-based large language models**, ACL 2024  
   *Pang, Jianhui  and Ye, Fanghua  and Wong, Derek  and  He, Xin  and  Chen, Wanshun  and  Wang, Longyue*  
-  [[Paper](https://aclanthology.org/2024.findings-acl.295.pdf)] [[Code](https://github.com/pangjh3/AnLLM)] ![AnLLM](https://img.shields.io/badge/AnLLM-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Anchor_Token](https://img.shields.io/badge/Anchor_Token-yellow)  
+  [[Paper](https://aclanthology.org/2024.findings-acl.295.pdf)] [[Code](https://github.com/pangjh3/AnLLM)] ![AnLLM](https://img.shields.io/badge/AnLLM-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Anchor_Token](https://img.shields.io/badge/Anchor_Token-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1474,15 +1474,15 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[26] Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Cache Consumption**, COLM 2024  
+- **[26] Keep the Cost Down: A Review on Methods to Optimize LLM' s KV-Caching Consumption**, COLM 2024  
   *Shi Luohe and Hongyi Zhang and Yao Yao and Zuchao Li and hai zhao*  
-  [[Paper](https://openreview.net/pdf?id=8tKjqqMM5z)] [[Code](https://github.com/zcli-charlie/Awesome-KVCache)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Survey](https://img.shields.io/badge/Survey-yellow)  
+  [[Paper](https://openreview.net/pdf?id=8tKjqqMM5z)] [[Code](https://github.com/zcli-charlie/Awesome-KVCaching)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Survey](https://img.shields.io/badge/Survey-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{
   luohe2024keep,
-  title={Keep the Cost Down: A Review on Methods to Optimize {LLM}{\textquoteright}s {KV}-Cache Consumption},
+  title={Keep the Cost Down: A Review on Methods to Optimize {LLM}{\textquoteright}s {KV}-Caching Consumption},
   author={Shi Luohe and Hongyi Zhang and Yao Yao and Zuchao Li and hai zhao},
   booktitle={First Conference on Language Modeling},
   year={2024},
@@ -1491,14 +1491,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[27] SCBench: A KV Cache-Centric Analysis of Long-Context Methods**, arXiv 2024  
+- **[27] SCBench: A KV Caching-Centric Analysis of Long-Context Methods**, arXiv 2024  
   *Li, Yucheng and Jiang, Huiqiang and Wu, Qianhui and Luo, Xufang and Ahn, Surin and Zhang, Chengruidong and Abdi, Amir H and Li, Dongsheng and Gao, Jianfeng and Yang, Yuqing and others*  
-  [[Paper](https://arxiv.org/pdf/2412.10319)] [[Code](https://aka.ms/SCBench)] ![SCBench](https://img.shields.io/badge/SCBench-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Benchmark](https://img.shields.io/badge/Benchmark-yellow)  
+  [[Paper](https://arxiv.org/pdf/2412.10319)] [[Code](https://aka.ms/SCBench)] ![SCBench](https://img.shields.io/badge/SCBench-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Benchmark](https://img.shields.io/badge/Benchmark-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{li2024scbench,
-    title={Scbench: A kv cache-centric analysis of long-context methods},
+    title={Scbench: A kv Caching-centric analysis of long-context methods},
     author={Li, Yucheng and Jiang, Huiqiang and Wu, Qianhui and Luo, Xufang and Ahn, Surin and Zhang, Chengruidong and Abdi, Amir H and Li, Dongsheng and Gao, Jianfeng and Yang, Yuqing and others},
     journal={arXiv preprint arXiv:2412.10319},
     year={2024}
@@ -1508,7 +1508,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[28] On the efficacy of eviction policy for key-value constrained generative language model inference**, arXiv 2024  
   *Ren, Siyu and Zhu, Kenny Q*  
-  [[Paper](https://arxiv.org/pdf/2402.06262)] [[Code](https://github.com/DRSY/EasyKV)] ![EasyKV](https://img.shields.io/badge/EasyKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Eviction_Scope](https://img.shields.io/badge/Eviction_Scope-yellow) ![Importance_Score](https://img.shields.io/badge/Importance_Score-yellow)  
+  [[Paper](https://arxiv.org/pdf/2402.06262)] [[Code](https://github.com/DRSY/EasyKV)] ![EasyKV](https://img.shields.io/badge/EasyKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Eviction_Scope](https://img.shields.io/badge/Eviction_Scope-yellow) ![Importance_Score](https://img.shields.io/badge/Importance_Score-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1523,7 +1523,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[29] Snapkv: Llm knows what you are looking for before generation**, NeurIPS 2024  
   *Yuhong Li and Yingbing Huang and Bowen Yang and Bharat Venkitesh and Acyr Locatelli and Hanchen Ye and Tianle Cai and Patrick Lewis and Deming Chen*  
-  [[Paper](https://openreview.net/pdf?id=poE54GOq2l)] [[Code](https://github.com/FasterDecoding/SnapKV)] ![SnapKV](https://img.shields.io/badge/SnapKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://openreview.net/pdf?id=poE54GOq2l)] [[Code](https://github.com/FasterDecoding/SnapKV)] ![SnapKV](https://img.shields.io/badge/SnapKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1540,7 +1540,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[30] SubGen: Token Generation in Sublinear Time and Memory**, arXiv 2024  
   *Zandieh, Amir and Han, Insu and Mirrokni, Vahab and Karbasi, Amin*  
-  [[Paper](https://arxiv.org/pdf/2402.06082)] ![SubGen](https://img.shields.io/badge/SubGen-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Similarity](https://img.shields.io/badge/Similarity-purple) ![Clustering](https://img.shields.io/badge/Clustering-orange) ![Droping](https://img.shields.io/badge/Droping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2402.06082)] ![SubGen](https://img.shields.io/badge/SubGen-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Similarity--based](https://img.shields.io/badge/Similarity--based-purple) ![Clustering](https://img.shields.io/badge/Clustering-orange) ![Purning](https://img.shields.io/badge/Purning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1553,14 +1553,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[31] Not All Heads Matter: A Head-Level KV Cache Compression Method with Integrated Retrieval and Reasoning**, arXiv 2024  
+- **[31] Not All Heads Matter: A Head-Level KV Caching Compression Method with Integrated Retrieval and Reasoning**, arXiv 2024  
   *Fu, Yu and Cai, Zefan and Asi, Abedelkadir and Xiong, Wayne and Dong, Yue and Xiao, Wen*  
-  [[Paper](https://arxiv.org/pdf/2410.19258)] [[Code](https://github.com/FYYFU/HeadKV)] ![HeadKV](https://img.shields.io/badge/HeadKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Retrieval_and_Reasoning_Importance](https://img.shields.io/badge/Retrieval_and_Reasoning_Importance-yellow) ![_Head--Level](https://img.shields.io/badge/_Head--Level-yellow)  
+  [[Paper](https://arxiv.org/pdf/2410.19258)] [[Code](https://github.com/FYYFU/HeadKV)] ![HeadKV](https://img.shields.io/badge/HeadKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Retrieval_and_Reasoning_Importance](https://img.shields.io/badge/Retrieval_and_Reasoning_Importance-yellow) ![_Head--Level](https://img.shields.io/badge/_Head--Level-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{fu2024not,
-    title={Not all heads matter: A head-level KV cache compression method with integrated retrieval and reasoning},
+    title={Not all heads matter: A head-level KV Caching compression method with integrated retrieval and reasoning},
     author={Fu, Yu and Cai, Zefan and Asi, Abedelkadir and Xiong, Wayne and Dong, Yue and Xiao, Wen},
     journal={arXiv preprint arXiv:2410.19258},
     year={2024}
@@ -1568,14 +1568,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[32] CORM: Cache Optimization with Recent Message for Large Language Model Inference**, arXiv 2024  
+- **[32] CORM: Caching Optimization with Recent Message for Large Language Model Inference**, arXiv 2024  
   *Jincheng Dai and Zhuowei Huang and Haiyun Jiang and Chen Chen and Deng Cai and Wei Bi and Shuming Shi*  
-  [[Paper](https://arxiv.org/pdf/2404.15949v2)] ![CORM](https://img.shields.io/badge/CORM-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Query_Vector_Similarity](https://img.shields.io/badge/Query_Vector_Similarity-yellow)  
+  [[Paper](https://arxiv.org/pdf/2404.15949v2)] ![CORM](https://img.shields.io/badge/CORM-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Query_Vector_Similarity--based](https://img.shields.io/badge/Query_Vector_Similarity--based-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @misc{dai2024corm,
-      title={CORM: Cache Optimization with Recent Message for Large Language Model Inference},
+      title={CORM: Caching Optimization with Recent Message for Large Language Model Inference},
       author={Jincheng Dai and Zhuowei Huang and Haiyun Jiang and Chen Chen and Deng Cai and Wei Bi and Shuming Shi},
       year={2024},
       eprint={2404.15949},
@@ -1585,14 +1585,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[33] Attention Score is not All You Need for Token Importance Indicator in KV Cache Reduction: Value Also Matters**, EMNLP 2024  
+- **[33] Attention Score is not All You Need for Token Importance Indicator in KV Caching Reduction: Value Also Matters**, EMNLP 2024  
   *Guo, Zhiyu  and Kamigaito, Hidetaka  and  Watanabe, Taro*  
-  [[Paper](https://aclanthology.org/2024.emnlp-main.1178.pdf)] [[Code](https://github.com/guozhiyu/vatp)] ![VATP](https://img.shields.io/badge/VATP-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![L1_Norm](https://img.shields.io/badge/L1_Norm-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Value--aware_Token_Pruning](https://img.shields.io/badge/Value--aware_Token_Pruning-yellow)  
+  [[Paper](https://aclanthology.org/2024.emnlp-main.1178.pdf)] [[Code](https://github.com/guozhiyu/vatp)] ![VATP](https://img.shields.io/badge/VATP-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![L1_Norm](https://img.shields.io/badge/L1_Norm-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Value--aware_Token_Pruning](https://img.shields.io/badge/Value--aware_Token_Pruning-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{guo-etal-2024-attention,
-      title = "Attention Score is not All You Need for Token Importance Indicator in {KV} Cache Reduction: Value Also Matters",
+      title = "Attention Score is not All You Need for Token Importance Indicator in {KV} Caching Reduction: Value Also Matters",
       author = "Guo, Zhiyu  and
         Kamigaito, Hidetaka  and
         Watanabe, Taro",
@@ -1611,15 +1611,15 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[34] MiniCache: KV Cache Compression in Depth Dimension for Large Language Models**, NeurIPS 2024  
+- **[34] MiniCaching: KV Caching Compression in Depth Dimension for Large Language Models**, NeurIPS 2024  
   *Akide Liu and Jing Liu and Zizheng Pan and Yefei He and Gholamreza Haffari and Bohan Zhuang*  
-  [[Paper](https://openreview.net/pdf?id=sgVOjDqUMT)] [[Code](https://minicache.vmv.re/)] ![MiniCache](https://img.shields.io/badge/MiniCache-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![L2_Norm](https://img.shields.io/badge/L2_Norm-purple) ![Merging](https://img.shields.io/badge/Merging-orange) ![Aaveraging](https://img.shields.io/badge/Aaveraging-orange) ![Retention](https://img.shields.io/badge/Retention-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://openreview.net/pdf?id=sgVOjDqUMT)] [[Code](https://miniCaching.vmv.re/)] ![MiniCaching](https://img.shields.io/badge/MiniCaching-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![L2_Norm](https://img.shields.io/badge/L2_Norm-purple) ![Merging](https://img.shields.io/badge/Merging-orange) ![Aaveraging](https://img.shields.io/badge/Aaveraging-orange) ![Retention](https://img.shields.io/badge/Retention-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{
-  liu2024minicache,
-  title={MiniCache: {KV} Cache Compression in Depth Dimension for Large Language Models},
+  liu2024miniCaching,
+  title={MiniCaching: {KV} Caching Compression in Depth Dimension for Large Language Models},
   author={Akide Liu and Jing Liu and Zizheng Pan and Yefei He and Gholamreza Haffari and Bohan Zhuang},
   booktitle={The Thirty-eighth Annual Conference on Neural Information Processing Systems},
   year={2024},
@@ -1628,15 +1628,15 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[35] Cam: Cache merging for memory-efficient llms inference**, ICML 2024  
+- **[35] Cam: Caching merging for memory-efficient llms inference**, ICML 2024  
   *Yuxin Zhang and Yuxuan Du and Gen Luo and Yunshan Zhong and Zhenyu Zhang and Shiwei Liu and Rongrong Ji*  
-  [[Paper](https://openreview.net/pdf?id=LCTmppB165)] [[Code](https://github.com/zyxxmu/cam)] ![CaM](https://img.shields.io/badge/CaM-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://openreview.net/pdf?id=LCTmppB165)] [[Code](https://github.com/zyxxmu/cam)] ![CaM](https://img.shields.io/badge/CaM-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{
   zhang2024cam,
-  title={CaM: Cache Merging for Memory-efficient {LLM}s Inference},
+  title={CaM: Caching Merging for Memory-efficient {LLM}s Inference},
   author={Yuxin Zhang and Yuxuan Du and Gen Luo and Yunshan Zhong and Zhenyu Zhang and Shiwei Liu and Rongrong Ji},
   booktitle={Forty-first International Conference on Machine Learning},
   year={2024},
@@ -1647,7 +1647,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[36] D2O: Dynamic Discriminative Operations for Efficient Generative Inference of Large Language Models**, arXiv 2024  
   *Wan, Zhongwei and Wu, Xinjian and Zhang, Yu and Xin, Yi and Tao, Chaofan and Zhu, Zhihong and Wang, Xin and Luo, Siqi and Xiong, Jing and Zhang, Mi*  
-  [[Paper](https://arxiv.org/pdf/2406.13035)] ![D2O](https://img.shields.io/badge/D2O-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2406.13035)] ![D2O](https://img.shields.io/badge/D2O-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1697,9 +1697,9 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[39] Prompt cache: Modular attention reuse for low-latency inference**, MLSys 2024  
+- **[39] Prompt Caching: Modular attention reuse for low-latency inference**, MLSys 2024  
   *Gim, In and Chen, Guojun and Lee, Seung-seob and Sarda, Nikhil and Khandelwal, Anurag and Zhong, Lin*  
-  [[Paper](https://proceedings.mlsys.org/paper_files/paper/2024/file/a66caa1703fe34705a4368c3014c1966-Paper-Conference.pdf)] [[Code](https://github.com/MachineLearningSystem/24MLSYS-prompt-cache)] ![Prompt_Cache](https://img.shields.io/badge/Prompt_Cache-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Reusing](https://img.shields.io/badge/Reusing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
+  [[Paper](https://proceedings.mlsys.org/paper_files/paper/2024/file/a66caa1703fe34705a4368c3014c1966-Paper-Conference.pdf)] [[Code](https://github.com/MachineLearningSystem/24MLSYS-prompt-Caching)] ![Prompt_Caching](https://img.shields.io/badge/Prompt_Caching-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Reusing](https://img.shields.io/badge/Reusing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1708,7 +1708,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
    booktitle = {Proceedings of Machine Learning and Systems},
    editor = {P. Gibbons and G. Pekhimenko and C. De Sa},
    pages = {325--338},
-   title = {Prompt Cache: Modular Attention Reuse for Low-Latency Inference},
+   title = {Prompt Caching: Modular Attention Reuse for Low-Latency Inference},
    url = {https://proceedings.mlsys.org/paper_files/paper/2024/file/a66caa1703fe34705a4368c3014c1966-Paper-Conference.pdf},
    volume = {6},
    year = {2024}
@@ -1733,14 +1733,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[41] RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation**, arXiv 2024  
+- **[41] RAGCaching: Efficient Knowledge Caching for Retrieval-Augmented Generation**, arXiv 2024  
   *Jin, Chao and Zhang, Zili and Jiang, Xuanlin and Liu, Fangyue and Liu, Xin and Liu, Xuanzhe and Jin, Xin*  
-  [[Paper](https://arxiv.org/pdf/2404.12457)] ![RAGCache](https://img.shields.io/badge/RAGCache-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow) ![RAG](https://img.shields.io/badge/RAG-yellow)  
+  [[Paper](https://arxiv.org/pdf/2404.12457)] ![RAGCaching](https://img.shields.io/badge/RAGCaching-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow) ![RAG](https://img.shields.io/badge/RAG-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
-  @article{jin2024ragcache,
-    title={RAGCache: Efficient Knowledge Caching for Retrieval-Augmented Generation},
+  @article{jin2024ragCaching,
+    title={RAGCaching: Efficient Knowledge Caching for Retrieval-Augmented Generation},
     author={Jin, Chao and Zhang, Zili and Jiang, Xuanlin and Liu, Fangyue and Liu, Xin and Liu, Xuanzhe and Jin, Xin},
     journal={arXiv preprint arXiv:2404.12457},
     year={2024}
@@ -1748,14 +1748,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[42] CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion**, arXiv 2024  
+- **[42] CachingBlend: Fast Large Language Model Serving with Cachingd Knowledge Fusion**, arXiv 2024  
   *Yao, Jiayi and Li, Hanchen and Liu, Yuhan and Ray, Siddhant and Cheng, Yihua and Zhang, Qizheng and Du, Kuntai and Lu, Shan and Jiang, Junchen*  
-  [[Paper](https://arxiv.org/pdf/2405.16444)] [[Code](https://github.com/YaoJiayi/CacheBlend)] ![CacheBlend](https://img.shields.io/badge/CacheBlend-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Reusing](https://img.shields.io/badge/Reusing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow) ![RAG](https://img.shields.io/badge/RAG-yellow)  
+  [[Paper](https://arxiv.org/pdf/2405.16444)] [[Code](https://github.com/YaoJiayi/CachingBlend)] ![CachingBlend](https://img.shields.io/badge/CachingBlend-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Reusing](https://img.shields.io/badge/Reusing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow) ![RAG](https://img.shields.io/badge/RAG-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
-  @article{yao2024cacheblend,
-    title={CacheBlend: Fast Large Language Model Serving with Cached Knowledge Fusion},
+  @article{yao2024Cachingblend,
+    title={CachingBlend: Fast Large Language Model Serving with Cachingd Knowledge Fusion},
     author={Yao, Jiayi and Li, Hanchen and Liu, Yuhan and Ray, Siddhant and Cheng, Yihua and Zhang, Qizheng and Du, Kuntai and Lu, Shan and Jiang, Junchen},
     journal={arXiv preprint arXiv:2405.16444},
     year={2024}
@@ -1765,7 +1765,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[43] Quest: Query-Aware Sparsity for Efficient Long-Context LLM Inference**, arXiv 2024  
   *Tang, Jiaming and Zhao, Yilong and Zhu, Kan and Xiao, Guangxuan and Kasikci, Baris and Han, Song*  
-  [[Paper](https://arxiv.org/pdf/2406.10774)] [[Code](https://github.com/mit-han-lab/Quest)] ![Quest](https://img.shields.io/badge/Quest-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![PageAttention](https://img.shields.io/badge/PageAttention-yellow)  
+  [[Paper](https://arxiv.org/pdf/2406.10774)] [[Code](https://github.com/mit-han-lab/Quest)] ![Quest](https://img.shields.io/badge/Quest-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![PageAttention](https://img.shields.io/badge/PageAttention-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1778,14 +1778,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[44] Ada-kv: Optimizing kv cache eviction by adaptive budget allocation for efficient llm inference**, arXiv 2024  
+- **[44] Ada-kv: Optimizing kv Caching eviction by adaptive budget allocation for efficient llm inference**, arXiv 2024  
   *Feng, Yuan and Lv, Junlin and Cao, Yukun and Xie, Xike and Zhou, S Kevin*  
-  [[Paper](https://arxiv.org/pdf/2407.11550)] [[Code](https://github.com/FFY0/AdaKV)] ![Ada--kv](https://img.shields.io/badge/Ada--kv-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2407.11550)] [[Code](https://github.com/FFY0/AdaKV)] ![Ada--kv](https://img.shields.io/badge/Ada--kv-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{feng2024ada,
-    title={Ada-kv: Optimizing kv cache eviction by adaptive budget allocation for efficient llm inference},
+    title={Ada-kv: Optimizing kv Caching eviction by adaptive budget allocation for efficient llm inference},
     author={Feng, Yuan and Lv, Junlin and Cao, Yukun and Xie, Xike and Zhou, S Kevin},
     journal={arXiv preprint arXiv:2407.11550},
     year={2024}
@@ -1808,14 +1808,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[46] Unifying KV Cache Compression for Large Language Models with LeanKV**, arXiv 2024  
+- **[46] Unifying KV Caching Compression for Large Language Models with LeanKV**, arXiv 2024  
   *Zhang, Yanqi and Hu, Yuwei and Zhao, Runyuan and Lui, John and Chen, Haibo*  
-  [[Paper](https://arxiv.org/pdf/2412.03131)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
+  [[Paper](https://arxiv.org/pdf/2412.03131)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{zhang2024unifying,
-    title={Unifying kv cache compression for large language models with leankv},
+    title={Unifying kv Caching compression for large language models with leankv},
     author={Zhang, Yanqi and Hu, Yuwei and Zhao, Runyuan and Lui, John and Chen, Haibo},
     journal={arXiv preprint arXiv:2412.03131},
     year={2024}
@@ -1823,14 +1823,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[47] More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression**, arXiv 2024  
+- **[47] More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Caching Compression**, arXiv 2024  
   *Zhang, Jiebin and Zhu, Dawei and Song, Yifan and Wu, Wenhao and Kuang, Chuqiao and Li, Xiaoguang and Shang, Lifeng and Liu, Qun and Li, Sujian*  
-  [[Paper](https://arxiv.org/pdf/2412.12706)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Quantization](https://img.shields.io/badge/Quantization-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2412.12706)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Quantization](https://img.shields.io/badge/Quantization-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{zhang2024more,
-    title={More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Cache Compression},
+    title={More Tokens, Lower Precision: Towards the Optimal Token-Precision Trade-off in KV Caching Compression},
     author={Zhang, Jiebin and Zhu, Dawei and Song, Yifan and Wu, Wenhao and Kuang, Chuqiao and Li, Xiaoguang and Shang, Lifeng and Liu, Qun and Li, Sujian},
     journal={arXiv preprint arXiv:2412.12706},
     year={2024}
@@ -1838,14 +1838,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[48] LayerKV: Optimizing Large Language Model Serving with Layer-wise KV Cache Management**, arXiv 2024  
+- **[48] LayerKV: Optimizing Large Language Model Serving with Layer-wise KV Caching Management**, arXiv 2024  
   *Xiong, Yi and Wu, Hao and Shao, Changxu and Wang, Ziqing and Zhang, Rui and Guo, Yuhong and Zhao, Junping and Zhang, Ke and Pan, Zhenxuan*  
   [[Paper](https://arxiv.org/pdf/2410.00428)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Offloading](https://img.shields.io/badge/Offloading-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{xiong2024layerkv,
-    title={Layerkv: Optimizing large language model serving with layer-wise kv cache management},
+    title={Layerkv: Optimizing large language model serving with layer-wise kv Caching management},
     author={Xiong, Yi and Wu, Hao and Shao, Changxu and Wang, Ziqing and Zhang, Rui and Guo, Yuhong and Zhao, Junping and Zhang, Ke and Pan, Zhenxuan},
     journal={arXiv preprint arXiv:2410.00428},
     year={2024}
@@ -1853,14 +1853,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[49] KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head**, arXiv 2024  
+- **[49] KV-Compress: Paged KV-Caching Compression with Variable Compression Rates per Attention Head**, arXiv 2024  
   *Isaac Rehg*  
-  [[Paper](https://arxiv.org/pdf/2410.00161)] [[Code](https://github.com/IsaacRe/vllm-kvcompress)] ![KV--Compress](https://img.shields.io/badge/KV--Compress-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
+  [[Paper](https://arxiv.org/pdf/2410.00161)] [[Code](https://github.com/IsaacRe/vllm-kvcompress)] ![KV--Compress](https://img.shields.io/badge/KV--Compress-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{rehg2024kv,
-    title={KV-Compress: Paged KV-Cache Compression with Variable Compression Rates per Attention Head},
+    title={KV-Compress: Paged KV-Caching Compression with Variable Compression Rates per Attention Head},
     author={Rehg, Isaac},
     journal={arXiv preprint arXiv:2410.00161},
     year={2024}
@@ -1868,14 +1868,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[50] ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty**, arXiv 2024  
+- **[50] ZigZagkv: Dynamic KV Caching Compression for Long-context Modeling based on Layer Uncertainty**, arXiv 2024  
   *Zhong, Meizhi and Liu, Xikai and Zhang, Chen and Lei, Yikun and Gao, Yan and Hu, Yao and Chen, Kehai and Zhang, Min*  
-  [[Paper](https://arxiv.org/pdf/2412.09036)] ![ZigZagKV](https://img.shields.io/badge/ZigZagKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Layer_Uncertainty](https://img.shields.io/badge/Layer_Uncertainty-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Layer_Uncertainty](https://img.shields.io/badge/Layer_Uncertainty-yellow) ![Dynamic_Budget_Allocation_](https://img.shields.io/badge/Dynamic_Budget_Allocation_-yellow)  
+  [[Paper](https://arxiv.org/pdf/2412.09036)] ![ZigZagKV](https://img.shields.io/badge/ZigZagKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Layer_Uncertainty](https://img.shields.io/badge/Layer_Uncertainty-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Layer_Uncertainty](https://img.shields.io/badge/Layer_Uncertainty-yellow) ![Dynamic_Budget_Allocation_](https://img.shields.io/badge/Dynamic_Budget_Allocation_-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{zhong2024zigzagkv,
-    title={ZigZagkv: Dynamic KV Cache Compression for Long-context Modeling based on Layer Uncertainty},
+    title={ZigZagkv: Dynamic KV Caching Compression for Long-context Modeling based on Layer Uncertainty},
     author={Zhong, Meizhi and Liu, Xikai and Zhang, Chen and Lei, Yikun and Gao, Yan and Hu, Yao and Chen, Kehai and Zhang, Min},
     journal={arXiv preprint arXiv:2412.09036},
     year={2024}
@@ -1885,7 +1885,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[51] UNComp: Uncertainty-Aware Long-Context Compressor for Efficient Large Language Model Inference**, arXiv 2024  
   *Xiong, Jing and Shen, Jianghan and Ye, Fanghua and Tao, Chaofan and Wan, Zhongwei and Lu, Jianqiao and Wu, Xun and Zheng, Chuanyang and Guo, Zhijiang and Kong, Lingpeng and others*  
-  [[Paper](https://arxiv.org/pdf/2410.03090)] ![UNComp](https://img.shields.io/badge/UNComp-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Matrix_Entropy](https://img.shields.io/badge/Matrix_Entropy-purple) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2410.03090)] ![UNComp](https://img.shields.io/badge/UNComp-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Matrix_Entropy](https://img.shields.io/badge/Matrix_Entropy-purple) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1898,14 +1898,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[52] KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Cache Sharing**, arXiv 2024  
+- **[52] KVSharer: Efficient Inference via Layer-Wise Dissimilar KV Caching Sharing**, arXiv 2024  
   *Yang, Yifei and Cao, Zouying and Chen, Qiguang and Qin, Libo and Yang, Dongjie and Zhao, Hai and Chen, Zhi*  
-  [[Paper](https://arxiv.org/pdf/2410.18517)] ![KVSharer](https://img.shields.io/badge/KVSharer-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Similarity](https://img.shields.io/badge/Similarity-purple) ![Sharing](https://img.shields.io/badge/Sharing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2410.18517)] ![KVSharer](https://img.shields.io/badge/KVSharer-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Similarity--based](https://img.shields.io/badge/Similarity--based-purple) ![Sharing](https://img.shields.io/badge/Sharing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{yang2024kvsharer,
-    title={Kvsharer: Efficient inference via layer-wise dissimilar KV cache sharing},
+    title={Kvsharer: Efficient inference via layer-wise dissimilar KV Caching sharing},
     author={Yang, Yifei and Cao, Zouying and Chen, Qiguang and Qin, Libo and Yang, Dongjie and Zhao, Hai and Chen, Zhi},
     journal={arXiv preprint arXiv:2410.18517},
     year={2024}
@@ -1913,15 +1913,15 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[53] LoCoCo: Dropping In Convolutions for Long Context Compression**, ICML 2024  
+- **[53] LoCoCo: Pruning In Convolutions for Long Context Compression**, ICML 2024  
   *Cai, Ruisi and Tian, Yuandong and Wang, Zhangyang and Chen, Beidi*  
-  [[Paper](https://arxiv.org/pdf/2406.05317)] [[Code](https://github.com/VITA-Group/LoCoCo)] ![LoCoCo](https://img.shields.io/badge/LoCoCo-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Learnable_Mechanism](https://img.shields.io/badge/Learnable_Mechanism-purple) ![Conv](https://img.shields.io/badge/Conv-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  [[Paper](https://arxiv.org/pdf/2406.05317)] [[Code](https://github.com/VITA-Group/LoCoCo)] ![LoCoCo](https://img.shields.io/badge/LoCoCo-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Learnable_Mechanism](https://img.shields.io/badge/Learnable_Mechanism-purple) ![Conv](https://img.shields.io/badge/Conv-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{
   cai2024lococo,
-  title={LoCoCo: Dropping In Convolutions for Long Context Compression},
+  title={LoCoCo: Pruning In Convolutions for Long Context Compression},
   author={Ruisi Cai and Yuandong Tian and Zhangyang Wang and Beidi Chen},
   booktitle={Forty-first International Conference on Machine Learning},
   year={2024},
@@ -1930,14 +1930,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[54] SimLayerKV: A Simple Framework for Layer-Level KV Cache Reduction**, arXiv 2024  
+- **[54] SimLayerKV: A Simple Framework for Layer-Level KV Caching Reduction**, arXiv 2024  
   *Zhang, Xuan and Du, Cunxiao and Du, Chao and Pang, Tianyu and Gao, Wei and Lin, Min*  
-  [[Paper](https://arxiv.org/pdf/2410.13846)] [[Code](https://github.com/sail-sg/SimLayerKV)] ![Simlayerkv](https://img.shields.io/badge/Simlayerkv-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2410.13846)] [[Code](https://github.com/sail-sg/SimLayerKV)] ![Simlayerkv](https://img.shields.io/badge/Simlayerkv-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{zhang2024simlayerkv,
-    title={Simlayerkv: A simple framework for layer-level KV cache reduction},
+    title={Simlayerkv: A simple framework for layer-level KV Caching reduction},
     author={Zhang, Xuan and Du, Cunxiao and Du, Chao and Pang, Tianyu and Gao, Wei and Lin, Min},
     journal={arXiv preprint arXiv:2410.13846},
     year={2024}
@@ -1945,14 +1945,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[55] EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance**, arXiv 2024  
+- **[55] EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Caching Compression Based on Global-Local Importance**, arXiv 2024  
   *Li, Yingxin and Li, Ye and Meng, Yuan and Ma, Xinzhu and Geng, Zihan and Xia, Shutao and Wang, Zhi*  
-  [[Paper](https://arxiv.org/pdf/2412.08521)] ![EMS](https://img.shields.io/badge/EMS-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Global--Local_score](https://img.shields.io/badge/Global--Local_score-yellow) ![Evict--Then--Merge](https://img.shields.io/badge/Evict--Then--Merge-yellow)  
+  [[Paper](https://arxiv.org/pdf/2412.08521)] ![EMS](https://img.shields.io/badge/EMS-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Global--Local_score](https://img.shields.io/badge/Global--Local_score-yellow) ![Evict--Then--Merge](https://img.shields.io/badge/Evict--Then--Merge-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{li2024ems,
-    title={EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Cache Compression Based on Global-Local Importance},
+    title={EMS: Adaptive Evict-then-Merge Strategy for Head-wise KV Caching Compression Based on Global-Local Importance},
     author={Li, Yingxin and Li, Ye and Meng, Yuan and Ma, Xinzhu and Geng, Zihan and Xia, Shutao and Wang, Zhi},
     journal={arXiv preprint arXiv:2412.08521},
     year={2024}
@@ -1960,14 +1960,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[56] ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression**, arXiv 2024  
+- **[56] ClusterKV: Manipulating LLM KV Caching in Semantic Space for Recallable Compression**, arXiv 2024  
   *Liu, Guangda and Li, Chengwei and Zhao, Jieru and Zhang, Chenqi and Guo, Minyi*  
-  [[Paper](https://arxiv.org/pdf/2412.03213)] ![ClusterKV](https://img.shields.io/badge/ClusterKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Similarity](https://img.shields.io/badge/Similarity-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2412.03213)] ![ClusterKV](https://img.shields.io/badge/ClusterKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Similarity--based](https://img.shields.io/badge/Similarity--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{liu2024clusterkv,
-    title={ClusterKV: Manipulating LLM KV Cache in Semantic Space for Recallable Compression},
+    title={ClusterKV: Manipulating LLM KV Caching in Semantic Space for Recallable Compression},
     author={Liu, Guangda and Li, Chengwei and Zhao, Jieru and Zhang, Chenqi and Guo, Minyi},
     journal={arXiv preprint arXiv:2412.03213},
     year={2024}
@@ -1977,7 +1977,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[57] Locret: Enhancing Eviction in Long-Context LLM Inference with Trained Retaining Heads**, arXiv 2024  
   *Huang, Yuxiang and Yuan, Binhang and Han, Xu and Xiao, Chaojun and Liu, Zhiyuan*  
-  [[Paper](https://arxiv.org/pdf/2410.01805)] [[Code](https://github.com/huangyuxiang03/Locret)] ![Locret](https://img.shields.io/badge/Locret-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Learnable_Mechanism](https://img.shields.io/badge/Learnable_Mechanism-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Retaining_Head](https://img.shields.io/badge/Retaining_Head-yellow)  
+  [[Paper](https://arxiv.org/pdf/2410.01805)] [[Code](https://github.com/huangyuxiang03/Locret)] ![Locret](https://img.shields.io/badge/Locret-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Learnable_Mechanism](https://img.shields.io/badge/Learnable_Mechanism-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown) ![Retaining_Head](https://img.shields.io/badge/Retaining_Head-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -1990,14 +1990,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[58] No Token Left Behind: Reliable KV Cache Compression via Importance-Aware Mixed Precision Quantization**, arXiv 2024  
+- **[58] No Token Left Behind: Reliable KV Caching Compression via Importance-Aware Mixed Precision Quantization**, arXiv 2024  
   *Yang, June Yong and Kim, Byeongwook and Bae, Jeongin and Kwon, Beomseok and Park, Gunho and Yang, Eunho and Kwon, Se Jung and Lee, Dongsoo*  
-  [[Paper](https://arxiv.org/pdf/2402.18096)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Quantization](https://img.shields.io/badge/Quantization-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2402.18096)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Quantization](https://img.shields.io/badge/Quantization-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{yang2024no,
-    title={No token left behind: Reliable kv cache compression via importance-aware mixed precision quantization},
+    title={No token left behind: Reliable kv Caching compression via importance-aware mixed precision quantization},
     author={Yang, June Yong and Kim, Byeongwook and Bae, Jeongin and Kwon, Beomseok and Park, Gunho and Yang, Eunho and Kwon, Se Jung and Lee, Dongsoo},
     journal={arXiv preprint arXiv:2402.18096},
     year={2024}
@@ -2007,7 +2007,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[59] LoMA: Lossless Compressed Memory Attention**, arXiv 2024  
   *Wang, Yumeng and Xiao, Zhenyang*  
-  [[Paper](https://arxiv.org/pdf/2401.09486)] ![LoMA](https://img.shields.io/badge/LoMA-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Learnable_Mechanism](https://img.shields.io/badge/Learnable_Mechanism-purple) ![Soft_Token](https://img.shields.io/badge/Soft_Token-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
+  [[Paper](https://arxiv.org/pdf/2401.09486)] ![LoMA](https://img.shields.io/badge/LoMA-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Learnable_Predictor](https://img.shields.io/badge/Learnable_Predictor-purple) ![Learnable_Mechanism](https://img.shields.io/badge/Learnable_Mechanism-purple) ![Soft_Token](https://img.shields.io/badge/Soft_Token-orange) ![Training--based](https://img.shields.io/badge/Training--based-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -2020,14 +2020,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[60] KV Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches**, EMNLP 2024  
+- **[60] KV Caching Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches**, EMNLP 2024  
   *Yuan, Jiayi  and  Liu, Hongyi  and  Zhong, Shaochen  and  Chuang, Yu-Neng  and Li, Songchen  and  Wang, Guanchu  and  Le, Duy  and  Jin, Hongye  and  Chaudhary, Vipin  and  Xu, Zhaozhuo  and  Liu, Zirui  and  Hu, Xia*  
   [[Paper](https://aclanthology.org/2024.findings-emnlp.266.pdf)] [[Code](https://github.com/henryzhongsc/longctx_bench)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Benchmark](https://img.shields.io/badge/Benchmark-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{yuan-etal-2024-kv,
-      title = "{KV} Cache Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches",
+      title = "{KV} Caching Compression, But What Must We Give in Return? A Comprehensive Benchmark of Long Context Capable Approaches",
       author = "Yuan, Jiayi  and
         Liu, Hongyi  and
         Zhong, Shaochen  and
@@ -2055,14 +2055,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[61] NACL: A General and Effective KV Cache Eviction Framework for LLMs at Inference Time**, ACL 2024  
+- **[61] NACL: A General and Effective KV Caching Eviction Framework for LLMs at Inference Time**, ACL 2024  
   *Chen, Yilong  and  Wang, Guoxia  and Shang, Junyuan  and   Cui, Shiyao  and Zhang, Zhenyu  and Liu, Tingwen  an Wang, Shuohuan  and  Sun, Yu  and  Yu, Dianhai  and  Wu, Hua*  
-  [[Paper](https://aclanthology.org/2024.acl-long.428.pdf)] [[Code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL)] ![NACL](https://img.shields.io/badge/NACL-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://aclanthology.org/2024.acl-long.428.pdf)] [[Code](https://github.com/PaddlePaddle/Research/tree/master/NLP/ACL2024-NACL)] ![NACL](https://img.shields.io/badge/NACL-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{chen-etal-2024-nacl,
-      title = "{NACL}: A General and Effective {KV} Cache Eviction Framework for {LLM} at Inference Time",
+      title = "{NACL}: A General and Effective {KV} Caching Eviction Framework for {LLM} at Inference Time",
       author = "Chen, Yilong  and
         Wang, Guoxia  and
         Shang, Junyuan  and
@@ -2088,14 +2088,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[62] TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection**, arXiv 2024  
+- **[62] TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Caching Selection**, arXiv 2024  
   *Wu, Wei and Pan, Zhuoshi and Wang, Chao and Chen, Liyi and Bai, Yunchu and Fu, Kun and Wang, Zheng and Xiong, Hui*  
-  [[Paper](https://arxiv.org/pdf/2411.02886)] ![TokenSelect](https://img.shields.io/badge/TokenSelect-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2411.02886)] ![TokenSelect](https://img.shields.io/badge/TokenSelect-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{wu2024tokenselect,
-    title={TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Cache Selection},
+    title={TokenSelect: Efficient Long-Context Inference and Length Extrapolation for LLMs via Dynamic Token-Level KV Caching Selection},
     author={Wu, Wei and Pan, Zhuoshi and Wang, Chao and Chen, Liyi and Bai, Yunchu and Fu, Kun and Wang, Zheng and Xiong, Hui},
     journal={arXiv preprint arXiv:2411.02886},
     year={2024}
@@ -2105,7 +2105,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[63] ArkVale: Efficient Generative LLM Inference with Recallable Key-Value Eviction**, NeurIPS 2024  
   *Renze Chen and Zhuofeng Wang and Beiquan Cao and Tong Wu and Size Zheng and Xiuhong Li and Xuechao Wei and Shengen Yan and Meng Li and Yun Liang*  
-  [[Paper](https://openreview.net/pdf?id=4oAt5L4lYe)] [[Code](https://github.com/pku-liang/ArkVale)] ![ArkVale](https://img.shields.io/badge/ArkVale-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow) ![KV--page](https://img.shields.io/badge/KV--page-yellow)  
+  [[Paper](https://openreview.net/pdf?id=4oAt5L4lYe)] [[Code](https://github.com/pku-liang/ArkVale)] ![ArkVale](https://img.shields.io/badge/ArkVale-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow) ![KV--page](https://img.shields.io/badge/KV--page-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -2120,9 +2120,9 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[64] Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache**, MLSys 2024  
+- **[64] Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Caching**, MLSys 2024  
   *Zhang, Zhenyu and Liu, Shiwei and Chen, Runjin and Kailkhura, Bhavya and Chen, Beidi and Wang, Atlas*  
-  [[Paper](https://proceedings.mlsys.org/paper_files/paper/2024/file/bbb7506579431a85861a05fff048d3e1-Paper-Conference.pdf)] [[Code](https://github.com/VITA-Group/Q-Hitter)] ![Q--Hitter](https://img.shields.io/badge/Q--Hitter-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Quantization](https://img.shields.io/badge/Quantization-orange) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Quantization_Friendlines](https://img.shields.io/badge/Quantization_Friendlines-yellow)  
+  [[Paper](https://proceedings.mlsys.org/paper_files/paper/2024/file/bbb7506579431a85861a05fff048d3e1-Paper-Conference.pdf)] [[Code](https://github.com/VITA-Group/Q-Hitter)] ![Q--Hitter](https://img.shields.io/badge/Q--Hitter-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Quantization](https://img.shields.io/badge/Quantization-orange) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Quantization_Friendlines](https://img.shields.io/badge/Quantization_Friendlines-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -2131,7 +2131,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
    booktitle = {Proceedings of Machine Learning and Systems},
    editor = {P. Gibbons and G. Pekhimenko and C. De Sa},
    pages = {381--394},
-   title = {Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Cache},
+   title = {Q-Hitter: A Better Token Oracle for Efficient LLM Inference via Sparse-Quantized KV Caching},
    url = {https://proceedings.mlsys.org/paper_files/paper/2024/file/bbb7506579431a85861a05fff048d3e1-Paper-Conference.pdf},
    volume = {6},
    year = {2024}
@@ -2139,15 +2139,15 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[65] InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Cache Management**, OSDI  2024  
+- **[65] InfiniGen: Efficient Generative Inference of Large Language Models with Dynamic KV Caching Management**, OSDI  2024  
   *Wonbeom Lee and Jungi Lee and Junghwan Seo and Jaewoong Sim*  
-  [[Paper](https://www.usenix.org/system/files/osdi24-lee.pdf)] ![InfiniGen](https://img.shields.io/badge/InfiniGen-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
+  [[Paper](https://www.usenix.org/system/files/osdi24-lee.pdf)] ![InfiniGen](https://img.shields.io/badge/InfiniGen-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![LLM_Serving](https://img.shields.io/badge/LLM_Serving-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings {298683,
   author = {Wonbeom Lee and Jungi Lee and Junghwan Seo and Jaewoong Sim},
-  title = {{InfiniGen}: Efficient Generative Inference of Large Language Models with Dynamic {KV} Cache Management},
+  title = {{InfiniGen}: Efficient Generative Inference of Large Language Models with Dynamic {KV} Caching Management},
   booktitle = {18th USENIX Symposium on Operating Systems Design and Implementation (OSDI 24)},
   year = {2024},
   isbn = {978-1-939133-40-3},
@@ -2160,14 +2160,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[66] XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference**, arXiv 2024  
+- **[66] XKV: Personalized KV Caching Memory Reduction for Long-Context LLM Inference**, arXiv 2024  
   *Li, Weizhuo and Wang, Zhigang and Gu, Yu and Yu, Ge*  
-  [[Paper](https://www.arxiv.org/pdf/2412.05896)] ![XKV](https://img.shields.io/badge/XKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://www.arxiv.org/pdf/2412.05896)] ![XKV](https://img.shields.io/badge/XKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{li2024xkv,
-    title={XKV: Personalized KV Cache Memory Reduction for Long-Context LLM Inference},
+    title={XKV: Personalized KV Caching Memory Reduction for Long-Context LLM Inference},
     author={Li, Weizhuo and Wang, Zhigang and Gu, Yu and Yu, Ge},
     journal={arXiv preprint arXiv:2412.05896},
     year={2024}
@@ -2175,14 +2175,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[67] In-context KV-Cache Eviction for LLMs via Attention-Gate**, arXiv 2024  
+- **[67] In-context KV-Caching Eviction for LLMs via Attention-Gate**, arXiv 2024  
   *Zeng, Zihao and Lin, Bokai and Hou, Tianqi and Zhang, Hao and Deng, Zhijie*  
-  [[Paper](https://arxiv.org/pdf/2410.12876)] ![Attention--Gate](https://img.shields.io/badge/Attention--Gate-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![In--context_Eviction](https://img.shields.io/badge/In--context_Eviction-yellow)  
+  [[Paper](https://arxiv.org/pdf/2410.12876)] ![Attention--Gate](https://img.shields.io/badge/Attention--Gate-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![In--context_Eviction](https://img.shields.io/badge/In--context_Eviction-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{zeng2024context,
-    title={In-context KV-Cache Eviction for LLMs via Attention-Gate},
+    title={In-context KV-Caching Eviction for LLMs via Attention-Gate},
     author={Zeng, Zihao and Lin, Bokai and Hou, Tianqi and Zhang, Hao and Deng, Zhijie},
     journal={arXiv preprint arXiv:2410.12876},
     year={2024}
@@ -2192,7 +2192,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[68] Recycled Attention: Efficient inference for long-context language models**, arXiv 2024  
   *Xu, Fangyuan and Goyal, Tanya and Choi, Eunsol*  
-  [[Paper](https://arxiv.org/pdf/2411.05787)] [[Code](https://github.com/carriex/recycled-attention)] ![Recycled_Attention](https://img.shields.io/badge/Recycled_Attention-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2411.05787)] [[Code](https://github.com/carriex/recycled-attention)] ![Recycled_Attention](https://img.shields.io/badge/Recycled_Attention-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -2207,7 +2207,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[69] MagicPIG: LSH Sampling for Efficient LLM Generation**, arXiv 2024  
   *Chen, Zhuoming and Sadhukhan, Ranajoy and Ye, Zihao and Zhou, Yang and Zhang, Jianyu and Nolte, Niklas and Tian, Yuandong and Douze, Matthijs and Bottou, Leon and Jia, Zhihao and others*  
-  [[Paper](https://arxiv.org/pdf/2410.16179)] [[Code](https://github.com/Infini-AI-Lab/MagicPIG)] ![Magicpig](https://img.shields.io/badge/Magicpig-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Locality_Sensitive_Hashing](https://img.shields.io/badge/Locality_Sensitive_Hashing-yellow)  
+  [[Paper](https://arxiv.org/pdf/2410.16179)] [[Code](https://github.com/Infini-AI-Lab/MagicPIG)] ![Magicpig](https://img.shields.io/badge/Magicpig-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Locality_Sensitive_Hashing](https://img.shields.io/badge/Locality_Sensitive_Hashing-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -2235,14 +2235,14 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
   ```
   </details>  
 
-- **[71] Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference**, arXiv 2024  
+- **[71] Get More with LESS: Synthesizing Recurrence with KV Caching Compression for Efficient LLM Inference**, arXiv 2024  
   *Dong, Harry and Yang, Xinyu and Zhang, Zhenyu and Wang, Zhangyang and Chi, Yuejie and Chen, Beidi*  
-  [[Paper](https://arxiv.org/pdf/2402.09398)] [[Code](https://github.com/hdong920/LESS)] ![LESS](https://img.shields.io/badge/LESS-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2402.09398)] [[Code](https://github.com/hdong920/LESS)] ![LESS](https://img.shields.io/badge/LESS-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
   @article{dong2024get,
-    title={Get More with LESS: Synthesizing Recurrence with KV Cache Compression for Efficient LLM Inference},
+    title={Get More with LESS: Synthesizing Recurrence with KV Caching Compression for Efficient LLM Inference},
     author={Dong, Harry and Yang, Xinyu and Zhang, Zhenyu and Wang, Zhangyang and Chi, Yuejie and Chen, Beidi},
     journal={arXiv preprint arXiv:2402.09398},
     year={2024}
@@ -2252,7 +2252,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[72] SepLLM: Accelerate Large Language Models by Compressing One Segment into One Separator**, arXiv 2024  
   *Chen, Guoxuan and Shi, Han and Li, Jiawei and Gao, Yihang and Ren, Xiaozhe and Chen, Yimeng and Jiang, Xin and Li, Zhenguo and Liu, Weiyang and Huang, Chao*  
-  [[Paper](https://arxiv.org/pdf/2412.12094)] [[Code](https://sepllm.github.io/)] ![Sepllm](https://img.shields.io/badge/Sepllm-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2412.12094)] [[Code](https://sepllm.github.io/)] ![Sepllm](https://img.shields.io/badge/Sepllm-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Merging](https://img.shields.io/badge/Merging-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -2267,7 +2267,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[73] A Systematic Study of Cross-Layer KV Sharing for Efficient LLM Inference**, arXiv 2024  
   *Wu, You and Wu, Haoyi and Tu, Kewei*  
-  [[Paper](https://arxiv.org/pdf/2410.14442)] [[Code](https://github.com/whyNLP/LCKV)] ![LCKV](https://img.shields.io/badge/LCKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Sharing](https://img.shields.io/badge/Sharing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://arxiv.org/pdf/2410.14442)] [[Code](https://github.com/whyNLP/LCKV)] ![LCKV](https://img.shields.io/badge/LCKV-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Sharing](https://img.shields.io/badge/Sharing-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -2282,7 +2282,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[74] LLMSteer: Improving Long-Context LLM Inference by Steering Attention on Reused Contexts**, arXiv 2024  
   *Gu, Zhuohan and Yao, Jiayi and Du, Kuntai and Jiang, Junchen*  
-  [[Paper](https://arxiv.org/pdf/2411.13009)] ![LLMSteer](https://img.shields.io/badge/LLMSteer-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Chunking](https://img.shields.io/badge/Chunking-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Attention_Steering](https://img.shields.io/badge/Attention_Steering-yellow)  
+  [[Paper](https://arxiv.org/pdf/2411.13009)] ![LLMSteer](https://img.shields.io/badge/LLMSteer-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Chunking](https://img.shields.io/badge/Chunking-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Attention_Steering](https://img.shields.io/badge/Attention_Steering-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -2297,7 +2297,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[75] Efficient Sparse Attention needs Adaptive Token Release**, ACL 2024  
   *Zhang, Chaoran  and  Zou, Lixin  and  Luo, Dan  and  Luo, Xiangyang  and  Li, Zihao  and Tang, Min  and  Li, Chenliang*  
-  [[Paper](https://aclanthology.org/2024.findings-acl.837.pdf)] [[Code](https://github.com/WHUIR/ADORE)] ![ADORE](https://img.shields.io/badge/ADORE-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Cache_Compression](https://img.shields.io/badge/KV_Cache_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
+  [[Paper](https://aclanthology.org/2024.findings-acl.837.pdf)] [[Code](https://github.com/WHUIR/ADORE)] ![ADORE](https://img.shields.io/badge/ADORE-blue) ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![KV_Caching_Compression](https://img.shields.io/badge/KV_Caching_Compression-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown)  
   <details> <summary>BibTex</summary>
 
   ```text
@@ -2327,7 +2327,7 @@ Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Ap
 
 - **[76] Turning Trash into Treasure: Accelerating Inference of Large Language Models with Token Recycling**, arXiv 2024  
   *Luo, Xianzhen and Wang, Yixuan and Zhu, Qingfu and Zhang, Zhiming and Zhang, Xuanyu and Yang, Qing and Xu, Dongliang and Che, Wanxiang*  
-  [[Paper](https://arxiv.org/pdf/2408.08696)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Dropping](https://img.shields.io/badge/Dropping-orange) ![Retrieving](https://img.shields.io/badge/Retrieving-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Token_Recycling](https://img.shields.io/badge/Token_Recycling-yellow)  
+  [[Paper](https://arxiv.org/pdf/2408.08696)] ![Generation](https://img.shields.io/badge/Generation-green) ![Language_Modeling](https://img.shields.io/badge/Language_Modeling-green) ![Attention--based](https://img.shields.io/badge/Attention--based-purple) ![Pruning](https://img.shields.io/badge/Pruning-orange) ![Retrieving](https://img.shields.io/badge/Retrieving-orange) ![Training--free](https://img.shields.io/badge/Training--free-brown) ![Token_Recycling](https://img.shields.io/badge/Token_Recycling-yellow)  
   <details> <summary>BibTex</summary>
 
   ```text
