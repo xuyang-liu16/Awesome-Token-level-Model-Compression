@@ -304,3 +304,10 @@
   *Xuyang Liu and Ziming Wang and Yuhang Han and Yingyao Wang and Jiale Yuan and Jun Song and Bo Zheng and Linfeng Zhang and Siteng Huang and Honggang Chen.*
 
   [[Paper](https://arxiv.org/abs/2501.05179)] [[Code](https://github.com/xuyang-liu16/GlobalCom2)] ![](https://img.shields.io/badge/GlobalCom2-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[51] AdaFV: Accelerating VLMs with Self-Adaptive Cross-Modality Attention Mixture**, arXiv 2025.
+  
+  *Jiayi Han and Liang Du and Yiwen Wu and Xiangguo Zhou and Hongwei Du and Weibo Zheng.*
+
+  [[Paper](https://arxiv.org/abs/2501.09532)] [Code] ![](https://img.shields.io/badge/AdaFV-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  
