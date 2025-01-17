@@ -316,4 +316,10 @@
   *Zhang, Jun and Meng, Desen and Qi, Ji and Huang, Zhenpeng and Wu, Tao and Wang, Limin.*
 
   [[Paper](https://arxiv.org/abs/2412.04449)] [[Code](https://github.com/MCG-NJU/p-MoD)] ![](https://img.shields.io/badge/p_MoD-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[53] VASparse: Towards Efficient Visual Hallucination Mitigation for Large Vision-Language Model via Visual-Aware Sparsification**, arXiv 2024.
+  
+  *Xianwei Zhuang and Zhihong Zhu and Yuxin Xie and Liming Liang and Yuexian Zou.*
+
+  [[Paper](https://arxiv.org/abs/2501.06553)] [[Code](https://github.com/mengchuang123/VASparse-github)] ![](https://img.shields.io/badge/VASparse-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Visual_Hallucination-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
   
