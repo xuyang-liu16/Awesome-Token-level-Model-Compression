@@ -310,4 +310,10 @@
   *Jiayi Han and Liang Du and Yiwen Wu and Xiangguo Zhou and Hongwei Du and Weibo Zheng.*
 
   [[Paper](https://arxiv.org/abs/2501.09532)] [Code] ![](https://img.shields.io/badge/AdaFV-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[52] p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**, arXiv 2024.
+  
+  *Zhang, Jun and Meng, Desen and Qi, Ji and Huang, Zhenpeng and Wu, Tao and Wang, Limin.*
+
+  [[Paper](https://arxiv.org/abs/2412.04449)] [[Code](https://github.com/MCG-NJU/p-MoD)] ![](https://img.shields.io/badge/p_MoD-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
   
