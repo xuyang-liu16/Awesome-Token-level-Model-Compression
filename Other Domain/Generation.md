@@ -24,10 +24,10 @@
   *Young Jin Ahn, Jungwoo Park, Sangha Park, Jonghyun Choi, Kee-Eung Kim*<br>
   [[Paper](https://arxiv.org/abs/2406.12233)] ![SyncVSR](https://img.shields.io/badge/SyncVSR-blue)  ![Visual_Speech_Recognition](https://img.shields.io/badge/Visual_Speech_Recognition-green)  ![Crossmodal_Synchronization](https://img.shields.io/badge/Crossmodal_Synchronization-orange)  ![Data_Efficient](https://img.shields.io/badge/Data_Efficient-purple)
 
-   **[6] SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models**, ICLR 2024<br>
+ - **[6] SpeechTokenizer: Unified Speech Tokenizer for Speech Large Language Models**, ICLR 2024<br>
   *Xin Zhang, Dong Zhang, Shimin Li, Yaqian Zhou, Xipeng Qiu*<br>
   [[Paper](https://arxiv.org/abs/2308.16692)] ![SpeechTokenizer](https://img.shields.io/badge/SpeechTokenizer-blue) ![Unified_Speech_Tokenizer](https://img.shields.io/badge/Unified_Speech_Tokenizer-green) ![Speech_Large_Language_Models](https://img.shields.io/badge/Speech_Large_Language_Models-orange) ![SLMTokBench](https://img.shields.io/badge/SLMTokBench-purple)
 
-  - **[7] WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling**, Arxiv 2024<br>
+- **[7] WavTokenizer: an Efficient Acoustic Discrete Codec Tokenizer for Audio Language Modeling**, Arxiv 2024<br>
   *Shengpeng Ji, Ziyue Jiang, Wen Wang, Yifu Chen, Minghui Fang, Jialong Zuo, Qian Yang, Xize Cheng, Zehan Wang, Ruiqi Li, Ziang Zhang, Xiaoda Yang, Rongjie Huang, Yidi Jiang, Qian Chen, Siqi Zheng, Wen Wang, Zhou Zhao*<br>
   [[Paper](https://doi.org/10.48550/arXiv.2408.16532)] ![WavTokenizer](https://img.shields.io/badge/WavTokenizer-blue) ![Audio_Language_Modeling](https://img.shields.io/badge/Audio_Language_Modeling-green) ![Extreme_Compression](https://img.shields.io/badge/Extreme_Compression-orange) ![Improved_Subjective_Quality](https://img.shields.io/badge/Improved_Subjective_Quality-purple)
