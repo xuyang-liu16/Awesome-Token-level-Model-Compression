@@ -15,7 +15,7 @@
 
 
 ### Image Generation:
-2023
+### 2023
 
 - **[1] Token Merging for Fast Stable Diffusion**, CVPRW 2023.
   
@@ -46,7 +46,8 @@
   *Wei, Chen and Mangalam, Karttikeya and Huang, Po-Yao and others.*
 
   [[Paper](https://arxiv.org/abs/2304.03283)] [Code] ![](https://img.shields.io/badge/DiffMAE-blue) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Masked_Training-orange)
-2024
+  
+### 2024
 
 - **[1] Attention-Driven Training-Free Efficiency Enhancement of Diffusion Models**, CVPR 2024.
   
