@@ -1,4 +1,18 @@
 
+### 2022
+- **[19] Multimodal Token Fusion for Vision Transformers**, CVPR 2022.
+  
+  *Wang, Yikai and Chen, Xinghao and Cao, Lele and Huang, Wenbing and Sun, Fuchun and Wang, Yunhe.*
+
+  [[Paper](https://arxiv.org/abs/2204.08721)] [Code] ![](https://img.shields.io/badge/TokenFusion-blue) ![](https://img.shields.io/badge/Image_to_Image_Translation-green) ![](https://img.shields.io/badge/RGB_Depth_Semantic_Segmentation-green) ![](https://img.shields.io/badge/Point_Cloud_3D_Object_Detection-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange) 
+### 2023
+- **[17] PuMer: Pruning and Merging Tokens for Efficient Vision Language Models**, ACL 2023.
+  
+  *Cao, Qingqing and Paranjape, Bhargavi and Hajishirzi, Hannaneh.*
+
+  [[Paper](https://arxiv.org/abs/2305.17530)] [[Code](https://github.com/csarron/PuMer)] ![](https://img.shields.io/badge/PuMer-blue) ![](https://img.shields.io/badge/Image_Text_Retrieval-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Token_Merging-orange)
+### 2024
+
 - **[1] Accelerating Transformers with Spectrum-Preserving Token Merging**, NeurIPS 2024.
   
   *Tran, Hoai-Chau and Nguyen, Duy MH and Nguyen, Duy M and Nguyen, Trung-Tin and Le, Ngan and Xie, Pengtao and Sonntag, Daniel and Zou, James Y and Nguyen, Binh T and Niepert, Mathias.*
@@ -95,23 +109,23 @@
 
   [[Paper](https://arxiv.org/abs/2410.04417)] [[Code](https://github.com/Gumpest/SparseVLMs)] ![](https://img.shields.io/badge/SparseVLM-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[17] PuMer: Pruning and Merging Tokens for Efficient Vision Language Models**, ACL 2023.
+- **[17] VASparse: Towards Efficient Visual Hallucination Mitigation for Large Vision-Language Model via Visual-Aware Sparsification**, arXiv 2024.
   
-  *Cao, Qingqing and Paranjape, Bhargavi and Hajishirzi, Hannaneh.*
+  *Xianwei Zhuang and Zhihong Zhu and Yuxin Xie and Liming Liang and Yuexian Zou.*
 
-  [[Paper](https://arxiv.org/abs/2305.17530)] [[Code](https://github.com/csarron/PuMer)] ![](https://img.shields.io/badge/PuMer-blue) ![](https://img.shields.io/badge/Image_Text_Retrieval-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Token_Merging-orange)
-
+  [[Paper](https://arxiv.org/abs/2501.06553)] [[Code](https://github.com/mengchuang123/VASparse-github)] ![](https://img.shields.io/badge/VASparse-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Visual_Hallucination-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  
 - **[18] Less is More: A Simple yet Effective Token Reduction Method for Efficient Multi-modal LLMs**, arXiv 2024.
   
   *Song, Dingjie and Wang, Wenjun and Chen, Shunian and Wang, Xidong and Guan, Michael and Wang, Benyou.*
 
   [[Paper](https://arxiv.org/abs/2409.10994)] [[Code](https://github.com/FreedomIntelligence/TRIM/)] ![](https://img.shields.io/badge/LessIsMore-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[19] Multimodal Token Fusion for Vision Transformers**, CVPR 2022.
+- **[19] p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**, arXiv 2024.
   
-  *Wang, Yikai and Chen, Xinghao and Cao, Lele and Huang, Wenbing and Sun, Fuchun and Wang, Yunhe.*
+  *Zhang, Jun and Meng, Desen and Qi, Ji and Huang, Zhenpeng and Wu, Tao and Wang, Limin.*
 
-  [[Paper](https://arxiv.org/abs/2204.08721)] [Code] ![](https://img.shields.io/badge/TokenFusion-blue) ![](https://img.shields.io/badge/Image_to_Image_Translation-green) ![](https://img.shields.io/badge/RGB_Depth_Semantic_Segmentation-green) ![](https://img.shields.io/badge/Point_Cloud_3D_Object_Detection-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange) 
+  [[Paper](https://arxiv.org/abs/2412.04449)] [[Code](https://github.com/MCG-NJU/p-MoD)] ![](https://img.shields.io/badge/p_MoD-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[20] Multi-Stage Vision Token Dropping: Towards Efficient Multimodal Large Language Model**, arXiv 2024.
   
@@ -311,15 +325,6 @@
 
   [[Paper](https://arxiv.org/abs/2501.09532)] [Code] ![](https://img.shields.io/badge/AdaFV-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[52] p-MoD: Building Mixture-of-Depths MLLMs via Progressive Ratio Decay**, arXiv 2024.
-  
-  *Zhang, Jun and Meng, Desen and Qi, Ji and Huang, Zhenpeng and Wu, Tao and Wang, Limin.*
 
-  [[Paper](https://arxiv.org/abs/2412.04449)] [[Code](https://github.com/MCG-NJU/p-MoD)] ![](https://img.shields.io/badge/p_MoD-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[53] VASparse: Towards Efficient Visual Hallucination Mitigation for Large Vision-Language Model via Visual-Aware Sparsification**, arXiv 2024.
-  
-  *Xianwei Zhuang and Zhihong Zhu and Yuxin Xie and Liming Liang and Yuexian Zou.*
-
-  [[Paper](https://arxiv.org/abs/2501.06553)] [[Code](https://github.com/mengchuang123/VASparse-github)] ![](https://img.shields.io/badge/VASparse-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Visual_Hallucination-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
   
