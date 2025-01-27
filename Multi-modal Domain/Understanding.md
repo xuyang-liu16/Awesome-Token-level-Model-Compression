@@ -4,13 +4,15 @@
   
   *Wang, Yikai and Chen, Xinghao and Cao, Lele and Huang, Wenbing and Sun, Fuchun and Wang, Yunhe.*
 
-  [[Paper](https://arxiv.org/abs/2204.08721)] [Code] ![](https://img.shields.io/badge/TokenFusion-blue) ![](https://img.shields.io/badge/Image_to_Image_Translation-green) ![](https://img.shields.io/badge/RGB_Depth_Semantic_Segmentation-green) ![](https://img.shields.io/badge/Point_Cloud_3D_Object_Detection-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange) 
+  [[Paper](https://arxiv.org/abs/2204.08721)] [Code] ![](https://img.shields.io/badge/TokenFusion-blue) ![](https://img.shields.io/badge/Image_to_Image_Translation-green) ![](https://img.shields.io/badge/RGB_Depth_Semantic_Segmentation-green) ![](https://img.shields.io/badge/Point_Cloud_3D_Object_Detection-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
+  
 ### 2023
 - **[17] PuMer: Pruning and Merging Tokens for Efficient Vision Language Models**, ACL 2023.
   
   *Cao, Qingqing and Paranjape, Bhargavi and Hajishirzi, Hannaneh.*
 
   [[Paper](https://arxiv.org/abs/2305.17530)] [[Code](https://github.com/csarron/PuMer)] ![](https://img.shields.io/badge/PuMer-blue) ![](https://img.shields.io/badge/Image_Text_Retrieval-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Token_Merging-orange)
+  
 ### 2024
 
 - **[1] Accelerating Transformers with Spectrum-Preserving Token Merging**, NeurIPS 2024.
@@ -205,6 +207,8 @@
 
   [[Paper](https://arxiv.org/abs/2411.03312)] [[Code](https://github.com/locuslab/llava-token-compression)] ![](https://img.shields.io/badge/QueCC-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
+### 2024
+
 - **[33] HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models**, AAAI 2025.
   
   *Arif, Kazi Hasan Ibn and Yoon, JinYi and Nikolopoulos, Dimitrios S and Vandierendonck, Hans and John, Deepu and Ji, Bo.*
@@ -324,6 +328,12 @@
   *Jiayi Han and Liang Du and Yiwen Wu and Xiangguo Zhou and Hongwei Du and Weibo Zheng.*
 
   [[Paper](https://arxiv.org/abs/2501.09532)] [Code] ![](https://img.shields.io/badge/AdaFV-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[52] Dynamic Token Reduction during Generation for Vision Language Models**, arXiv 2025.
+
+  *Xiaoyu Liang and Chaofeng Guan and Jiaying Lu and Huiyao Chen and Huan Wang and Haoji Hu.*
+
+  [[Paper](https://arxiv.org/abs/2501.14204)] [Code] ![](https://img.shields.io/badge/DyRate-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 
 
