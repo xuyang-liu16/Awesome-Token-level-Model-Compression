@@ -299,7 +299,7 @@
 
   [[Paper](https://arxiv.org/abs/2409.03420)] [[Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl2)] ![](https://img.shields.io/badge/mPLUG_DocOwl2-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Document_Understanding-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
   
-- **[47] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**, arXiv 2025.
+- **[47] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**, ICLR 2025.
 
   *Shaolei Zhang and Qingkai Fang and Zhe Yang and Yang Feng.*
 
