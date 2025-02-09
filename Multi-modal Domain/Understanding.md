@@ -79,7 +79,7 @@
   
   *Hu, Lianyu and Shang, Fanhua and Wan, Liang and Feng, Wei.*
 
-  [[Paper](https://arxiv.org/abs/2412.06263)] [Code] ![](https://img.shields.io/badge/iLLaVA-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2412.06263)] [[Code](https://github.com/hulianyuyy/iLLaVA)] ![](https://img.shields.io/badge/iLLaVA-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[12] VLTP: Vision-Language Guided Token Pruning for Task-Oriented Segmentation**, WACV 2025.
   
