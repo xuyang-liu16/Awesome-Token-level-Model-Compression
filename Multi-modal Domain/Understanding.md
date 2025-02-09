@@ -207,8 +207,6 @@
 
   [[Paper](https://arxiv.org/abs/2411.03312)] [[Code](https://github.com/locuslab/llava-token-compression)] ![](https://img.shields.io/badge/QueCC-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-### 2024
-
 - **[33] HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models**, AAAI 2025.
   
   *Arif, Kazi Hasan Ibn and Yoon, JinYi and Nikolopoulos, Dimitrios S and Vandierendonck, Hans and John, Deepu and Ji, Bo.*
@@ -298,7 +296,10 @@
   *Anwen Hu and Haiyang Xu and Liang Zhang and Jiabo Ye and Ming Yan and Ji Zhang and Qin Jin and Fei Huang and Jingren Zhou.*
 
   [[Paper](https://arxiv.org/abs/2409.03420)] [[Code](https://github.com/X-PLUG/mPLUG-DocOwl/tree/main/DocOwl2)] ![](https://img.shields.io/badge/mPLUG_DocOwl2-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Document_Understanding-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
-  
+
+
+### 2025
+
 - **[47] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**, ICLR 2025.
 
   *Shaolei Zhang and Qingkai Fang and Zhe Yang and Yang Feng.*
