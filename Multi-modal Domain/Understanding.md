@@ -297,3 +297,9 @@
   *Xiaoyu Liang and Chaofeng Guan and Jiaying Lu and Huiyao Chen and Huan Wang and Haoji Hu.*
 
   [[Paper](https://arxiv.org/abs/2501.14204)] [Code] ![](https://img.shields.io/badge/DyRate-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[50] Stop Looking for “Important Tokens” in Multimodal Language Models: Duplication Matters More**, arXiv 2025.
+
+  *Zichen Wen and Yifeng Gao and Shaobo Wang and Junyuan Zhang and Qintong Zhang and Weijia Li and Conghui He and Linfeng Zhang*
+
+  [[Paper](https://arxiv.org/pdf/2502.11494)] [[Code](https://github.com/ZichenWen1/DART)] ![](https://img.shields.io/badge/DART-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
