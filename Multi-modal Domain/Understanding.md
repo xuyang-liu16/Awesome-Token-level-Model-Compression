@@ -303,3 +303,9 @@
   *Zichen Wen and Yifeng Gao and Shaobo Wang and Junyuan Zhang and Qintong Zhang and Weijia Li and Conghui He and Linfeng Zhang*
 
   [[Paper](https://arxiv.org/pdf/2502.11494)] [[Code](https://github.com/ZichenWen1/DART)] ![](https://img.shields.io/badge/DART-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[51] AdaRETAKE: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding**, arXiv 2025.
+
+  *Xiao Wang and Qingyi Si and Jianlong Wu and Shiyu Zhu and Li Cao and Liqiang Nie*
+
+  [[Paper](https://arxiv.org/abs/2503.12559)] [[Code](https://github.com/SCZwangxiao/video-FlexReduc)] ![](https://img.shields.io/badge/AdaRETAKE-blue) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
