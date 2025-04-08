@@ -158,53 +158,53 @@
 
   [[Paper](https://arxiv.org/abs/2412.01818)] [[Code](https://github.com/Theia-4869/FasterVLM)] ![](https://img.shields.io/badge/FasterVLM-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[27] Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See**, arXiv 2024.
-
-  *Zhang, Zeliang and Pham, Phu and Zhao, Wentian and Wan, Kun and Li, Yu-Jhe and Zhou, Jianing and Miranda, Daniel and Kale, Ajinkya and Xu, Chenliang.*
-
-  [[Paper](https://arxiv.org/abs/2410.06169)] [[Code](https://github.com/ZhangAIPI/YOPO_MLLM_Pruning)] ![](https://img.shields.io/badge/VisualAsText-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Head_Pruning-orange)
-
-- **[28] FoPru: Focal Pruning for Efficient Large Vision-Language Models**, arXiv 2024.
+- **[27] FoPru: Focal Pruning for Efficient Large Vision-Language Models**, arXiv 2024.
 
   *Lei Jiang and Weizhe Huang and Tongxuan Liu and Yuting Zeng and Jing Li and Lechao Cheng and Xiaohua Xu.*
 
   [[Paper](https://arxiv.org/abs/2411.14164)] [Code] ![](https://img.shields.io/badge/FoPru-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[29] Inference Optimal VLMs Need Only One Visual Token but Larger Models**, arXiv 2024.
+- **[28] Inference Optimal VLMs Need Only One Visual Token but Larger Models**, arXiv 2024.
 
   *Li, Kevin Y and Goyal, Sachin and Semedo, Joao D and Kolter, J Zico.*
 
   [[Paper](https://arxiv.org/abs/2411.03312)] [[Code](https://github.com/locuslab/llava-token-compression)] ![](https://img.shields.io/badge/QueCC-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[30] VASparse: Towards Efficient Visual Hallucination Mitigation for Large Vision-Language Model via Visual-Aware Sparsification**, arXiv 2024.
+- **[29] VASparse: Towards Efficient Visual Hallucination Mitigation for Large Vision-Language Model via Visual-Aware Sparsification**, arXiv 2024.
 
   *Xianwei Zhuang and Zhihong Zhu and Yuxin Xie and Liming Liang and Yuexian Zou.*
 
   [[Paper](https://arxiv.org/abs/2501.06553)] [[Code](https://github.com/mengchuang123/VASparse-github)] ![](https://img.shields.io/badge/VASparse-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Visual_Hallucination-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[31] Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**, arXiv 2024.
+- **[30] Rethinking Token Reduction in MLLMs: Towards a Unified Paradigm for Training-Free Acceleration**, arXiv 2024.
 
   *Han, Yuhang and Liu, Xuyang and Ding, Pengxiang and Wang, Donglin and Chen, Honggang and Yan, Qingsen and Huang, Siteng.*
 
   [[Paper](https://arxiv.org/abs/2411.17686)] [Code] ![](https://img.shields.io/badge/FiCoCo-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[32] FoPru: Focal Pruning for Efficient Large Vision-Language Models**, arXiv 2024.
-
-  *Lei Jiang and Weizhe Huang and Tongxuan Liu and Yuting Zeng and Jing Li and Lechao Cheng and Xiaohua Xu.*
-
-  [[Paper](https://arxiv.org/abs/2411.14164)] [Code] ![](https://img.shields.io/badge/FoPru-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
-
-- **[33] [CLS] Token Tells Everything Needed for Training-free Efficient MLLMs**, arXiv 2024.
+- **[31] [CLS] Token Tells Everything Needed for Training-free Efficient MLLMs**, arXiv 2024.
 
   *Wang, Ao and Sun, Fengyuan and Chen, Hui and Lin, Zijia and Han, Jungong and Ding, Guiguang.*
 
   [[Paper](https://arxiv.org/abs/2412.05819)] [[Code](https://github.com/THU-MIG/VTC-CLS)] ![](https://img.shields.io/badge/VTC_CLS-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[34] FOLDER: Accelerating Multi-modal Large Language Models with Enhanced Performance**, arXiv 2024.
+- **[32] FOLDER: Accelerating Multi-modal Large Language Models with Enhanced Performance**, arXiv 2024.
 
   *Haicheng Wang and Zhemeng Yu and Gabriele Spadaro and Chen Ju and Victor Quétu and Enzo Tartaglione.*
 
   [[Paper](https://arxiv.org/abs/2501.02430)] [[Code](https://github.com/anakin-skywalker-Joseph/Folder)] ![](https://img.shields.io/badge/FOLDER-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[33] FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression**, arXiv 2024.
+
+  *Zhu, Yuke and Xie, Chi and Liang, Shuang and Zheng, Bo and Guo, Sheng.*
+
+  [[Paper](https://arxiv.org/abs/2411.14228)] [Code] ![](https://img.shields.io/badge/FocusLLaVA-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[34] TURBO: Token Utilization Refactor and Boost in Transformers for Efficient Vision-Language Models**, arXiv 2024.
+
+  *Liu, Xin and Li, Yue and Jiang, Hao and Xu, Mengmi.*
+
+  [[Paper](https://arxiv.org/abs/2405.23456)] [Code] ![](https://img.shields.io/badge/TURBO-blue) ![](https://img.shields.io/badge/Token_Reuse-green) ![](https://img.shields.io/badge/Token_Redistribution-green) ![](https://img.shields.io/badge/Token_Refactor-brown)
 
 - **[35] FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression**, arXiv 2024.
 
@@ -212,99 +212,81 @@
 
   [[Paper](https://arxiv.org/abs/2411.14228)] [Code] ![](https://img.shields.io/badge/FocusLLaVA-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[36] Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See**, arXiv 2024.
-
-  *Zhang, Zeliang and Pham, Phu and Zhao, Wentian and Wan, Kun and Li, Yu-Jhe and Zhou, Jianing and Miranda, Daniel and Kale, Ajinkya and Xu, Chenliang.*
-
-  [[Paper](https://arxiv.org/abs/2410.06169)] [[Code](https://github.com/ZhangAIPI/YOPO_MLLM_Pruning)] ![](https://img.shields.io/badge/VisualAsText-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Head_Pruning-orange)
-
-- **[37] TURBO: Token Utilization Refactor and Boost in Transformers for Efficient Vision-Language Models**, arXiv 2024.
-
-  *Liu, Xin and Li, Yue and Jiang, Hao and Xu, Mengmi.*
-
-  [[Paper](https://arxiv.org/abs/2405.23456)] [Code] ![](https://img.shields.io/badge/TURBO-blue) ![](https://img.shields.io/badge/Token_Reuse-green) ![](https://img.shields.io/badge/Token_Redistribution-green) ![](https://img.shields.io/badge/Token_Refactor-brown)
-
-- **[38] FocusLLaVA: A Coarse-to-Fine Approach for Efficient and Effective Visual Token Compression**, arXiv 2024.
-
-  *Zhu, Yuke and Xie, Chi and Liang, Shuang and Zheng, Bo and Guo, Sheng.*
-
-  [[Paper](https://arxiv.org/abs/2411.14228)] [Code] ![](https://img.shields.io/badge/FocusLLaVA-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
-
 ### 2025
 
-- **[39] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval**, ICLR 2025.
+- **[36] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval**, ICLR 2025.
 
   *Shen, Leqi and Hao, Tianxiang and Zhao, Sicheng and Zhang, Yifeng and Liu, Pengzhang and Bao, Yongjun and Ding, Guiguang.*
 
   [[Paper](https://arxiv.org/abs/2409.01156)] [Code] ![](https://img.shields.io/badge/TempMe-blue) ![](https://img.shields.io/badge/Text_Video_Retrieval-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[40] ST<sup>3</sup>: Accelerating Multimodal Large Language Model by Spatial-Temporal Visual Token Trimming**, AAAI 2025.
+- **[37] ST<sup>3</sup>: Accelerating Multimodal Large Language Model by Spatial-Temporal Visual Token Trimming**, AAAI 2025.
 
   *Jiedong Zhuang and Lu Lu and Ming Dai and Rui Hu and Jian Chen and Qiang Liu and Haoji Hu.*
 
   [[Paper](https://arxiv.org/abs/2412.20105)] [Code] ![](https://img.shields.io/badge/ST3-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[41] HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models**, AAAI 2025.
+- **[38] HiRED: Attention-Guided Token Dropping for Efficient Inference of High-Resolution Vision-Language Models**, AAAI 2025.
 
   *Arif, Kazi Hasan Ibn and Yoon, JinYi and Nikolopoulos, Dimitrios S and Vandierendonck, Hans and John, Deepu and Ji, Bo.*
 
   [[Paper](https://arxiv.org/abs/2408.10945)] [[Code](https://github.com/hasanar1f/HiRED)] ![](https://img.shields.io/badge/HiRED-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[42] Boosting Multimodal Large Language Models with Visual Tokens Withdrawal for Rapid Inference**, AAAI 2025.
+- **[39] Boosting Multimodal Large Language Models with Visual Tokens Withdrawal for Rapid Inference**, AAAI 2025.
 
   *Lin, Zhihang and Lin, Mingbao and Lin, Luxi and Ji, Rongrong.*
 
   [[Paper](https://arxiv.org/abs/2405.05803)] [[Code](https://github.com/lzhxmu/VTW)] ![](https://img.shields.io/badge/VTW-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/KL_Divergence_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[43] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**, ICLR 2025.
+- **[40] LLaVA-Mini: Efficient Image and Video Large Multimodal Models with One Vision Token**, ICLR 2025.
 
   *Shaolei Zhang and Qingkai Fang and Zhe Yang and Yang Feng.*
 
   [[Paper](https://arxiv.org/abs/2501.03895)] [[Code](https://github.com/ictnlp/LLaVA-Mini)] ![](https://img.shields.io/badge/LLaVA_Mini-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[44] Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information**, AAAI 2025.
+- **[41] Recoverable Compression: A Multimodal Vision Token Recovery Mechanism Guided by Text Information**, AAAI 2025.
 
   *Chen, Yi and Xu, Jian and Zhang, Xu-Yao and Liu, Wen-Zhuo and Liu, Yang-Yang and Liu, Cheng-Lin.*
 
   [[Paper](https://arxiv.org/abs/2409.01179)] [[Code](https://github.com/banjiuyufen/RecoverableCompression)] ![](https://img.shields.io/badge/Recoverable_Compression-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[45] What Kind of Visual Tokens Do We Need? Training-free Visual Token Pruning for Multi-modal Large Language Models from the Perspective of Graph**, AAAI 2025.
+- **[42] What Kind of Visual Tokens Do We Need? Training-free Visual Token Pruning for Multi-modal Large Language Models from the Perspective of Graph**, AAAI 2025.
 
   *Yutao Jiang and Qiong Wu and Wenhao Lin and Wei Yu and Yiyi Zhou.*
 
-  [[Paper](https://arxiv.org/abs/2501.02268)] [[Code](https://github.com/ictnlp/LLaVA-Mini)] ![](https://img.shields.io/badge/LLaVA_Mini-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2501.02268)] [Code] ![](https://img.shields.io/badge/LLaVA_Mini-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[46] FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models**, arXiv 2025.
+- **[43] FrameFusion: Combining Similarity and Importance for Video Token Reduction on Large Visual Language Models**, arXiv 2025.
 
   *Fu, Tianyu and Liu, Tengxuan and Han, Qinghao and Dai, Guohao and Yan, Shengen and Yang, Huazhong and Ning, Xuefei and Wang, Yu.*
 
   [[Paper](https://arxiv.org/abs/2501.01986)] [[Code](https://thu-nics.github.io/FrameFusion_Project_Page/)] ![](https://img.shields.io/badge/FrameFusion-blue) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[47] Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**, arXiv 2025.
+- **[44] Compression with Global Guidance: Towards Training-free High-Resolution MLLMs Acceleration**, arXiv 2025.
 
   *Xuyang Liu and Ziming Wang and Yuhang Han and Yingyao Wang and Jiale Yuan and Jun Song and Bo Zheng and Linfeng Zhang and Siteng Huang and Honggang Chen.*
 
   [[Paper](https://arxiv.org/abs/2501.05179)] [[Code](https://github.com/xuyang-liu16/GlobalCom2)] ![](https://img.shields.io/badge/GlobalCom2-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[48] AdaFV: Accelerating VLMs with Self-Adaptive Cross-Modality Attention Mixture**, arXiv 2025.
+- **[45] AdaFV: Accelerating VLMs with Self-Adaptive Cross-Modality Attention Mixture**, arXiv 2025.
 
   *Jiayi Han and Liang Du and Yiwen Wu and Xiangguo Zhou and Hongwei Du and Weibo Zheng.*
 
   [[Paper](https://arxiv.org/abs/2501.09532)] [Code] ![](https://img.shields.io/badge/AdaFV-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[49] Dynamic Token Reduction during Generation for Vision Language Models**, arXiv 2025.
+- **[46] Dynamic Token Reduction during Generation for Vision Language Models**, arXiv 2025.
 
   *Xiaoyu Liang and Chaofeng Guan and Jiaying Lu and Huiyao Chen and Huan Wang and Haoji Hu.*
 
   [[Paper](https://arxiv.org/abs/2501.14204)] [Code] ![](https://img.shields.io/badge/DyRate-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[50] Stop Looking for “Important Tokens” in Multimodal Language Models: Duplication Matters More**, arXiv 2025.
+- **[47] Stop Looking for “Important Tokens” in Multimodal Language Models: Duplication Matters More**, arXiv 2025.
 
   *Zichen Wen and Yifeng Gao and Shaobo Wang and Junyuan Zhang and Qintong Zhang and Weijia Li and Conghui He and Linfeng Zhang*
 
   [[Paper](https://arxiv.org/pdf/2502.11494)] [[Code](https://github.com/ZichenWen1/DART)] ![](https://img.shields.io/badge/DART-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-- **[51] AdaRETAKE: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding**, arXiv 2025.
+- **[48] AdaRETAKE: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding**, arXiv 2025.
 
   *Xiao Wang and Qingyi Si and Jianlong Wu and Shiyu Zhu and Li Cao and Liqiang Nie*
 
