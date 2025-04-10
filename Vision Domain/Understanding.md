@@ -23,11 +23,38 @@
 
   [[Paper](https://arxiv.org/abs/2106.12620)] [Code] ![](https://img.shields.io/badge/IA_RED2-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
+<details> <summary>BibTex</summary>
+
+  ```text
+  @article{wit1999linguistic,
+    title={What is linguistic redundancy},
+    author={Wit, EC and Gillette, Marie},
+    journal={University of Chicago},
+    year={1999},
+    publisher={Citeseer}
+  }
+  ```
+  </details>  
+
 - **[2] DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification**, NeurIPS 2021.
   
   *Rao, Yongming and Zhao, Wenliang and Liu, Benlin and Lu, Jiwen and Zhou, Jie and Hsieh, Cho-Jui.*
 
-  [[Paper](https://arxiv.org/abs/2106.02034)] [[Code](https://github.com/RaoYongming/DynamicViT)]] ![](https://img.shields.io/badge/DynamicViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Object_Detection-green) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  [[Paper](https://arxiv.org/abs/2106.02034)] [[Code](https://github.com/RaoYongming/DynamicViT)] ![](https://img.shields.io/badge/DynamicViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Object_Detection-green) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+<details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{Rao2021:DynamicViT,
+    title={{DynamicViT}: Efficient Vision Transformers with Dynamic Token Sparsification},
+    author={Yongming Rao and Wenliang Zhao and Benlin Liu and Jiwen Lu and Jie Zhou and Cho{-}Jui Hsieh},
+    booktitle=NIPS,
+    pages={13937--13949},
+    year={2021}
+  }
+  ```
+  </details>  
+
 ### 2022
 - **[1] Adaptive Token Sampling for Efficient Vision Transformers**, ECCV 2022.
   
