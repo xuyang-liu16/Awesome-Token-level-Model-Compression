@@ -79,6 +79,7 @@
 
 
 ### 2022
+
 - **[1] Adaptive Token Sampling for Efficient Vision Transformers**, ECCV 2022.
   
   *Fayyaz, Mohsen and Koohpayegani, Soroush Abbasi and Jafari, Farnoush Rezaei and Sengupta, Sunando and Joze, Hamid Reza Vaezi and Sommerlade, Eric and Pirsiavash, Hamed and Gall, Jürgen.*
@@ -91,11 +92,37 @@
 
   [[Paper](https://arxiv.org/abs/2112.13890)] [[Code](https://github.com/PeiyanFlying/SPViT)] ![](https://img.shields.io/badge/SPViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
+<details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{Kong2022:SPViT,
+    title={Spvit: Enabling faster vision transformers via latency-aware soft token pruning},
+    author={Kong, Zhenglun and Dong, Peiyan and Ma, Xiaolong and Meng, Xin and Niu, Wei and Sun, Mengshu and Shen, Xuan and Yuan, Geng and Ren, Bin and Tang, Hao and others},
+    booktitle={European conference on computer vision},
+    pages={620--640},
+    year={2022},
+    organization={Springer}
+  }
+  ```
+  </details>  
+  
 - **[3] SaiT: Sparse Vision Transformers through Adaptive Token Pruning**, arXiv 2022.
   
   *Li, Ling and Thorsley, David and Hassoun, Joseph.*
 
   [[Paper](https://arxiv.org/abs/2210.05832)] [Code] ![](https://img.shields.io/badge/SaiT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+<details> <summary>BibTex</summary>
+
+  ```text
+   @article{Li2022SaiT,
+    title={Sait: Sparse vision transformers through adaptive token pruning},
+    author={Li, Ling and Thorsley, David and Hassoun, Joseph},
+    journal={arXiv preprint arXiv:2210.05832},
+    year={2022}
+  }
+  ```
+  </details>  
 
 - **[4] Not all patches are what you need: Expediting vision transformers via token reorganizations**, ICLR 2022.
   
@@ -109,6 +136,19 @@
 
   [[Paper](https://arxiv.org/abs/2106.02852)] [Code] ![](https://img.shields.io/badge/Patch_Slimming-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
+<details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{Tang2022:PatchSlim,
+    title={Patch slimming for efficient vision transformers},
+    author={Tang, Yehui and Han, Kai and Wang, Yunhe and Xu, Chang and Guo, Jianyuan and Xu, Chao and Tao, Dacheng},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={12165--12174},
+    year={2022}
+  }
+  ```
+  </details>  
+
 - **[6] Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer**, AAAI 2022.
   
   *Xu, Yifan and Zhang, Zhijie and Zhang, Mengdan and Sheng, Kekai and Li, Ke and Dong, Weiming and Zhang, Liqing and Xu, Changsheng and Sun, Xing.*
@@ -120,6 +160,19 @@
   *Yin, Hongxu and Vahdat, Arash and Alvarez, Jose M and Mallya, Arun and Kautz, Jan and Molchanov, Pavlo.*
 
   [[Paper](https://arxiv.org/abs/2112.07658)] [[Code](https://github.com/hongxuYin/A-ViT)] ![](https://img.shields.io/badge/A_ViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+<details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{Yin2022:A-ViT,
+    title={A-vit: Adaptive tokens for efficient vision transformer},
+    author={Yin, Hongxu and Vahdat, Arash and Alvarez, Jose M and Mallya, Arun and Kautz, Jan and Molchanov, Pavlo},
+    booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+    pages={10809--10818},
+    year={2022}
+  }
+  ```
+  </details>  
 
 - **[8] Learning to Merge Tokens in Vision Transformers**, arXiv 2022.
   
