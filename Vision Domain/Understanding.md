@@ -57,7 +57,7 @@
   ```
   </details>  
 
-- **[3]  Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition, NeurIPS 2021.
+- **[3]  Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition**, NeurIPS 2021.
 
   *Wang, Yulin and Huang, Rui and Song, Shiji and Huang, Zeyi and Huang, Gao.*
 
