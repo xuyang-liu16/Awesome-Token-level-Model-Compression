@@ -61,7 +61,7 @@
 
   *Wang, Yulin and Huang, Rui and Song, Shiji and Huang, Zeyi and Huang, Gao.*
 
-  [[Paper](https://arxiv.org/abs/2106.02034)] [[Code](https://github.com/blackfeather-wang/Dynamic-Vision-Transformer)] ![](https://img.shields.io/badge/DVT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  [[Paper](https://arxiv.org/abs/2105.15075)] [[Code](https://github.com/blackfeather-wang/Dynamic-Vision-Transformer)] ![](https://img.shields.io/badge/DVT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
   
 <details> <summary>BibTex</summary>
 
