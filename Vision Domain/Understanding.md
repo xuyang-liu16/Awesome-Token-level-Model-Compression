@@ -274,7 +274,7 @@
 
   [[Paper](https://arxiv.org/abs/2105.14217)] [[Code](https://github.com/ziplab/LIT)] ![](https://img.shields.io/badge/LIT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Object_Detection-green) ![](https://img.shields.io/badge/Instance_Segmentation-green) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-###2023
+### 2023
 
 - **[1] Dynamic Token Pruning in Plain Vision Transformers for Semantic Segmentation**, ICCV 2023.
   
