@@ -26,7 +26,7 @@
 <details> <summary>BibTex</summary>
 
   ```text
-   @inproceedings{Pan2021:IA-RED2,
+  @inproceedings{Pan2021:IA-RED2,
     title={IA-RED $\^{} 2$: Interpretability-aware redundancy reduction for vision transformers},
     author={Pan, Bowen and Panda, Rameswar and Jiang, Yifan and Wang, Zhangyang and Feris, Rogerio and Oliva, Aude},
     booktitle=NIPS,
@@ -66,14 +66,14 @@
 <details> <summary>BibTex</summary>
 
   ```text
-@inproceedings{wang2021dvt,
-  title={Not all images are worth 16x16 words: Dynamic transformers for efficient image recognition},
-  author={Wang, Yulin and Huang, Rui and Song, Shiji and Huang, Zeyi and Huang, Gao},
-  booktitle=NIPS,
-  volume={34},
-  pages={11960--11973},
-  year={2021}
-}
+  @inproceedings{wang2021dvt,
+    title={Not all images are worth 16x16 words: Dynamic transformers for efficient image recognition},
+    author={Wang, Yulin and Huang, Rui and Song, Shiji and Huang, Zeyi and Huang, Gao},
+    booktitle=NIPS,
+    volume={34},
+    pages={11960--11973},
+    year={2021}
+  }
   ```
   </details>  
 
