@@ -107,7 +107,7 @@
   
   *Tang, Yehui and Han, Kai and Wang, Yunhe and Xu, Chang and Guo, Jianyuan and Xu, Chao and Tao, Dacheng.*
 
-  [[Paper](https://arxiv.org/abs/2106.02852)] [Code] ![](https://img.shields.io/badge/Patch_Slimming-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-purple)
+  [[Paper](https://arxiv.org/abs/2106.02852)] [Code] ![](https://img.shields.io/badge/Patch_Slimming-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[6] Evo-ViT: Slow-Fast Token Evolution for Dynamic Vision Transformer**, AAAI 2022.
   
