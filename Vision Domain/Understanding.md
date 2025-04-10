@@ -26,12 +26,13 @@
 <details> <summary>BibTex</summary>
 
   ```text
-  @article{wit1999linguistic,
-    title={What is linguistic redundancy},
-    author={Wit, EC and Gillette, Marie},
-    journal={University of Chicago},
-    year={1999},
-    publisher={Citeseer}
+   @inproceedings{Pan2021:IA-RED2,
+    title={IA-RED $\^{} 2$: Interpretability-aware redundancy reduction for vision transformers},
+    author={Pan, Bowen and Panda, Rameswar and Jiang, Yifan and Wang, Zhangyang and Feris, Rogerio and Oliva, Aude},
+    booktitle=NIPS,
+    volume={34},
+    pages={24898--24911},
+    year={2021}
   }
   ```
   </details>  
@@ -49,11 +50,33 @@
     title={{DynamicViT}: Efficient Vision Transformers with Dynamic Token Sparsification},
     author={Yongming Rao and Wenliang Zhao and Benlin Liu and Jiwen Lu and Jie Zhou and Cho{-}Jui Hsieh},
     booktitle=NIPS,
+    volume={34},
     pages={13937--13949},
     year={2021}
   }
   ```
   </details>  
+
+- **[3]  Not All Images are Worth 16x16 Words: Dynamic Transformers for Efficient Image Recognition, NeurIPS 2021.
+
+  *Wang, Yulin and Huang, Rui and Song, Shiji and Huang, Zeyi and Huang, Gao.*
+
+  [[Paper](https://arxiv.org/abs/2106.02034)] [[Code](https://github.com/blackfeather-wang/Dynamic-Vision-Transformer)] ![](https://img.shields.io/badge/DVT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  
+<details> <summary>BibTex</summary>
+
+  ```text
+@inproceedings{wang2021dvt,
+  title={Not all images are worth 16x16 words: Dynamic transformers for efficient image recognition},
+  author={Wang, Yulin and Huang, Rui and Song, Shiji and Huang, Zeyi and Huang, Gao},
+  booktitle=NIPS,
+  volume={34},
+  pages={11960--11973},
+  year={2021}
+}
+  ```
+  </details>  
+
 
 ### 2022
 - **[1] Adaptive Token Sampling for Efficient Vision Transformers**, ECCV 2022.
