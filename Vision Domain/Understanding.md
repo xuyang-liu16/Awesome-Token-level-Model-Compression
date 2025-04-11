@@ -23,7 +23,7 @@
 
   [[Paper](https://arxiv.org/abs/2106.12620)] [Code] ![](https://img.shields.io/badge/IA_RED2-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-<details> <summary>BibTex</summary>
+  <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{Pan2021:IA-RED2,
@@ -43,7 +43,7 @@
 
   [[Paper](https://arxiv.org/abs/2106.02034)] [[Code](https://github.com/RaoYongming/DynamicViT)] ![](https://img.shields.io/badge/DynamicViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Object_Detection-green) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-<details> <summary>BibTex</summary>
+  <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{Rao2021:DynamicViT,
@@ -63,7 +63,7 @@
 
   [[Paper](https://arxiv.org/abs/2105.15075)] [[Code](https://github.com/blackfeather-wang/Dynamic-Vision-Transformer)] ![](https://img.shields.io/badge/DVT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
   
-<details> <summary>BibTex</summary>
+  <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{wang2021dvt,
@@ -92,7 +92,7 @@
 
   [[Paper](https://arxiv.org/abs/2112.13890)] [[Code](https://github.com/PeiyanFlying/SPViT)] ![](https://img.shields.io/badge/SPViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-<details> <summary>BibTex</summary>
+  <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{Kong2022:SPViT,
@@ -112,7 +112,7 @@
 
   [[Paper](https://arxiv.org/abs/2210.05832)] [Code] ![](https://img.shields.io/badge/SaiT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-<details> <summary>BibTex</summary>
+  <details> <summary>BibTex</summary>
 
   ```text
    @article{Li2022SaiT,
@@ -136,7 +136,7 @@
 
   [[Paper](https://arxiv.org/abs/2106.02852)] [Code] ![](https://img.shields.io/badge/Patch_Slimming-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-<details> <summary>BibTex</summary>
+  <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{Tang2022:PatchSlim,
@@ -161,7 +161,7 @@
 
   [[Paper](https://arxiv.org/abs/2112.07658)] [[Code](https://github.com/hongxuYin/A-ViT)] ![](https://img.shields.io/badge/A_ViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-<details> <summary>BibTex</summary>
+  <details> <summary>BibTex</summary>
 
   ```text
   @inproceedings{Yin2022:A-ViT,
@@ -199,6 +199,7 @@
   *Marin, Dmitrii and Chang, Jen-Hao Rick and Ranjan, Anurag and Prabhu, Anish and Rastegari, Mohammad and Tuzel, Oncel.*
 
   [[Paper](https://arxiv.org/abs/2110.03860)] [Code] ![](https://img.shields.io/badge/TokenPooling-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  
 - **[2] Beyond attentive tokens: Incorporating token importance and diversity for efficient vision transformers**, CVPR 2023.
   
   *Long, Sifan and Zhao, Zhen and Pi, Jimin and Wang, Shengsheng and Wang, Jingdong.*
@@ -217,11 +218,25 @@
 
   [[Paper](https://ieeexplore.ieee.org/abstract/document/10183862)] [Code] ![](https://img.shields.io/badge/TokenMerger-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @article{Feng2023TokenMerger,
+    title={Efficient vision transformer via token merger},
+    author={Feng, Zhanzhou and Zhang, Shiliang},
+    journal=TIP,
+    year={2023},
+    publisher={IEEE}
+  }
+  ```
+  </details>  
+
 - **[5] Token Merging: Your ViT But Faster**, ICLR 2023.
   
   *Bolya, Daniel and Fu, Cheng-Yang and Dai, Xiaoliang and Zhang, Peizhao and Feichtenhofer, Christoph and Hoffman, Judy.*
 
   [[Paper](https://arxiv.org/abs/2210.09461)] [[Code]([https://github.com/facebookresearch/ToMe](https://github.com/facebookresearch/ToMe))] ![](https://img.shields.io/badge/ToMe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+
 
 ### 2024
 
