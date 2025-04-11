@@ -1,15 +1,15 @@
 <div align=center>
 
-# Token Reduction for Vision Domain
+# Token Compression for Vision Domain
 
-:loudspeaker: Collections of Awesome Token Reduction for Vision Understanding Domain Resources.
+:loudspeaker: Collections of Awesome Token C for Vision Understanding Domain Resources.
 
 </div>
 
 
 ## 📚 <span id="head1"> *Contents* </span>
 
-- Token Reduction for Vision Domain
+- Token Compression for Vision Domain
   - [Image Recognition](#Image-Recognition)
   - [Video Recognition](#Video-Recognition)
   - [Dense Prediction](#Dense-Prediction)
