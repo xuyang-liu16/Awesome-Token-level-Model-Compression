@@ -13,7 +13,7 @@
 
 ## 🔥 <span id="head1"> *News* </span>
 
-* **`2024/12/24`** 🤗🤗 We release an open-sourse repo "[Awesome-Token-level-Model-Compression](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression)", which collects recent awesome token reduction papers! Feel free to contribute your suggestions!
+* **`2024/12/24`** 🤗🤗 We release an open-sourse repo "[Awesome-Token-level-Model-Compression](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression)", which collects recent awesome token compression papers! Feel free to contribute your suggestions!
 
 ## 📚 <span id="head1"> *Contents* </span>
 
@@ -31,7 +31,7 @@
 
 
 ## 💬 <span id="head1"> *Keywords* </span>
-![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Downstream_Application-green)  ![](https://img.shields.io/badge/W./W.O._Training-brown) ![](https://img.shields.io/badge/Reduction_Criteria-purple) ![](https://img.shields.io/badge/Reduction_Mechanism-orange)
+![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Downstream_Application-green)  ![](https://img.shields.io/badge/W./W.O._Training-brown) ![](https://img.shields.io/badge/Compression_Criteria-purple) ![](https://img.shields.io/badge/Compression_Mechanism-orange)
 
 ## 💻 Related Works
 
