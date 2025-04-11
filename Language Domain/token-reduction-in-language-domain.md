@@ -1,4 +1,4 @@
-# Token Reduction Techniques in Language Domain
+# Token Compression in Language Domain
 
 Maintainers: [Junjie Chen](https://www.junjie-chen.info), [Xuyang Liu](https://xuyang-liu16.github.io/)
 
