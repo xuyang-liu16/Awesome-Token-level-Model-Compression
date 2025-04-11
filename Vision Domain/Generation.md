@@ -1,8 +1,8 @@
 <div align=center>
 
-# Token Reduction for Vision Domain
+# Token Compression for Vision Domain
 
-:loudspeaker: Collections of Awesome Token Reduction for Vision Generation Resources.
+:loudspeaker: Collections of Awesome Token Compression for Vision Generation Resources.
 
 </div>
 
