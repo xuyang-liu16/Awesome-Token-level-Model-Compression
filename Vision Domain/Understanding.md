@@ -2,7 +2,7 @@
 
 # Token Compression for Vision Domain
 
-:loudspeaker: Collections of Awesome Token C for Vision Understanding Domain Resources.
+:loudspeaker: Collections of Awesome Token Compression for Vision Understanding Domain Resources.
 
 </div>
 
@@ -330,6 +330,25 @@
   *Shuai Peng, Di Fu, Baole Wei, Yong Cao, Liangcai Gao, Zhi Tang.*
 
   [[Paper](https://arxiv.org/abs/2408.17062)] [Code] ![](https://img.shields.io/badge/Vote&Mix-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[14] Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation**, NeurIPS 2024.
+  
+  *Zhao, Wangbo and Tang, Jiasheng and Han, Yizeng and Song, Yibing and Wang, Kai and Huang, Gao and Wang, Fan and You, Yang.*
+
+  [[Paper](https://arxiv.org/abs/2403.11808)] [[Code](https://github.com/NUS-HPC-AI-Lab/Dynamic-Tuning)] ![](https://img.shields.io/badge/DyT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_based-brown)![] ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+  <details> <summary>BibTex</summary>
+    
+  ```
+   </details>  
+  @inproceedings{Zhao2024:DyT,
+  title={Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation},
+  author={Zhao, Wangbo and Tang, Jiasheng and Han, Yizeng and Song, Yibing and Wang, Kai and Huang, Gao and Wang, Fan and You, Yang},
+  booktitle=NIPS,
+  year={2024}
+  }
+  ```
+
   
 
 ### Video Recognition:
