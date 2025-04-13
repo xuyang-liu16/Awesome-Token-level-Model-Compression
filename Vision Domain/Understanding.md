@@ -276,11 +276,24 @@
 
   [[Paper](https://arxiv.org/abs/2401.01470)] [Code] ![](https://img.shields.io/badge/TPC_ViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Caching-orange)
 
-- **[7] Efficient Visual Transformer by Learnable Token Merging**, arXiv 2024.
+- **[7] Efficient Visual Transformer by Learnable Token Merging**, CVPR 2024.
   
   *Wang, Yancheng and Yang, Yingzhen.*
 
   [[Paper](https://arxiv.org/abs/2407.15219)] [[Code](https://github.com/Statistical-Deep-Learning/LTM)] ![](https://img.shields.io/badge/LToMe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{Yuan2024:SoftToMe,
+  title={Efficient transformer adaptation with soft token merging},
+  author={Yuan, Xin and Fei, Hongliang and Baek, Jinoo},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={3658--3668},
+  year={2024}
+  }
+  ```
+  </details>  
 
 - **[8] HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers**, HPCA 2023.
   
