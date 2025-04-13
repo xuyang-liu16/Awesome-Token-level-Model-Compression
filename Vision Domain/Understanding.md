@@ -154,6 +154,20 @@
   *Xu, Yifan and Zhang, Zhijie and Zhang, Mengdan and Sheng, Kekai and Li, Ke and Dong, Weiming and Zhang, Liqing and Xu, Changsheng and Sun, Xing.*
 
   [[Paper](https://arxiv.org/abs/2108.01390)] [[Code](https://github.com/YifanXu74/Evo-ViT)] ![](https://img.shields.io/badge/EvoViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{Xu2022:Evo-ViT,
+  title={Evo-vit: Slow-fast token evolution for dynamic vision transformer},
+  author={Xu, Yifan and Zhang, Zhijie and Zhang, Mengdan and Sheng, Kekai and Li, Ke and Dong, Weiming and Zhang, Liqing and Xu, Changsheng and Sun, Xing},
+  booktitle={Proceedings of the AAAI conference on artificial intelligence},
+  volume={36},
+  number={3},
+  pages={2964--2972},
+  year={2022}
+  }
+  ```
+  </details>  
 
 - **[7] A-ViT: Adaptive Tokens for Efficient Vision Transformer**, CVPR 2022.
   
@@ -199,6 +213,19 @@
   *Marin, Dmitrii and Chang, Jen-Hao Rick and Ranjan, Anurag and Prabhu, Anish and Rastegari, Mohammad and Tuzel, Oncel.*
 
   [[Paper](https://arxiv.org/abs/2110.03860)] [Code] ![](https://img.shields.io/badge/TokenPooling-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+  <details> <summary>BibTex</summary>
+  
+  ```text
+  @inproceedings{Marin2023:TokenPooling,
+    title={Token pooling in vision transformers for image classification},
+    author={Marin, Dmitrii and Chang, Jen-Hao Rick and Ranjan, Anurag and Prabhu, Anish and Rastegari, Mohammad and Tuzel, Oncel},
+    booktitle={Proceedings of the IEEE/CVF winter conference on applications of computer vision},
+    pages={12--21},
+    year={2023}
+  }
+  ```
+  </details>  
   
 - **[2] Beyond attentive tokens: Incorporating token importance and diversity for efficient vision transformers**, CVPR 2023.
   
