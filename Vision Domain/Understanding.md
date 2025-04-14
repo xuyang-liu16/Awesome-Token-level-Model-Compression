@@ -326,7 +326,7 @@
 
   [[Paper](https://arxiv.org/abs/2409.11923)] [[Code](https://github.com/JoakimHaurum/ATC)] ![](https://img.shields.io/badge/ATC-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Image_Generation-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[3] Token Pruning using a Lightweight Background Aware Vision Transformer**, arXiv 2024.
+- **[3] Token Pruning using a Lightweight Background Aware Vision Transformer**, NeurIPSw 2024.
   
   *Sah, Sudhakar and Kumar, Ravish and Rohmetra, Honnesh and Saboori, Ehsan.*
 
