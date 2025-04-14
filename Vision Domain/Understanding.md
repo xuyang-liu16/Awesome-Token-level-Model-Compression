@@ -301,11 +301,24 @@
 
 ### 2024
 
-- **[1] Efficient Transformer Adaptation with Soft Token Merging**, CVPRW 2024.
+- **[1] Efficient Transformer Adaptation with Soft Token Merging**, CVPRw 2024.
   
   *Yuan, Xin and Fei, Hongliang and Baek, Jinoo.*
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2024W/ELVM/papers/Yuan_Efficient_Transformer_Adaptation_with_Soft_Token_Merging_CVPRW_2024_paper.pdf)] [Code] ![](https://img.shields.io/badge/SoftToMe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Machine_Translation-green) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{Yuan2024:SoftToMe,
+    title={Efficient transformer adaptation with soft token merging},
+    author={Yuan, Xin and Fei, Hongliang and Baek, Jinoo},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={3658--3668},
+    year={2024}
+  }
+  ```
+  </details>  
 
 - **[2] Agglomerative Token Clustering**, ECCV 2024.
   
@@ -339,7 +352,6 @@
   </details>  
 
 
-
 - **[5] PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference**, arXiv 2024.
   
   *Li, Ye and Tang, Chen and Meng, Yuan and Fan, Jiajun and Chai, Zenghao and Ma, Xinzhu and Wang, Zhi and Zhu, Wenwu.*
@@ -357,19 +369,6 @@
   *Wang, Yancheng and Yang, Yingzhen.*
 
   [[Paper](https://arxiv.org/abs/2407.15219)] [[Code](https://github.com/Statistical-Deep-Learning/LTM)] ![](https://img.shields.io/badge/LToMe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
-
-  <details> <summary>BibTex</summary>
-    
-  ```
-  @inproceedings{Yuan2024:SoftToMe,
-  title={Efficient transformer adaptation with soft token merging},
-  author={Yuan, Xin and Fei, Hongliang and Baek, Jinoo},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={3658--3668},
-  year={2024}
-  }
-  ```
-  </details>  
 
 - **[8] HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers**, HPCA 2023.
   
@@ -417,12 +416,13 @@
     
   ```
   @inproceedings{Zhao2024:DyT,
-  title={Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation},
-  author={Zhao, Wangbo and Tang, Jiasheng and Han, Yizeng and Song, Yibing and Wang, Kai and Huang, Gao and Wang, Fan and You, Yang},
-  booktitle=NIPS,
-  year={2024}
+    title={Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation},
+    author={Zhao, Wangbo and Tang, Jiasheng and Han, Yizeng and Song, Yibing and Wang, Kai and Huang, Gao and Wang, Fan and You, Yang},
+    booktitle=NIPS,
+    year={2024}
   }
   ```
+  </details>  
 
   
 
