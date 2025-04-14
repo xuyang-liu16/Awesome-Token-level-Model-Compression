@@ -246,12 +246,12 @@
   
   ```text
   @inproceedings{Long2023:BAT,
-  title={Beyond attentive tokens: Incorporating token importance and diversity for efficient vision transformers},
-  author={Long, Sifan and Zhao, Zhen and Pi, Jimin and Wang, Shengsheng and Wang, Jingdong},
-  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
-  pages={10334--10343},
-  year={2023}
-  }
+    title={Beyond attentive tokens: Incorporating token importance and diversity for efficient vision transformers},
+    author={Long, Sifan and Zhao, Zhen and Pi, Jimin and Wang, Shengsheng and Wang, Jingdong},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={10334--10343},
+    year={2023}
+    }
   ```
   </details> 
   
