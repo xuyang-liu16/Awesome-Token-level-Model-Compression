@@ -251,7 +251,7 @@
     booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
     pages={10334--10343},
     year={2023}
-    }
+  }
   ```
   </details> 
   
@@ -285,6 +285,18 @@
   *Bolya, Daniel and Fu, Cheng-Yang and Dai, Xiaoliang and Zhang, Peizhao and Feichtenhofer, Christoph and Hoffman, Judy.*
 
   [[Paper](https://arxiv.org/abs/2210.09461)] [[Code]([https://github.com/facebookresearch/ToMe](https://github.com/facebookresearch/ToMe))] ![](https://img.shields.io/badge/ToMe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+<details> <summary>BibTex</summary>
+    
+```
+@inproceedings{Bolya2023:ToMe,
+  title={Token Merging: Your {ViT} But Faster},
+  author={Daniel Bolya and Cheng{-}Yang Fu and Xiaoliang Dai and Peizhao Zhang and Christoph Feichtenhofer and Judy Hoffman},
+  booktitle=ICLR,
+  year= {2023}
+}
+```
+</details>  
 
 
 ### 2024
