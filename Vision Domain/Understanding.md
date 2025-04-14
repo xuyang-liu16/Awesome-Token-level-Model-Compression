@@ -378,11 +378,11 @@
 
   [[Paper](https://arxiv.org/abs/2401.01470)] [Code] ![](https://img.shields.io/badge/TPC_ViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Caching-orange)
 
-- **[7] Efficient Visual Transformer by Learnable Token Merging**, CVPR 2024.
+- **[7] Efficient Visual Transformer by Learnable Token Merging**, arXiv 2024.
   
   *Wang, Yancheng and Yang, Yingzhen.*
 
-  [[Paper](https://arxiv.org/abs/2407.15219)] [[Code](https://github.com/Statistical-Deep-Learning/LTM)] ![](https://img.shields.io/badge/LToMe-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
+  [[Paper](https://arxiv.org/abs/2407.15219)] [[Code](https://github.com/Statistical-Deep-Learning/LTM)] ![](https://img.shields.io/badge/LTM-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Dense_Prediction-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 - **[8] HeatViT: Hardware-Efficient Adaptive Token Pruning for Vision Transformers**, HPCA 2023.
   
