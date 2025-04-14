@@ -437,7 +437,7 @@
   
   *Zhao, Wangbo and Tang, Jiasheng and Han, Yizeng and Song, Yibing and Wang, Kai and Huang, Gao and Wang, Fan and You, Yang.*
 
-  [[Paper](https://arxiv.org/abs/2403.11808)] [[Code](https://github.com/NUS-HPC-AI-Lab/Dynamic-Tuning)] ![](https://img.shields.io/badge/DyT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_based-brown)![] ![](https://img.shields.io/badge/Token_Pruning-orange)
+  [[Paper](https://arxiv.org/abs/2403.11808)] [[Code](https://github.com/NUS-HPC-AI-Lab/Dynamic-Tuning)] ![](https://img.shields.io/badge/DyT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
   <details> <summary>BibTex</summary>
     
