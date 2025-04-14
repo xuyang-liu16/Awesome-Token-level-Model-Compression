@@ -204,12 +204,12 @@
 
   ```text
   @inproceedings{Zong2022:SiT,
-  title={Self-slimmed vision transformer},
-  author={Zong, Zhuofan and Li, Kunchang and Song, Guanglu and Wang, Yali and Qiao, Yu and Leng, Biao and Liu, Yu},
-  booktitle={European Conference on Computer Vision},
-  pages={432--448},
-  year={2022},
-  organization={Springer}
+    title={Self-slimmed vision transformer},
+    author={Zong, Zhuofan and Li, Kunchang and Song, Guanglu and Wang, Yali and Qiao, Yu and Leng, Biao and Liu, Yu},
+    booktitle={European Conference on Computer Vision},
+    pages={432--448},
+    year={2022},
+    organization={Springer}
   }
   ```
   </details>  
@@ -393,6 +393,19 @@
   *Wang, Hongjie and Dedhia, Bhishma and Jha, Niraj K.*
 
   [[Paper](https://arxiv.org/abs/2305.17328)] [Code] ![](https://img.shields.io/badge/Zero_TPrune-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+ <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{wang2024zero,
+    title={Zero-TPrune: Zero-shot token pruning through leveraging of the attention graph in pre-trained transformers},
+    author={Wang, Hongjie and Dedhia, Bhishma and Jha, Niraj K},
+    booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+    pages={16070--16079},
+    year={2024}
+  }
+  ```
+  </details> 
 
 - **[12] PaPr: Training-Free One-Step Patch Pruning with Lightweight ConvNets for Faster Inference**, ECCV 2024.
   
