@@ -242,6 +242,19 @@
 
   [[Paper](https://arxiv.org/abs/2211.11315)] [Code] ![](https://img.shields.io/badge/BAT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
+  <details> <summary>BibTex</summary>
+  
+  ```text
+  @inproceedings{Long2023:BAT,
+  title={Beyond attentive tokens: Incorporating token importance and diversity for efficient vision transformers},
+  author={Long, Sifan and Zhao, Zhen and Pi, Jimin and Wang, Shengsheng and Wang, Jingdong},
+  booktitle={Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition},
+  pages={10334--10343},
+  year={2023}
+  }
+  ```
+  </details> 
+  
 - **[3] Which Tokens to Use? Investigating Token Reduction in Vision Transformers**, ICCVw 2023.
   
   *Haurum, Joakim Bruslund and Escalera, Sergio and Taylor, Graham W and Moeslund, Thomas B.*
