@@ -291,6 +291,21 @@
 
   [[Paper](https://arxiv.org/abs/2311.03035)] [[Code](https://github.com/Ackesnal/GTP-ViT)] ![](https://img.shields.io/badge/GTP_ViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{Xu2024:GTP-ViT,
+    title={GTP-ViT: efficient Vision transformers via graph-based token propagation},
+    author={Xu, Xuwei and Wang, Sen and Chen, Yudong and Zheng, Yanping and Wei, Zhewei and Liu, Jiajun},
+    booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+    pages={86--95},
+    year={2024}
+  }
+  ```
+  </details>  
+
+
+
 - **[5] PRANCE: Joint Token-Optimization and Structural Channel-Pruning for Adaptive ViT Inference**, arXiv 2024.
   
   *Li, Ye and Tang, Chen and Meng, Yuan and Fan, Jiajun and Chai, Zenghao and Ma, Xinzhu and Wang, Zhi and Zhu, Wenwu.*
