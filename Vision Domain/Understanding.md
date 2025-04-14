@@ -391,7 +391,6 @@
   <details> <summary>BibTex</summary>
     
   ```
-   </details>  
   @inproceedings{Zhao2024:DyT,
   title={Dynamic Tuning Towards Parameter and Inference Efficiency for ViT Adaptation},
   author={Zhao, Wangbo and Tang, Jiasheng and Han, Yizeng and Song, Yibing and Wang, Kai and Huang, Gao and Wang, Fan and You, Yang},
