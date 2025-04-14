@@ -394,8 +394,8 @@
 
   [[Paper](https://arxiv.org/abs/2305.17328)] [Code] ![](https://img.shields.io/badge/Zero_TPrune-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
- <details> <summary>BibTex</summary>
-    
+   <details> <summary>BibTex</summary>
+  
   ```
   @inproceedings{wang2024zero,
     title={Zero-TPrune: Zero-shot token pruning through leveraging of the attention graph in pre-trained transformers},
