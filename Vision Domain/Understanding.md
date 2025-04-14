@@ -200,11 +200,6 @@
 
   [[Paper](https://arxiv.org/abs/2111.12624)] [[Code](https://github.com/Sense-X/SiT)] ![](https://img.shields.io/badge/SelfSlimmedViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-purple)
 
-- **[10] Unified Visual Transformer Compression**, ICLR 2022.
-  
-  *Yu, Shixing and Chen, Tianlong and Shen, Jiayi and Yuan, Huan and Tan, Jianchao and Yang, Sen and Liu, Ji and Wang, Zhangyang.*
-
-  [[Paper](https://arxiv.org/abs/2203.08243)] [[Code](https://github.com/VITA-Group/UVC)] ![](https://img.shields.io/badge/UVC-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Layer_Pruning-orange) ![](https://img.shields.io/badge/Knowledge_Distillation-orange)
   
 ### 2023
 
