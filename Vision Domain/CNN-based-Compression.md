@@ -8,7 +8,7 @@
 
   <details> <summary>BibTex</summary>
 
-  ```text
+```text
 @inproceedings{zhao2017random,
 	title={Random Shifting for CNN: a Solution to Reduce Information Loss in Down-Sampling Layers.},
 	author={Zhao, Gangming and Wang, Jingdong and Zhang, Zhaoxiang and others},
