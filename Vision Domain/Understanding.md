@@ -474,17 +474,58 @@
 
   [[Paper](https://proceedings.neurips.cc/paper/2021/hash/6a30e32e56fce5cf381895dfe6ca7b6f-Abstract.html)] [[Code](https://github.com/google-research/scenic/tree/main/scenic/projects/token_learner)] ![](https://img.shields.io/badge/TokenLearner-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{Ryoo2021:TokenLearner,
+    title={Tokenlearner: Adaptive space-time tokenization for videos},
+    author={Ryoo, Michael and Piergiovanni, AJ and Arnab, Anurag and Dehghani, Mostafa and Angelova, Anelia},
+    booktitle=NIPS,
+    volume={34},
+    pages={12786--12797},
+    year={2021}
+  }
+  ```
+  </details>
+
 - **[2] Efficient Video Transformers with Spatial-Temporal Token Selection**, ECCV 2022.
   
   *Junke Wang and Xitong Yang and Hengduo Li and Li Liu and Zuxuan Wu and Yu-Gang Jiang.*
 
   [[Paper](https://arxiv.org/abs/2111.11591)] [[Code](https://github.com/wdrink/STTS)] ![](https://img.shields.io/badge/STTS-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{Wang2022:STTS,
+    title={Efficient video transformers with spatial-temporal token selection},
+    author={Wang, Junke and Yang, Xitong and Li, Hengduo and Liu, Li and Wu, Zuxuan and Jiang, Yu-Gang},
+    booktitle={European Conference on Computer Vision},
+    pages={69--86},
+    year={2022},
+    organization={Springer}
+  }
+  ```
+  </details>
+
 - **[3] Prune Spatio-temporal Tokens by Semantic-aware Temporal Accumulation**, ICCV 2023.
   
   *Shuangrui Ding, Peisen Zhao, Xiaopeng Zhang, Rui Qian, Hongkai Xiong, Qi Tian.*
 
   [[Paper](https://arxiv.org/abs/2308.04549)] [Code] ![](https://img.shields.io/badge/PSTA-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Semantic_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{ding2023:PSTA,
+    title={Prune spatio-temporal tokens by semantic-aware temporal accumulation},
+    author={Ding, Shuangrui and Zhao, Peisen and Zhang, Xiaopeng and Qian, Rui and Xiong, Hongkai and Tian, Qi},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+    pages={16945--16956},
+    year={2023}
+  }
+  ```
+  </details>
 
 - **[4] vid-TLDR: Training Free Token merging for Light-weight Video Transformer**, CVPR 2024.
   
@@ -498,11 +539,41 @@
 
   [[Paper](https://dl.acm.org/doi/abs/10.1145/3633781)] [Code] ![](https://img.shields.io/badge/STToMe-blue) ![](https://img.shields.io/badge/Action_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Spatio_Temporal-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
 
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @article{Feng2024:STTM,
+    title={Efficient video transformers via spatial-temporal token merging for action recognition},
+    author={Feng, Zhanzhou and Xu, Jiaming and Ma, Lei and Zhang, Shiliang},
+    journal={ACM Transactions on Multimedia Computing, Communications and Applications},
+    volume={20},
+    number={4},
+    pages={1--21},
+    year={2024},
+    publisher={ACM New York, NY}
+  }
+  ```
+  </details>
+
 - **[6] Don't Look Twice: Faster Video Transformers with Run-Length Tokenization**, NeurIPS 2024.
 
   *Choudhury, Rohan and Zhu, Guanglei and Liu, Sihan and Niinuma, Koichiro and Kitani, Kris M and Jeni, Laszlo Attila.*
 
   [[Paper](https://dl.acm.org/doi/abs/10.1145/3633781)] [[Code](https://github.com/rccchoudhury/rlt)] ![](https://img.shields.io/badge/RLT-blue) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Temporal_Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @article{Choudhury2024:RLT,
+    title={Don't Look Twice: Faster Video Transformers with Run-Length Tokenization},
+    author={Choudhury, Rohan and Zhu, Guanglei and Liu, Sihan and Niinuma, Koichiro and Kitani, Kris and Jeni, L{\'a}szl{\'o}},
+    journal={Advances in Neural Information Processing Systems},
+    volume={37},
+    pages={28127--28149},
+    year={2024}
+  }
+  ```
+  </details>
   
 - **[7] TempMe: Video Temporal Token Merging for Efficient Text-Video Retrieval**, arXiv 2024.
   
@@ -516,6 +587,18 @@
 
   [[Paper](https://arxiv.org/abs/2304.08451)] [[Code](https://github.com/MCG-NJU/EVAD)] ![](https://img.shields.io/badge/EVAD-blue) ![](https://img.shields.io/badge/Video_Action_Detection-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{Chen2023:EVAD,
+    title={Efficient video action detection with token dropout and context refinement},
+    author={Chen, Lei and Tong, Zhan and Song, Yibing and Wu, Gangshan and Wang, Limin},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+    pages={10388--10399},
+    year={2023}
+  }
+  ```
+  </details>
 
 ### Dense Prediction:
 
