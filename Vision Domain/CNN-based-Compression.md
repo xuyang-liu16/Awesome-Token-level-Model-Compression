@@ -6,8 +6,7 @@
 
   [[Paper](https://www.researchgate.net/profile/Gangming-Zhao/publication/318830287_Random_Shifting_for_CNN_a_Solution_to_Reduce_Information_Loss_in_Down-Sampling_Layers/links/5f4cf86b92851c6cfd0ef6eb/Random-Shifting-for-CNN-a-Solution-to-Reduce-Information-Loss-in-Down-Sampling-Layers.pdf)] ![](https://img.shields.io/badge/Token_Pruning-orange)
 
-  <details> <summary>BibTex</summary>
-
+<details> <summary>BibTex</summary>
 ```text
 @inproceedings{zhao2017random,
 	title={Random Shifting for CNN: a Solution to Reduce Information Loss in Down-Sampling Layers.},
@@ -16,8 +15,8 @@
 	pages={3476--3482},
 	year={2017}
 }
-  ```
-  </details>  
+```
+</details>  
 - **[2] Deformable Convolutional Networks**, ICCV 2017.
   
   *Jifeng Dai, Haozhi Qi, Yuwen Xiong, Yi Li, Guodong Zhang, Han Hu, Yichen Wei.*
