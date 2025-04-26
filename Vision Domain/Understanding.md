@@ -612,7 +612,7 @@
 
 - **[2] Expediting Large-Scale Vision Transformer for Dense Prediction without Fine-tuning**, NeurIPS 2022.
   
-  *Tang, Quan and Zhang, Bowen and Liu, Jiajun and Liu, Fagui and Liu, Yifan.*
+  *Liang, Weicong and Yuan, Yuhui and Ding, Henghui and Luo, Xiao and Lin, Weihong and Jia, Ding and Zhang, Zheng and Zhang, Chao and Hu, Han.*
 
   [[Paper](https://arxiv.org/abs/2210.01035)] [Code] ![](https://img.shields.io/badge/Object_Detection-green) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Instance_Segmentation-green) ![](https://img.shields.io/badge/Panoptic_Segmentation-green) ![](https://img.shields.io/badge/Monocular_Depth_Estimation-green) ![](https://img.shields.io/badge/Non_parametric-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
