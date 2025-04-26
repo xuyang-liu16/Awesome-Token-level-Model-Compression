@@ -604,23 +604,11 @@
 
 ### 2022
 
-- **[1] Not All Tokens Are Equal: Human-centric Visual Analysis via Token Clustering Transformer**, CVPR 2022.
-  
-  *Zeng, Wang and Jin, Sheng and Liu, Wentao and Qian, Chen and Luo, Ping and Ouyang, Wanli and Wang, Xiaogang.*
-
-  [[Paper](https://arxiv.org/abs/2204.08680)] [[Code](https://github.com/zengwang430521/TCFormer)] ![](https://img.shields.io/badge/TCFormer-blue) ![](https://img.shields.io/badge/Pose_Estimation-green) ![](https://img.shields.io/badge/Mesh_Reconstruction-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
-
-- **[2] GroupViT: Semantic Segmentation Emerges From Text Supervision**, CVPR 2022.
+- **[1] GroupViT: Semantic Segmentation Emerges From Text Supervision**, CVPR 2022.
   
   *Xu, Jiarui and De Mello, Shalini and Liu, Sifei and Byeon, Wonmin and Breuel, Thomas and Kautz, Jan and Wang, Xiaolong.*
 
   [[Paper](https://arxiv.org/abs/2202.11094)] [[Code](https://github.com/NVlabs/GroupViT)] ![](https://img.shields.io/badge/GroupViT-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
-
-- **[3] Less is more: Pay less attention in vision transformers**, AAAI 2022.
-  
-  *Zizheng Pan and Bohan Zhuang and Haoyu He and Jing Liu and Jianfei Cai.*
-
-  [[Paper](https://arxiv.org/abs/2105.14217)] [[Code](https://github.com/ziplab/LIT)] ![](https://img.shields.io/badge/LIT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Object_Detection-green) ![](https://img.shields.io/badge/Instance_Segmentation-green) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
 ### 2023
 
@@ -630,11 +618,36 @@
 
   [[Paper](https://openaccess.thecvf.com/content/ICCV2023/html/Tang_Dynamic_Token_Pruning_in_Plain_Vision_Transformers_for_Semantic_Segmentation_ICCV_2023_paper.html)] [Code] ![](https://img.shields.io/badge/DTP-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{Tang2023:DToP,
+    title={Dynamic token pruning in plain vision transformers for semantic segmentation},
+    author={Tang, Quan and Zhang, Bowen and Liu, Jiajun and Liu, Fagui and Liu, Yifan},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+    pages={777--786},
+    year={2023}
+  ```
+  </details>
+
 - **[2] Content-Aware Token Sharing for Efficient Semantic Segmentation With Vision Transformers**, CVPR 2023.
   
   *Lu, Chenyang and de Geus, Daan and Dubbelman, Gijs.*
 
   [[Paper](https://openaccess.thecvf.com/content/CVPR2023/html/Lu_Content-Aware_Token_Sharing_for_Efficient_Semantic_Segmentation_With_Vision_Transformers_CVPR_2023_paper.html)] [Code] ![](https://img.shields.io/badge/CATS-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Sharing-orange)
+
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{Lu2023:CTS,
+    title={Content-aware token sharing for efficient semantic segmentation with vision transformers},
+    author={Lu, Chenyang and de Geus, Daan and Dubbelman, Gijs},
+    booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+    pages={23631--23640},
+    year={2023}
+  }
+  ```
+  </details>
 
 - **[3] Efficient Video Action Detection with Token Dropout and Context Refinement**, ICCV 2023.
   
@@ -650,17 +663,58 @@
   
   [[Paper](https://arxiv.org/abs/2306.07050)] [[Code](https://github.com/uzh-rpg/svit)] ![](https://img.shields.io/badge/SViT-blue) ![](https://img.shields.io/badge/Object_Detection-green) ![](https://img.shields.io/badge/Instance_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{liu2024revisiting,
+    title={Revisiting token pruning for object detection and instance segmentation},
+    author={Liu, Yifei and Gehrig, Mathias and Messikommer, Nico and Cannici, Marco and Scaramuzza, Davide},
+    booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+    pages={2658--2668},
+    year={2024}
+  }
+  ```
+  </details>
+
 - **[2] Dynamic Token-Pass Transformers for Semantic Segmentation**, WACV 2024.
 
   *Liu, Yuang and Zhou, Qiang and Wang, Jin and Wang, Zhibin and Wang, Fan and Wang, Jun and Zhang, Wei.*
   
   [[Paper](https://arxiv.org/abs/2308.01944)] [[Code](https://github.com/FLHonker/DoViT-code)] ![](https://img.shields.io/badge/DoViT-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{Liu2024:DoViT,
+    title={Dynamic token-pass transformers for semantic segmentation},
+    author={Liu, Yuang and Zhou, Qiang and Wang, Jing and Wang, Zhibin and Wang, Fan and Wang, Jun and Zhang, Wei},
+    booktitle={Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision},
+    pages={1827--1836},
+    year={2024}
+  }
+  ```
+  </details>
+
 - **[3] DTMFormer: Dynamic Token Merging for Boosting Transformer-Based Medical Image Segmentation**, AAAI 2024.
 
   *Wang, Zhehao and Lin, Xian and Wu, Nannan and Yu, Li and Cheng, Kwang-Ting and Yan, Zengqiang.*
   
   [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/28394)] [[Code](https://github.com/iam-nacl/DTMFormer)] ![](https://img.shields.io/badge/DTMFormer-blue) ![](https://img.shields.io/badge/Medical_Image_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{Wang2024:DTMFormer,
+    title={DTMFormer: Dynamic Token Merging for Boosting Transformer-Based Medical Image Segmentation},
+    author={Wang, Zhehao and Lin, Xian and Wu, Nannan and Yu, Li and Cheng, Kwang-Ting and Yan, Zengqiang},
+    booktitle={Proceedings of the AAAI conference on artificial intelligence},
+    volume={38},
+    number={6},
+    pages={5814--5822},
+    year={2024}
+  }
+  ```
+  </details>
 
 - **[4] Segformer++: Efficient Token-Merging Strategies for High-Resolution Semantic Segmentation**, MIPR 2024.
   
