@@ -654,6 +654,19 @@
   *Chen, Lei and Tong, Zhan and Song, Yibing and Wu, Gangshan and Wang, Limin.*
 
   [[Paper](https://arxiv.org/abs/2304.08451)] [[Code](https://github.com/MCG-NJU/EVAD)] ![](https://img.shields.io/badge/EVAD-blue) ![](https://img.shields.io/badge/Video_Action_Detection-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{chen2023:EVAD,
+    title={Efficient video action detection with token dropout and context refinement},
+    author={Chen, Lei and Tong, Zhan and Song, Yibing and Wu, Gangshan and Wang, Limin},
+    booktitle={Proceedings of the IEEE/CVF International Conference on Computer Vision},
+    pages={10388--10399},
+    year={2023}
+  }
+  ```
+  </details>
   
 ### 2024
 
@@ -722,11 +735,20 @@
   
   [[Paper](https://arxiv.org/abs/2405.14467)] [Code] ![](https://img.shields.io/badge/Segformer++-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Merging-orange)
 
-- **[5] ToSA: Token Selective Attention for Efficient Vision Transformers**, arXiv 2024.
-  
-  *Singh, Manish Kumar et al.*
-  
-  [[Paper](https://arxiv.org/abs/2406.08816)] [Code] ![](https://img.shields.io/badge/ToSA-blue) ![](https://img.shields.io/badge/Vision_Recognition-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{Kienzle2024:Segformer++,
+    title={Segformer++: Efficient Token-Merging Strategies for High-Resolution Semantic Segmentation},
+    author={Kienzle, Daniel and Kantonis, Marco and Sch{\"o}n, Robin and Lienhart, Rainer},
+    booktitle={2024 IEEE 7th International Conference on Multimedia Information Processing and Retrieval (MIPR)},
+    pages={75--81},
+    year={2024},
+    organization={IEEE}
+  }
+  ```
+  </details>
+
 
 ### 2025
 
