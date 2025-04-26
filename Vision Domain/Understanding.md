@@ -699,6 +699,25 @@
   }
   ```
   </details>
+
+- **[4] Sparsevit: Revisiting activation sparsity for efficient high-resolution vision transformer**, CVPR 2023.
+  
+  *Chen, Xuanyao and Liu, Zhijian and Tang, Haotian and Yi, Li and Zhao, Hang and Han, Song.*
+
+  [[Paper](https://arxiv.org/abs/2303.17605)] [[Code](https://github.com/mit-han-lab/sparsevit)] ![](https://img.shields.io/badge/SparseViT-blue) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Instance_Segmentation-green) ![](https://img.shields.io/badge/Non_parametric-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+  <details> <summary>BibTex</summary>
+    
+  ```
+  @inproceedings{Chen202:SparseViT,
+    title={Sparsevit: Revisiting activation sparsity for efficient high-resolution vision transformer},
+    author={Chen, Xuanyao and Liu, Zhijian and Tang, Haotian and Yi, Li and Zhao, Hang and Han, Song},
+    booktitle={Proceedings of the IEEE/CVF conference on computer vision and pattern recognition},
+    pages={2061--2070},
+    year={2023}
+  }
+  ```
+  </details>
   
 ### 2024
 
