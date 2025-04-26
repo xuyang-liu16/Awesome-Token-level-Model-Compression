@@ -31,7 +31,7 @@
 
 
 ## 💬 <span id="head1"> *Keywords* </span>
-![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Downstream_Application-green)  ![](https://img.shields.io/badge/W./W.O._Training-brown) ![](https://img.shields.io/badge/Compression_Criteria-purple) ![](https://img.shields.io/badge/Compression_Mechanism-orange)
+![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Downstream_Application-green)  ![](https://img.shields.io/badge/Parametric/Non_parametric-brown) ![](https://img.shields.io/badge/Compression_Criteria-purple) ![](https://img.shields.io/badge/Compression_Mechanism-orange)
 
 ## 💻 Related Works
 
