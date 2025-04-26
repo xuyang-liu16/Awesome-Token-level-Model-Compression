@@ -17,7 +17,9 @@
 
 ## 📚 <span id="head1"> *Contents* </span>
 
-- [Awesome Generation Acceleration](README.md)
+🖱️ Please click on each domain to explore the applications of token compression across different downstream scenarios.
+
+- [Awesome-Token-level-Model-Compression](README.md)
     - [Vision Domain](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/tree/main/Vision%20Domain)
         - [Understanding](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/blob/main/Vision%20Domain/Understanding.md)
         - [Generation](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/blob/main/Vision%20Domain/Generation.md)
