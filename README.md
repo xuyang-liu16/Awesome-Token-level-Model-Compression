@@ -15,6 +15,18 @@
 
 * **`2024/12/24`** 🤗🤗 We release an open-sourse repo "[Awesome-Token-level-Model-Compression](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression)", which collects recent awesome token compression papers! Feel free to contribute your suggestions!
 
+## ✨ Overview
+
+<p align="center"> <img src="images/evolution.jpg" width="1000" align="center"> </p>
+
+> **TLDR:** The evolution of AI efficiency: from model-centric to data-centric compression.
+
+<p align="center"> <img src="images/overview.jpg" width="1000" align="center"> </p>
+
+> **TLDR:** This work provides a comprehensive review of token compression techniques, examining their development, methodologies, and applications across diverse scenarios..
+
+
+
 ## 📚 <span id="head1"> *Contents* </span>
 
 🖱️ Please click on each domain to explore the applications of token compression across different downstream scenarios.
