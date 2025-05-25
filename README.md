@@ -27,9 +27,7 @@
     - [Multi-Modal Domain](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/tree/main/Multi-modal%20Domain)
         - [Understanding](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/blob/main/Multi-modal%20Domain/Understanding.md)
         - [Generation](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/blob/main/Multi-modal%20Domain/Generation.md)
-    - [Other Domain](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/tree/main/Other%20Domain)
-        - [Understanding](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/blob/main/Other%20Domain/Understanding.md)
-        - [Generation](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/blob/main/Other%20Domain/Generation.md)
+    - [Audio&Speech Domain](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/blob/main/Audio%26Speech%20Domain/token-reduction-in-audio-speech-domain.md)
 
 
 ## 💬 <span id="head1"> *Keywords* </span>
