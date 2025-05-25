@@ -21,10 +21,6 @@
 
 > **TLDR:** The evolution of AI efficiency: from model-centric to data-centric compression.
 
-<p align="center"> <img src="images/overview.jpg" width="1000" align="center"> </p>
-
-> **TLDR:** This work provides a comprehensive review of token compression techniques, examining their development, methodologies, and applications across diverse scenarios..
-
 
 
 ## 📚 <span id="head1"> *Contents* </span>
