@@ -55,3 +55,7 @@
 <a href="https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=xuyang-liu16/Awesome-Token-level-Model-Compression" />
 </a>
+
+## ✨ Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=xuyang-liu16/Awesome-Token-level-Model-Compression&type=Timeline)](https://www.star-history.com/#xuyang-liu16/Awesome-Token-level-Model-Compression&Timeline)
