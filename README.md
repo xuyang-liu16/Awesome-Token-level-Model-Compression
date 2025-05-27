@@ -13,6 +13,8 @@
 
 ## 🔥 <span id="head1"> *News* </span>
 
+* **`2025/05/27`** 🙌🙌 We release a new [position](https://arxiv.org/abs/2505.19147), pointing to **shifting AI efficiency from model-centric to data-eentric compression**. [List of papers](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression) is available!
+
 * **`2024/12/24`** 🤗🤗 We release an open-sourse repo "[Awesome-Token-level-Model-Compression](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression)", which collects recent awesome token compression papers! Feel free to contribute your suggestions!
 
 ## ✨ Overview
