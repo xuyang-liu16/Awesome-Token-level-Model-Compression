@@ -291,3 +291,9 @@
   *Xiao Wang and Qingyi Si and Jianlong Wu and Shiyu Zhu and Li Cao and Liqiang Nie*
 
   [[Paper](https://arxiv.org/abs/2503.12559)] [[Code](https://github.com/SCZwangxiao/video-FlexReduc)] ![](https://img.shields.io/badge/AdaRETAKE-blue) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[49] Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models**, arXiv 2025.
+
+  *Liu, Xuyang and Wang, Yiyu and Ma, Junpeng and Zhang, Linfeng*
+
+  [[Paper](https://arxiv.org/abs/2505.14454)] [[Code](https://github.com/xuyang-liu16/VidCom2)] ![](https://img.shields.io/badge/VidCom2-blue) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
