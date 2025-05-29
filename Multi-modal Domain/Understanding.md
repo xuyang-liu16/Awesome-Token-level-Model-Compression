@@ -288,12 +288,26 @@
 
 - **[48] AdaRETAKE: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding**, arXiv 2025.
 
-  *Xiao Wang and Qingyi Si and Jianlong Wu and Shiyu Zhu and Li Cao and Liqiang Nie*
+  *Xiao Wang and Qingyi Si and Jianlong Wu and Shiyu Zhu and Li Cao and Liqiang Nie.*
 
   [[Paper](https://arxiv.org/abs/2503.12559)] [[Code](https://github.com/SCZwangxiao/video-FlexReduc)] ![](https://img.shields.io/badge/AdaRETAKE-blue) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[49] Video Compression Commander: Plug-and-Play Inference Acceleration for Video Large Language Models**, arXiv 2025.
 
-  *Liu, Xuyang and Wang, Yiyu and Ma, Junpeng and Zhang, Linfeng*
+  *Liu, Xuyang and Wang, Yiyu and Ma, Junpeng and Zhang, Linfeng.*
 
   [[Paper](https://arxiv.org/abs/2505.14454)] [[Code](https://github.com/xuyang-liu16/VidCom2)] ![](https://img.shields.io/badge/VidCom2-blue) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[50] VScan: Rethinking Visual Token Reduction for Efficient Large Vision-Language Models**, arXiv 2025.
+
+  *Zhang, Ce and Ma, Kaixin and Fang, Tianqing and Yu, Wenhao and Zhang, Hongming and Zhang, Zhisong and Xie, Yaqi and Sycara, Katia and Mi, Haitao and Yu, Dong.*
+
+  [[Paper](https://arxiv.org/abs/2505.22654)] [Code] ![](https://img.shields.io/badge/VScan-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Merging-orange)
+
+- **[51] Balanced Token Pruning: Accelerating Vision Language Models Beyond Local Optimization**, arXiv 2025.
+
+  *Li, Kaiyuan and Chen, Xiaoyue and Gao, Chen and Li, Yong and Chen, Xinlei.*
+
+  [[Paper](https://arxiv.org/abs/2505.22038)] [Code] ![](https://img.shields.io/badge/BTP-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+  
