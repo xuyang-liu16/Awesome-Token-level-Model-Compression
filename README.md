@@ -13,7 +13,7 @@
 
 ## 🔥 <span id="head1"> *News* </span>
 
-* **`2025/05/27`** 🙌🙌 We release a new [position](https://arxiv.org/abs/2505.19147), pointing to **shifting AI efficiency from model-centric to data-eentric compression**. [List of papers](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression) is available!
+* **`2025/05/27`** 🙌🙌 We release a new [paper](https://arxiv.org/abs/2505.19147), pointing to **shifting AI efficiency from model-centric to data-eentric compression**. [Project](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression) is available! Our paper is honored to be the [#2 Paper of the day](https://huggingface.co/papers/2505.19147)!
 
 * **`2024/12/24`** 🤗🤗 We release an open-sourse repo "[Awesome-Token-level-Model-Compression](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression)", which collects recent awesome token compression papers! Feel free to contribute your suggestions!
 
@@ -47,6 +47,18 @@
 
 * [Awesome Generation Acceleration](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration): An open-source repository that curates a collection of recent awesome papers on AIGC acceleration.
 
+## 📌 Citation
+
+Please consider citing our paper in your publications, if our findings help your research.
+
+```bibtex
+@article{liu2025shifting,
+  title={Shifting AI Efficiency From Model-Centric to Data-Centric Compression},
+  author={Liu, Xuyang and Wen, Zichen and Wang, Shaobo and Chen, Junjie and Tao, Zhishan and Wang, Yubo and Jin, Xiangqi and Zou, Chang and Wang, Yiyu and Liao, Chenfei and Zheng, Xu and Chen, Honggang and Li, Weijia and Hu, Xuming and He, Conghui and Zhang, Linfeng},
+  journal={arXiv preprint arXiv:2505.19147},
+  year={2025}
+}
+```
 
 ## 🧑‍💻 Contribution
 
