@@ -38,7 +38,7 @@
         - [Generation](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/blob/main/Multi-modal%20Domain/Generation.md)
     - [Audio&Speech Domain](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/blob/main/Audio%26Speech%20Domain/token-reduction-in-audio-speech-domain.md)
 
-## 📝 Paper Example
+## 📝 <span id="head1"> *Paper Example* </span>
 
 We use the following tags to summarize key information about each paper:
 
