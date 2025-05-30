@@ -4,7 +4,7 @@ Maintainers: [Junjie Chen](https://www.junjie-chen.info), [Xuyang Liu](https://x
 
 If your work is missing, please let us know by creating an issue or submitting a pull request.
 
-Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Application](https://img.shields.io/badge/Application-green) ![Reduction_Criteria](https://img.shields.io/badge/Reduction_Criteria-purple) ![Reduction_Mechanism](https://img.shields.io/badge/Reduction_Mechanism-orange) ![W./W.o._Training](https://img.shields.io/badge/W./W.o._Training-brown) ![Keywords](https://img.shields.io/badge/Keywords-yellow) 
+Color code: ![Abbreviation](https://img.shields.io/badge/Abbreviation-blue) ![Application](https://img.shields.io/badge/Application-green) ![Compression_Criteria](https://img.shields.io/badge/Compression_Criteria-purple) ![Compression_Mechanism](https://img.shields.io/badge/Compression_Mechanism-orange) ![W./W.o._Training](https://img.shields.io/badge/W./W.o._Training-brown) ![Keywords](https://img.shields.io/badge/Keywords-yellow) 
 
 ## 1999
 
