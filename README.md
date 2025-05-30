@@ -21,8 +21,7 @@
 
 <p align="center"> <img src="images/evolution.jpg" width="1000" align="center"> </p>
 
-> **TLDR:** In this work, we argue that **the focus of research for efficient AI is shifting from model-centric compression to datacentric compression**.
-
+> **TLDR:** In this work, we argue that **the focus of research for efficient AI is shifting from model-centric compression to datacentric compression**. To this end, we have compiled a comprehensive summary of **200+ papers** of token compression across various domains including vision, language, audio & speech, and multi-modal.
 
 
 ## 📚 <span id="head1"> *Contents* </span>
@@ -39,9 +38,34 @@
         - [Generation](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/blob/main/Multi-modal%20Domain/Generation.md)
     - [Audio&Speech Domain](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression/blob/main/Audio%26Speech%20Domain/token-reduction-in-audio-speech-domain.md)
 
+## 📝 Paper Example
 
-## 💬 <span id="head1"> *Keywords* </span>
+We use the following tags to summarize key information about each paper:
+
+- **[1] DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification**, NeurIPS 2021.
+  
+  *Rao, Yongming and Zhao, Wenliang and Liu, Benlin and Lu, Jiwen and Zhou, Jie and Hsieh, Cho-Jui.*
+
+  [[Paper](https://arxiv.org/abs/2106.02034)] [[Code](https://github.com/RaoYongming/DynamicViT)] ![](https://img.shields.io/badge/DynamicViT-blue) ![](https://img.shields.io/badge/Image_Recognition-green) ![](https://img.shields.io/badge/Video_Recognition-green) ![](https://img.shields.io/badge/Object_Detection-green) ![](https://img.shields.io/badge/Semantic_Segmentation-green) ![](https://img.shields.io/badge/Parametric-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+  <details> <summary>BibTex</summary>
+
+  ```text
+  @inproceedings{Rao2021:DynamicViT,
+    title={{DynamicViT}: Efficient Vision Transformers with Dynamic Token Sparsification},
+    author={Yongming Rao and Wenliang Zhao and Benlin Liu and Jiwen Lu and Jie Zhou and Cho{-}Jui Hsieh},
+    booktitle=NIPS,
+    volume={34},
+    pages={13937--13949},
+    year={2021}
+  }
+  ```
+  </details>  
+
+We have summarized detailed information about the paper's method abbreviation, downstream application tasks, compression method classification, BibTex reference format etc. through the following tags:
+
 ![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Downstream_Application-green)  ![](https://img.shields.io/badge/Parametric/Non_parametric-brown) ![](https://img.shields.io/badge/Compression_Criteria-purple) ![](https://img.shields.io/badge/Compression_Mechanism-orange)
+
 
 ## 💻 Related Works
 
