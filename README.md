@@ -19,7 +19,7 @@
 
 ## ✨ Overview
 
-<p align="center"> <img src="images/evolution.jpg" width="1000" align="center"> </p>
+<p align="center"> <img src="images/evolution.png" width="1000" align="center"> </p>
 
 > **TLDR:** In this work, we argue that **the focus of research for efficient AI is shifting from model-centric compression to datacentric compression**. To this end, we have compiled a comprehensive summary of **200+ papers** of token-level model compression.
 
