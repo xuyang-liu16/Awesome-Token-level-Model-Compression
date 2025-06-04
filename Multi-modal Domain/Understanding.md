@@ -126,7 +126,7 @@
 
   *Chen, Liang and Zhao, Haozhe and Liu, Tianyu and Bai, Shuai and Lin, Junyang and Zhou, Chang and Chang, Baobao.*
 
-  [[Paper](https://arxiv.org/pdf/2403.06764)] [[Code](https://github.com/pkunlp-icler/FastV)] ![](https://img.shields.io/badge/FastV-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  [[Paper](https://arxiv.org/abs/2403.06764)] [[Code](https://github.com/pkunlp-icler/FastV)] ![](https://img.shields.io/badge/FastV-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[22] Treat Visual Tokens as Text? But Your MLLM Only Needs Fewer Efforts to See**, arXiv 2024.
 
@@ -284,7 +284,7 @@
 
   *Zichen Wen and Yifeng Gao and Shaobo Wang and Junyuan Zhang and Qintong Zhang and Weijia Li and Conghui He and Linfeng Zhang*
 
-  [[Paper](https://arxiv.org/pdf/2502.11494)] [[Code](https://github.com/ZichenWen1/DART)] ![](https://img.shields.io/badge/DART-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+  [[Paper](https://arxiv.org/abs/2502.11494)] [[Code](https://github.com/ZichenWen1/DART)] ![](https://img.shields.io/badge/DART-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
 - **[48] AdaRETAKE: Adaptive Redundancy Reduction to Perceive Longer for Video-language Understanding**, arXiv 2025.
 
