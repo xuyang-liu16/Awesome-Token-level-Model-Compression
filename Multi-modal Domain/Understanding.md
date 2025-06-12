@@ -310,4 +310,10 @@
 
   [[Paper](https://arxiv.org/abs/2505.22038)] [Code] ![](https://img.shields.io/badge/BTP-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
 
+- **[52] EffiVLM-Bench: A Comprehensive Benchmark for Evaluating Training-Free Acceleration in Large Visual-Languge Models**, ACL 2025.
+
+  *Zekun Wang, MingHua Ma, Zexin Wang, Rongchuan Mu, liping shan, Ming Liu, Bing Qin.*
+
+  [[Paper](https://arxiv.org/abs/2506.00479)] [[Code](https://github.com/EffiVLM-Bench/EffiVLM-Bench)] ![](https://img.shields.io/badge/EffiVLM_Bench-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown)
+
   
