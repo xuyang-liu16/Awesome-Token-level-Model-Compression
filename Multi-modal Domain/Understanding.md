@@ -316,4 +316,9 @@
 
   [[Paper](https://arxiv.org/abs/2506.00479)] [[Code](https://github.com/EffiVLM-Bench/EffiVLM-Bench)] ![](https://img.shields.io/badge/EffiVLM_Bench-blue) ![](https://img.shields.io/badge/Visual_Question_Answering-green) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown)
 
+- **[53] LLaVA-Scissor: Token Compression with Semantic Connected Components for Video LLMs**, arXiv 2025.
+
+  *Sun Boyuan and Zhao Jiaxing and Wei Xihan and Hou Qibin.*
+
+  [[Paper](https://arxiv.org/abs/2506.21862)] [[Code](https://github.com/HumanMLLM/LLaVA-Scissor)] ![](https://img.shields.io/badge/LLaVAScissor-blue) ![](https://img.shields.io/badge/VideoQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange) ![](https://img.shields.io/badge/Token_Merging-orange)
   
