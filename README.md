@@ -8,12 +8,11 @@
 [![Last Commit](https://img.shields.io/github/last-commit/xuyang-liu16/Awesome-Token-level-Model-Compression.svg?style=flat&color=orange)](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression)
 [![GitHub](https://img.shields.io/github/stars/xuyang-liu16/Awesome-Token-level-Model-Compression.svg?style=social)](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression.git)  
 
-
 </div>
 
 ## 🔥 <span id="head1"> *News* </span>
 
-* **`2025/05/27`** 🙌🙌 We release a new [paper](https://arxiv.org/abs/2505.19147), pointing to **shifting AI efficiency from model-centric to data-eentric compression**. [Project](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression) is available! Our paper is honored to be the [#2 Paper of the day](https://huggingface.co/papers/2505.19147)!
+* **`2025/05/27`** 🙌🙌 We release a new [paper](https://arxiv.org/abs/2505.19147), pointing to **shifting AI efficiency from model-centric to data-centric compression**, along with a **systematic introduction** of the roadmap for token compression.
 
 * **`2024/12/24`** 🤗🤗 We release an open-sourse repo "[Awesome-Token-level-Model-Compression](https://github.com/xuyang-liu16/Awesome-Token-level-Model-Compression)", which collects recent awesome token compression papers! Feel free to contribute your suggestions!
 
@@ -67,9 +66,6 @@ We have summarized detailed information about the paper's method abbreviation, d
 ![](https://img.shields.io/badge/Method_Abbreviation-blue) ![](https://img.shields.io/badge/Downstream_Application-green)  ![](https://img.shields.io/badge/Parametric/Non_parametric-brown) ![](https://img.shields.io/badge/Compression_Criteria-purple) ![](https://img.shields.io/badge/Compression_Mechanism-orange)
 
 
-## 💻 Related Works
-
-* [Awesome Generation Acceleration](https://github.com/xuyang-liu16/Awesome-Generation-Acceleration): An open-source repository that curates a collection of recent awesome papers on AIGC acceleration.
 
 ## 📌 Citation
 
