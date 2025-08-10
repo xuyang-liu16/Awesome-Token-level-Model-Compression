@@ -464,6 +464,14 @@
   ```
   </details>  
 
+### 2025
+
+- **[1] TR-PTS: Task-Relevant Parameter and Token Selection for Efficient Tuning**, ICCV 2025.
+
+  *Luo, Siqi and Yang, Haoran and Xin, Yi and Yi, Mingyang and Wu, Guangyang and Zhai, Guangtao and Liu, Xiaohon.*
+  
+  [[Paper](https://arxiv.org/abs/2507.22872)] [[Code](https://github.com/synbol/TR-PTS)] ![](https://img.shields.io/badge/TR_PTS-blue) ![](https://img.shields.io/badgeImage_Classification-green) ![](https://img.shields.io/badge/Parametric-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
   
 
 ### Video Recognition:
@@ -808,7 +816,6 @@
   *Chenlong Xu and Bineng Zhong and Qihua Liang and Yaozong Zheng and Guorong Li and Shuxiang Song.*
   
   [[Paper](https://arxiv.org/abs/2501.00758)] [[Code](https://github.com/XuChenLong/LMTrack)] ![](https://img.shields.io/badge/LMTrack-blue) ![](https://img.shields.io/badge/Object_Tracking-green) ![](https://img.shields.io/badge/Parametric-brown) ![](https://img.shields.io/badge/Token_Pruning-orange)
-
 
 
   
