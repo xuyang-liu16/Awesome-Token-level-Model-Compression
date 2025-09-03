@@ -344,4 +344,10 @@
 
   *Xiong, Minhao and Wen, Zichen and Gu, Zhuangcheng and Liu, Xuyang and Zhang, Rui and Kang, Hengrui and Yang, Jiabing and Zhang, Junyuan and Li, Weijia and He, Conghui and Wang, Yafei and Zhang, Linfeng*
 
-    [[Paper](https://arxiv.org/pdf/2508.13305)] [[Code](https://github.com/qqqqiiuuss/Prune2Drive)] ![](https://img.shields.io/badge/Prune2Drive-blue) ![](https://img.shields.io/badgeVQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange) 
+    [[Paper](https://arxiv.org/pdf/2508.13305)] [[Code](https://github.com/qqqqiiuuss/Prune2Drive)] ![](https://img.shields.io/badge/Prune2Drive-blue) ![](https://img.shields.io/badgeVQA-green) ![](https://img.shields.io/badge/Training_Free-brown) ![](https://img.shields.io/badge/Similarity_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+- **[58] A Glimpse to Compress: Dynamic Visual Token Pruning for Large Vision-Language Models**, arXiv 2025.
+
+  *Quan-Sheng, Zeng and Yunheng, Li and Qilong, Wang and Peng-Tao, Jiang and Zuxuan, Wu and Ming-Ming, Cheng and Qibin, Hou*
+
+  [[Paper](https://arxiv.org/abs/2508.01548)] [[Code](https://github.com/HVision-NKU/GlimpsePrune)] ![](https://img.shields.io/badge/GlimpsePrune-blue) ![](https://img.shields.io/badgeVQA-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
