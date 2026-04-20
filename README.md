@@ -39,6 +39,8 @@
 
 ## 📝 <span id="head1"> *Paper Example* </span>
 
+- **OneComp** (arXiv 2026) — LLM PTQ pipeline with vLLM plugin. Related work on weight compression. [[Paper](https://arxiv.org/abs/2603.28845)] [[Code](https://github.com/FujitsuResearch/OneCompression)]
+
 We use the following tags to summarize key information about each paper:
 
 - **[1] DynamicViT: Efficient Vision Transformers with Dynamic Token Sparsification**, NeurIPS 2021.
