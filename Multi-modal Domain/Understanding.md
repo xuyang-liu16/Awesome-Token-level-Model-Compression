@@ -351,3 +351,16 @@
   *Quan-Sheng, Zeng and Yunheng, Li and Qilong, Wang and Peng-Tao, Jiang and Zuxuan, Wu and Ming-Ming, Cheng and Qibin, Hou*
 
   [[Paper](https://arxiv.org/abs/2508.01548)] [[Code](https://github.com/HVision-NKU/GlimpsePrune)] ![](https://img.shields.io/badge/GlimpsePrune-blue) ![](https://img.shields.io/badgeVQA-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Attention_Based-purple) ![](https://img.shields.io/badge/Token_Pruning-orange)
+
+### 2026
+- **[59] VideoChat3: Fully Open Video MLLM for Efficient and Generalist Video Understanding**, arXiv 2026.
+
+  *Li, Xinhao and Zhu, Yuhan and Zeng, Xiangyu and Dong, Yuhao and Wu, Haoning and Zhang, Zhiqiu and Yang, Yuandong and Ma, Changlian and Zhang, Qingyu and Shi, Yansong and Chen, Xinyu and Chen, Haoran and Huang, Zizheng and Zhang, Jun and Ouyang, Kun and Sui, Lin and Yan, Ziang and Xu, Yicheng and Wang, Chenting and He, Yinan and Zhang, Hongjie and Wang, Yi and Qiao, Yu and Wang, Yali and Liu, Ziwei and Chen, Kai and Wang, Limin.*
+
+  [[Paper](https://arxiv.org/abs/2607.14935)] [[Code](https://github.com/MCG-NJU/VideoChat3)] ![](https://img.shields.io/badge/VideoChat3-blue) ![](https://img.shields.io/badge/Video_Understanding-green) ![](https://img.shields.io/badge/Streaming_Video_Understanding-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Adaptive_Frame_Resolution-purple) ![](https://img.shields.io/badge/Spatiotemporal_Tokenization-orange)
+
+- **[60] OneStreamer: Unifying Perception, Memory, and Proactive Response in Streaming Video Interaction**, arXiv 2026.
+
+  *Zeng, Xiangyu and Yang, Yuandong and Zhang, Zhiqiu and Zhu, Yuhan and Li, Xinhao and Si, Qingyi and Yao, Dingyu and Ma, Changlian and Chen, Haoran and Chen, Xinyu and Shi, Yansong and Zhou, Junhao and Li, Yifei and Zhang, Jun and Qin, Chuanyu and Yang, Chenxu and Yu, Xinlei and Ouyang, Kun and Shao, Yuchen and Wei, Qianshan and Zhou, Changhai and Gao, Jun and Wang, Jiaqi and Wang, Limin.*
+
+  [[Paper](https://arxiv.org/abs/2610.01762)] [[Code](https://github.com/MCG-NJU/OneStreamer)] ![](https://img.shields.io/badge/OneStreamer-blue) ![](https://img.shields.io/badge/Streaming_Video_Understanding-green) ![](https://img.shields.io/badge/Training_Based-brown) ![](https://img.shields.io/badge/Memory_Based-purple) ![](https://img.shields.io/badge/Caption_Memory-orange)
